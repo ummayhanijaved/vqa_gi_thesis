@@ -1,0 +1,6 @@
+Stage,Model,Total Params,Trainable,Test Acc,Best Metric
+Preprocessing,CLAHE+Gamma+Aug / DistilBERT tok,—,—,—,—
+Stage 1,ResNet50+MLP (Disease Classifier),24.2M,0.7M,96.86%,99.25% F1
+Stage 2,DistilBERT (Question Categoriser),67.0M,67.0M,93.01%,88.64% F1
+Stage 3,CrossAttn+DiseaseGate+FusionMLP,93.7M,3.2M,92.33%,87.47% F1
+Stage 4,6 Specialised Answer Heads,0.9M,0.9M,73.97%,—

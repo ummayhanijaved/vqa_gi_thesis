@@ -1,0 +1,9 @@
+Class,Precision,Recall,F1,Support
+yes/no,0.91,0.88,0.89,4657
+single-choice,0.82,0.84,0.83,2618
+multiple-choice,0.53,0.69,0.6,377
+color,1.0,1.0,1.0,1912
+location,1.0,1.0,1.0,3192
+numerical count,1.0,1.0,1.0,3199
+— macro avg —,0.88,0.9,0.89,15955
+— weighted avg —,0.93,0.93,0.93,15955

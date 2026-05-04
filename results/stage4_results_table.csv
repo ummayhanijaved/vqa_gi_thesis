@@ -1,0 +1,7 @@
+Route,Test Acc,Support,Error Rate
+yes/no,1.0,4699,0.0
+single-choice,0.5059,2643,0.4941
+multiple-choice,0.3333,309,0.6667000000000001
+color,0.7997,1498,0.20030000000000003
+location,0.8806,2312,0.11939999999999995
+numerical count,0.5405,4494,0.4595
