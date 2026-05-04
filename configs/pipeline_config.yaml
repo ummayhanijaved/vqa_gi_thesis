@@ -1,0 +1,106 @@
+# =============================================================================
+# Pipeline Configuration
+# Thesis: Advancing Medical AI with Explainable VQA on GI Imaging
+# =============================================================================
+
+project:
+  name        : "VQA-GI-Thesis"
+  author      : "Ummay Hani Javed"
+  student_id  : "24i-8211"
+  seed        : 42
+
+paths:
+  data_dir    : "./data/kvasir_local"
+  raw_images  : "./data/kvasir_raw/images"
+  vocab_file  : "./data/stage4_vocab.json"
+  checkpoints : "./checkpoints"
+  logs        : "./logs"
+  figures     : "./figures"
+  results     : "./results"
+
+dataset:
+  name        : "SimulaMet/Kvasir-VQA-x1"
+  n_train     : 143594
+  n_test      : 15955
+  n_images    : 6500
+  n_diseases  : 23
+  n_qtypes    : 6
+
+stage1:
+  model       : "ResNet50+TreeNet"
+  n_classes   : 23
+  epochs      : 20
+  batch_size  : 32
+  lr          : 1.0e-4
+  checkpoint  : "stage1_best.pt"
+  best_val_f1 : 0.9925
+  test_acc    : 0.9686
+
+stage2:
+  model       : "DistilBERT"
+  n_classes   : 6
+  epochs      : 10
+  batch_size  : 32
+  lr          : 2.0e-5
+  checkpoint  : "best_model"
+  test_acc    : 0.9301
+
+stage3:
+  model       : "CrossAttn+DiseaseGate+FusionMLP"
+  fused_dim   : 512
+  visual_dim  : 2048
+  text_dim    : 768
+  disease_dim : 23
+  epochs      : 15
+  batch_size  : 32
+  lr          : 2.0e-4
+  checkpoint  : "stage3_best.pt"
+  best_val_acc: 0.9250
+  test_acc    : 0.9233
+
+stage4:
+  model       : "6 Specialised Answer Heads"
+  head_input  : 535
+  head_hidden : 256
+  dropout     : 0.2
+  epochs      : 20
+  batch_size  : 64
+  lr          : 3.0e-4
+  checkpoint  : "stage4_best.pt"
+  best_val_acc: 0.7411
+  test_acc    : 0.7397
+  vocab_single: 200
+  vocab_multi : 150
+
+question_types:
+  0: "yes/no"
+  1: "single-choice"
+  2: "multiple-choice"
+  3: "color"
+  4: "location"
+  5: "numerical count"
+
+disease_classes:
+  0 : "Polyp (Pedunculated)"
+  1 : "Polyp (Sessile)"
+  2 : "Polyp (Hyperplastic)"
+  3 : "Esophagitis"
+  4 : "Gastritis"
+  5 : "Ulcerative Colitis"
+  6 : "Crohn's Disease"
+  7 : "Barrett's Esophagus"
+  8 : "Gastric Ulcer"
+  9 : "Duodenal Ulcer"
+  10: "Erosion"
+  11: "Hemorrhoids"
+  12: "Diverticulosis"
+  13: "Normal Cecum"
+  14: "Normal Pylorus"
+  15: "Normal Z-Line"
+  16: "Ileocecal Valve"
+  17: "Retroflex Rectum"
+  18: "Retroflex Stomach"
+  19: "Dyed Lifted Polyp"
+  20: "Dyed Resection Margin"
+  21: "Foreign Body"
+  22: "Instrument"
