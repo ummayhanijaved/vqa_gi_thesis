@@ -1,0 +1,212 @@
+(hani_env) (base) khuram@khuramshahzad:~$ 
+(hani_env) (base) khuram@khuramshahzad:~$ rm stage2_question_categorizer.py
+(hani_env) (base) khuram@khuramshahzad:~$ nano stage2_question_categorizer.py
+(hani_env) (base) khuram@khuramshahzad:~$ python stage2_question_categorizer.py --mode train
+📦  Loading Kvasir-VQA-x1 from HuggingFace …
+   Columns : ['image', 'complexity', 'question', 'answer', 'original', 'question_class', 'img_id']
+   Sample  : q='Are there any abnormalities, polyps, or anatomical landmarks visible in the image?'  a='Evidence of oesophagitis is present with no polyps identified and the z-line is visible.'
+   Train : 114,875  |  Val : 28,719  |  Test : 15,955
+   [train] single-choice=42695  multiple-choice=12431  color=13730  location=23153  numerical count=22866
+   [val] single-choice=10674  multiple-choice=3107  color=3433  location=5788  numerical count=5717
+   [test] single-choice=5913  multiple-choice=1739  color=1912  location=3192  numerical count=3199
+Loading weights: 100%|█| 100/100 [00:00<00:00, 9237.13it/s, Materializing param=distilbert.t
+DistilBertForSequenceClassification LOAD REPORT from: distilbert-base-uncased
+Key                     | Status     | 
+------------------------+------------+-
+vocab_projector.bias    | UNEXPECTED | 
+vocab_layer_norm.bias   | UNEXPECTED | 
+vocab_transform.bias    | UNEXPECTED | 
+vocab_transform.weight  | UNEXPECTED | 
+vocab_layer_norm.weight | UNEXPECTED | 
+pre_classifier.weight   | MISSING    | 
+classifier.bias         | MISSING    | 
+classifier.weight       | MISSING    | 
+pre_classifier.bias     | MISSING    | 
+
+Notes:
+- UNEXPECTED	:can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+- MISSING	:those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+🧠  Parameters : 66,958,086
+Traceback (most recent call last):
+  File "/home/khuram/stage2_question_categorizer.py", line 485, in <module>
+    train()
+  File "/home/khuram/stage2_question_categorizer.py", line 311, in train
+    class_weights = compute_class_weights(train_df)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/khuram/stage2_question_categorizer.py", line 232, in compute_class_weights
+    weights = compute_class_weight(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/khuram/hani_env/lib/python3.12/site-packages/sklearn/utils/_param_validation.py", line 218, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/khuram/hani_env/lib/python3.12/site-packages/sklearn/utils/class_weight.py", line 77, in compute_class_weight
+    raise ValueError("classes should have valid labels that are in y")
+ValueError: classes should have valid labels that are in y
+(hani_env) (base) khuram@khuramshahzad:~$ rm stage2_question_categorizer.py
+(hani_env) (base) khuram@khuramshahzad:~$ nano stage2_question_categorizer.py
+(hani_env) (base) khuram@khuramshahzad:~$ python stage2_question_categorizer.py --mode train
+📦  Loading Kvasir-VQA-x1 from HuggingFace …
+   Columns : ['image', 'complexity', 'question', 'answer', 'original', 'question_class', 'img_id']
+   Sample  : q='Are there any abnormalities, polyps, or anatomical landmarks visible in the image?'  a='Evidence of oesophagitis is present with no polyps identified and the z-line is visible.'
+   Train : 114,875  |  Val : 28,719  |  Test : 15,955
+   [train] yes/no=33250  single-choice=19009  multiple-choice=2867  color=13730  location=23153  numerical count=22866
+   [val] yes/no=8313  single-choice=4752  multiple-choice=716  color=3433  location=5788  numerical count=5717
+   [test] yes/no=4657  single-choice=2618  multiple-choice=377  color=1912  location=3192  numerical count=3199
+Loading weights: 100%|█| 100/100 [00:00<00:00, 8812.67it/s, Materializing param=distilbert.t
+DistilBertForSequenceClassification LOAD REPORT from: distilbert-base-uncased
+Key                     | Status     | 
+------------------------+------------+-
+vocab_transform.weight  | UNEXPECTED | 
+vocab_projector.bias    | UNEXPECTED | 
+vocab_layer_norm.bias   | UNEXPECTED | 
+vocab_transform.bias    | UNEXPECTED | 
+vocab_layer_norm.weight | UNEXPECTED | 
+pre_classifier.bias     | MISSING    | 
+classifier.bias         | MISSING    | 
+pre_classifier.weight   | MISSING    | 
+classifier.weight       | MISSING    | 
+
+Notes:
+- UNEXPECTED	:can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+- MISSING	:those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+🧠  Parameters : 66,958,086
+⚖️   Class weights: {'yes/no': 0.576, 'single-choice': 1.007, 'multiple-choice': 6.678, 'color': 1.394, 'location': 0.827, 'numerical count': 0.837}
+
+🚀  Training on CUDA  |  FP16=True
+============================================================
+Epoch 01/10  | tr_loss=0.3581  tr_acc=0.8860  | va_loss=0.2616  va_acc=0.9231  va_f1=0.8783                                                                                              
+Writing model shards: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00,  5.30it/s]
+   ✅  New best val_acc=0.9231  → ./checkpoints/best_model
+Epoch 02/10  | tr_loss=0.2388  tr_acc=0.9239  | va_loss=0.2355  va_acc=0.9234  va_f1=0.8835                                                                                              
+Writing model shards: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00,  4.07it/s]
+   ✅  New best val_acc=0.9234  → ./checkpoints/best_model
+Epoch 03/10  | tr_loss=0.2232  tr_acc=0.9276  | va_loss=0.2496  va_acc=0.9251  va_f1=0.8843                                                                                              
+Writing model shards: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00,  4.13it/s]
+   ✅  New best val_acc=0.9251  → ./checkpoints/best_model
+Epoch 04/10  | tr_loss=0.2136  tr_acc=0.9307  | va_loss=0.2255  va_acc=0.9255  va_f1=0.8837                                                                                              
+Writing model shards: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00,  4.05it/s]
+   ✅  New best val_acc=0.9255  → ./checkpoints/best_model
+Epoch 05/10  | tr_loss=0.2024  tr_acc=0.9324  | va_loss=0.2524  va_acc=0.9277  va_f1=0.8886                                                                                              
+Writing model shards: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00,  4.05it/s]
+   ✅  New best val_acc=0.9277  → ./checkpoints/best_model
+Epoch 06/10  | tr_loss=0.1950  tr_acc=0.9348  | va_loss=0.2644  va_acc=0.9269  va_f1=0.8884                                                                                              
+   ⏳  No improvement (1/3)
+Epoch 07/10  | tr_loss=0.1860  tr_acc=0.9363  | va_loss=0.2790  va_acc=0.9277  va_f1=0.8885                                                                                              
+   ⏳  No improvement (2/3)
+Epoch 08/10  | tr_loss=0.1781  tr_acc=0.9378  | va_loss=0.2722  va_acc=0.9268  va_f1=0.8883                                                                                              
+   ⏳  No improvement (3/3)
+
+🛑  Early stopping at epoch 8.
+
+============================================================
+📊  Test evaluation …
+Loading weights: 100%|████████████████████████████████████████████████████████████████████████████████████| 104/104 [00:00<00:00, 8595.90it/s, Materializing param=pre_classifier.weight]
+   Test Accuracy : 0.9301   Macro-F1 : 0.8864                                                                                                                                            
+
+                 precision    recall  f1-score   support
+
+         yes/no       0.91      0.88      0.89      4657
+  single-choice       0.82      0.84      0.83      2618
+multiple-choice       0.53      0.69      0.60       377
+          color       1.00      1.00      1.00      1912
+       location       1.00      1.00      1.00      3192
+numerical count       1.00      1.00      1.00      3199
+
+       accuracy                           0.93     15955
+      macro avg       0.88      0.90      0.89     15955
+   weighted avg       0.93      0.93      0.93     15955
+
+📈  Saved training curves → ./logs/training_curves.png
+📉  Saved confusion matrix → ./logs/confusion_matrix.png
+
+✅  Done.  Best val_acc = 0.9277
+(hani_env) (base) khuram@khuramshahzad:~$ python stage2_question_categorizer.py --mode eval --checkpoint ./checkpoints/best_model
+📦  Loading Kvasir-VQA-x1 from HuggingFace …
+   Columns : ['image', 'complexity', 'question', 'answer', 'original', 'question_class', 'img_id']
+   Sample  : q='Are there any abnormalities, polyps, or anatomical landmarks visible in the image?'  a='Evidence of oesophagitis is present with no polyps identified and the z-line is visible.'
+   Train : 114,875  |  Val : 28,719  |  Test : 15,955
+   [train] yes/no=33250  single-choice=19009  multiple-choice=2867  color=13730  location=23153  numerical count=22866
+   [val] yes/no=8313  single-choice=4752  multiple-choice=716  color=3433  location=5788  numerical count=5717
+   [test] yes/no=4657  single-choice=2618  multiple-choice=377  color=1912  location=3192  numerical count=3199
+Loading weights: 100%|████████████████████████████████████████████████████████████████████████████████████| 104/104 [00:00<00:00, 7671.61it/s, Materializing param=pre_classifier.weight]
+Traceback (most recent call last):
+  File "/home/khuram/stage2_question_categorizer.py", line 502, in <module>
+    _, test_loader = build_loaders(
+                     ^^^^^^^^^^^^^^
+  File "/home/khuram/stage2_question_categorizer.py", line 193, in build_loaders
+    train_loader = DataLoader(
+                   ^^^^^^^^^^^
+  File "/home/khuram/hani_env/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 388, in __init__
+    sampler = RandomSampler(dataset, generator=generator)  # type: ignore[arg-type]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/khuram/hani_env/lib/python3.12/site-packages/torch/utils/data/sampler.py", line 162, in __init__
+    raise ValueError(
+ValueError: num_samples should be a positive integer value, but got num_samples=0
+(hani_env) (base) khuram@khuramshahzad:~$ python stage2_question_categorizer.py --mode infer --question "How many polyps are visible?"
+Loading weights: 100%|████████████████████████████████████████████████████████████████████████████████████| 104/104 [00:00<00:00, 7204.57it/s, Materializing param=pre_classifier.weight]
+✅  Predictor loaded from ./checkpoints/best_model
+
+Question  : How many polyps are visible?
+Predicted : numerical count  (id=5)
+Confidence: 100.00%
+  yes/no                0.0000  
+  single-choice         0.0000  
+  multiple-choice       0.0000  
+  color                 0.0000  
+  location              0.0000  
+  numerical count       1.0000  ███████████████████████████████████████
+(hani_env) (base) khuram@khuramshahzad:~$ nano stage2_analysis.py
+(hani_env) (base) khuram@khuramshahzad:~$ python stage2_analysis.py
+
+📊  Generating all thesis figures and tables …
+
+
+===========================================================================
+EPOCH-BY-EPOCH TRAINING LOG
+Epoch   Tr Loss   Tr Acc   Va Loss   Va Acc    Va F1  Note
+---------------------------------------------------------------------------
+    1    0.3581   88.60%    0.2616   92.31%   0.8783  
+    2    0.2388   92.39%    0.2355   92.34%   0.8835  
+    3    0.2232   92.76%    0.2496   92.51%   0.8843  
+    4    0.2136   93.07%    0.2255   92.55%   0.8837  
+    5    0.2024   93.24%    0.2524   92.77%   0.8886  ← best
+    6    0.1950   93.48%    0.2644   92.69%   0.8884  
+    7    0.1860   93.63%    0.2790   92.77%   0.8885  
+    8    0.1781   93.78%    0.2722   92.68%   0.8883  
+===========================================================================
+
+✅  Saved: ./logs/epoch_log.csv
+
+=================================================================
+STAGE 2 TEST SET RESULTS  (DistilBERT fine-tuned, 8 epochs)
+=================================================================
+           Class  Precision  Recall   F1  Support
+          yes/no       0.91    0.88 0.89     4657
+   single-choice       0.82    0.84 0.83     2618
+ multiple-choice       0.53    0.69 0.60      377
+           color       1.00    1.00 1.00     1912
+        location       1.00    1.00 1.00     3192
+ numerical count       1.00    1.00 1.00     3199
+   — macro avg —       0.88    0.90 0.89    15955
+— weighted avg —       0.93    0.93 0.93    15955
+
+  Overall Accuracy : 93.01%
+  Macro-F1         : 0.8864
+  Best Val Acc     : 92.77%  (Epoch 5, early stopping at 8)
+=================================================================
+
+✅  Saved: ./logs/results_table.csv
+✅  Saved: ./logs/fig_training_curves.png
+✅  Saved: ./logs/fig_per_class_f1.png
+✅  Saved: ./logs/fig_class_distribution.png
+Loading weights: 100%|████████████████████████████████████████████████████████████████████████████████████| 104/104 [00:00<00:00, 8707.26it/s, Materializing param=pre_classifier.weight]
+✅  Saved: ./logs/fig_confusion_matrix.png
+
+✅  All outputs saved to ./logs/
+    fig_training_curves.png   — training dynamics (3-panel)
+    fig_per_class_f1.png      — per-class F1 bar chart
+    fig_class_distribution.png — dataset class balance
+    fig_confusion_matrix.png  — normalised + raw CM
+    results_table.csv         — precision/recall/F1 table
+    epoch_log.csv             — full epoch-by-epoch log
+

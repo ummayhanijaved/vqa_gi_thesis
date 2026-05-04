@@ -1,0 +1,80 @@
+Started: Mon Mar  9 04:26:55 PM CET 2026
+💾  Disk space check:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p5  492G  442G   25G  95% /
+
+  ~/data  : 11G
+  ~/logs  : 26M
+
+  Proceed with migration? (y/n): 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Step 1 — Data folder
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🔗  Removing symlink at /home/khuram/vqa_gi_thesis/data/kvasir_local
+
+  📦  Copying: Kvasir HuggingFace dataset
+      From: /home/khuram/data/kvasir_local
+      To  : /home/khuram/vqa_gi_thesis/data/kvasir_local
+      Size: 11G
+  ✅  Done: Kvasir HuggingFace dataset
+  🔗  Removing symlink at /home/khuram/vqa_gi_thesis/data/kvasir_raw
+
+  📦  Copying: Kvasir raw images
+      From: /home/khuram/data/kvasir_raw
+      To  : /home/khuram/vqa_gi_thesis/data/kvasir_raw
+      Size: 749M
+  ✅  Done: Kvasir raw images
+  ✅  Copied file: Stage4 vocab v1
+  ⚠️  SKIP: Stage4 vocab v2 — not found (/home/khuram/data/stage4_vocab_v2.json)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Step 2 — Logs & figures
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✅  ALREADY EXISTS: All logs & figures (/home/khuram/vqa_gi_thesis/logs) — skipping copy
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Step 3 — Python scripts from ~/
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✅  Copied file: preprocessing.py
+  ✅  Copied file: stage1_disease_classifier.py
+  ✅  Copied file: stage2_question_categorizer.py
+  ✅  Copied file: stage3_multimodal_fusion.py
+  ✅  Copied file: stage4_answer_generation.py
+  ⚠️  SKIP: stage4_improved.py — not found (/home/khuram/stage4_improved.py)
+  ✅  Copied file: explainability.py
+  ✅  Copied file: evaluate_pipeline.py
+  ✅  Copied file: baseline_comparison.py
+  ✅  Copied file: stage4_extended_analysis.py
+  ⚠️  SKIP: chat.py — not found (/home/khuram/chat.py)
+  ✅  Copied file: stage1_analysis.py
+  ✅  Copied file: stage2_analysis.py
+  ✅  Copied file: stage3_analysis.py
+  ✅  Copied file: stage3_extended_analysis.py
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Step 4 — Verify structure
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✅  data/kvasir_local (11G)
+  ✅  data/kvasir_raw (749M)
+  ✅  data/stage4_vocab.json (20K)
+  ✅  checkpoints/stage1_best.pt (93M)
+  ✅  checkpoints/stage3_best.pt (358M)
+  ✅  checkpoints/stage4_best.pt (3.6M)
+  ✅  logs/ (8.0K)
+  ✅  src/preprocessing.py (24K)
+  ✅  src/stage4_improved.py (32K)
+  ✅  src/explainability.py (36K)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Step 5 — Final project size
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+12G	/home/khuram/vqa_gi_thesis
+
+✅  Migration complete!
+   Finished: Mon Mar  9 04:27:14 PM CET 2026
+
+  Next steps:
+  1. Test: cd ~/vqa_gi_thesis && python tests/test_pipeline.py
+  2. Once verified, you can safely delete ~/data and ~/logs
+     (DON'T delete until tests pass!)
+
