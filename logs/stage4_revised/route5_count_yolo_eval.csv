@@ -1,0 +1,501 @@
+prediction,ground_truth
+1,"No polyps are observed, multiple colors including pink, red, and white are present, and no instruments are visible."
+1,"One abnormal finding identified, no instruments visible"
+1,"No text is visible, one finding is present, and no polyps are identified."
+1,"No polyps remain, multiple colored lesions are present, and no instruments are visible."
+1,No visible abnormalities detected. No instruments observed in the field.
+1,Colonoscopic examination reveals a single identified abnormality.
+1,No polyps are visible with no significant findings noted.
+2,"No instruments are visible, text is present, and green and black box artifacts are observed."
+1,one polyp identified
+1,One instrument is visible with a single finding observed during a colonoscopy procedure.
+2,Evidence of gastroscopy with two distinct findings observed.
+1,"Some polyps remain, with the largest measuring 5 to 10 millimeters in size."
+1,The abnormality appears flesh-colored with a single finding and one polyp observed.
+0,"Two findings are noted, including pink and white abnormalities, with no visible polyp size."
+1,Three distinct pathological findings observed
+1,"No polyps observed, and no instruments visible in the field."
+1,Three surgical instruments noted
+2,No polyp detected and no anatomical landmarks identified
+1,one identified abnormality
+1,Evidence of colonoscopy with a single endoscopic instrument visible
+1,one distinct abnormal finding
+1,"Abnormalities show pink, red, and white areas with no green or black box artefacts and two distinct findings."
+1,"No text is visible, the polyp measures 5 to 10 millimeters, and no instrument is present in the image."
+1,"Evidence of a green/black box artefact is noted, with a polyp measuring 11 to 20 millimeters in size, consistent with a Paris classification polyp."
+2,No text detected and no surgical instruments observed
+1,"No polyps remain, one finding is identified, and one instrument is present."
+0,single polyp identified
+1,No instruments or anatomical landmarks are visible in the image.
+0,"No green or black box artifacts identified, with two separate findings noted."
+1,One polyp identified
+1,"There is a green/black box artefact, one finding is present, and a Paris type polyp is identified."
+1,One polyp measuring 11 to 20 millimeters with red and pink discoloration is present.
+1,The image is from a colonoscopy showing a polyp measuring 11 to 20 millimeters with red and pink colored lesions.
+1,One notable finding present
+1,one abnormal finding present
+1,"Text is visible, the image is from a colonoscopy, and one abnormal finding is present."
+1,polyp measures less than 5 millimeters
+1,No instruments or polyps are visualized in the image.
+1,No polyp detected
+1,"No text detected, one abnormal finding observed"
+2,"No instruments are present, and no polyps are identified, with the z-line visible as an anatomical landmark."
+2,"No polyp identified, and no text observed"
+1,"One tube is visible in the image, and no polyps are present."
+2,"No polyps observed, multiple color changes noted, and no removal status available."
+1,One tubular device is present in the abdominal region.
+1,One significant finding identified
+1,"No polyps are visible, text is present, and one instrument is seen."
+1,"No polyps are detected, with a single abnormal finding noted in the image."
+1,"Polyp measuring 5 to 10 millimeters with a paris iia morphology exhibiting red, pink, and orange hues."
+2,"Two distinct abnormalities observed with pink, red, and white discoloration"
+1,"No green or black box artifacts are present, polyp removal is not applicable, and one finding is identified."
+1,"One polyp measuring 5 to 10 millimeters is present, and not all polyps have been removed."
+1,"No anatomical landmarks identified, no polyps observed"
+1,"Polyp measures 11 to 20 millimeters, a polyp snare is visible, and there is a single finding identified."
+1,one polyp identified
+2,"No polyps identified, one abnormal finding noted"
+1,Colonoscopic examination reveals a single polyp with a pinkish appearance.
+1,Findings suggestive of two distinct gastrointestinal lesions
+1,"No green or black box artifacts observed, and no instruments visible"
+1,No polyp identified with a single abnormal finding observed
+2,One abnormal finding identified during colonoscopy
+1,No polyps detected in the gastrointestinal tract.
+1,One pedunculated polyp measuring 11 to 20 millimeters is present.
+1,"The image shows findings from a colonoscopy, with multiple colored lesions observed, and one distinct abnormality present."
+1,Two distinct findings observed and text is present
+1,Findings are from a colonoscopy with a single polyp noted
+2,"No instruments are visible, polyp removal is not indicated, and no anatomical landmarks are present."
+1,No polyp detected and no artefact observed
+2,One finding is present without any visible instruments and with evidence of oesophagitis
+2,"No polyp is visible, and the z-line is clearly seen."
+1,Polyp measures between 11 to 20 millimeters and shows a pink appearance
+2,"Evidence of oesophagitis is present, polyp removal is not relevant, and no instruments are visible."
+1,Multiple pink and white lesions are observed with a single polyp present
+1,One lesion detected with a single polyp identified
+0,No polyps are identified in the gastrointestinal tract.
+2,"No anatomical landmark identified, no polyps observed"
+1,"No green or black box artifacts are present, multiple colored abnormalities including pink, red, and white are noted, and no instruments are visible."
+1,Colonoscopic examination reveals a single polyp measuring greater than 20 millimeters in diameter.
+1,One instrument is present without any green or black box artifacts.
+1,Two separate abnormalities noted
+1,"There is one finding, one polyp, and no instruments present."
+1,Evidence of z-line seen without any instruments present.
+1,The image is from a colonoscopy showing a single polyp with a pink appearance.
+2,"No instruments, polyps, or polyp sizes are detected in the image."
+1,one surgical instrument present
+1,A single polyp measuring 11 to 20 millimeters with a pink appearance is present.
+1,"Polyps remain, with a size of 5 to 10 millimeters."
+1,Only one abnormal finding observed with no identifiable anatomical landmarks
+1,No polyp detected with a single abnormal finding
+1,"No polyps were completely removed, the remaining polyp measures 5 to 10 millimeters, and it is a sessile polyp."
+1,"No residual polyps noted, no green or black box artefacts identified, and one instrument is present in the field."
+1,"No text is visible, no polyps are present, and no residual polyps were found."
+1,"No text is visible, the polyp measures 11 to 20 millimeters, and it is a Paris classification type polyp."
+2,"No polyps are visualized, z-line is present, and no mucosal lesions are identified."
+1,"No artifact observed, and no instruments visualized."
+1,"Abnormalities show pink, red, and white areas, no polyps are present, and two findings are observed."
+1,"No polyp detected, with two distinct abnormalities identified"
+1,one abnormal finding present
+1,No text is visible and no surgical instruments are present
+1,A single polyp is identified with a polyp snare in place.
+1,Text is present and one significant finding is noted.
+1,polyp measuring between 11 to 20 millimeters
+1,Evidence of colonoscopy with a single endoscopic instrument present
+1,Polyp measures between 5 to 10 millimeters in diameter with no surgical instruments present.
+1,Two distinct pathological findings present
+1,"One distinct abnormality observed, no polyps identified"
+1,"No instruments observed, one finding noted, and evidence of ulcerative colitis present."
+1,The image shows a colonoscopy with a single finding and no instruments visible.
+1,"One polyp consistent with Paris IIa type is present, showing pink and white discoloration."
+2,"No polyps are visualized, no instruments are present, and text is visible in the image."
+1,"No instruments are present, no artefacts observed, and z-line is visible."
+1,No polyps are visualized in the gastrointestinal tract.
+1,"Two distinct findings identified, no polyp observed"
+2,"Two surgical instruments are visible, with multiple abnormalities showing flesh, white, and red colors, and a polyp larger than 20 millimeters is present."
+1,polyp measuring less than 5 millimeters
+1,"Polyps are not completely removed, the procedure was a colonoscopy, and a polyp measuring 11 to 20 millimeters is present."
+1,Colonoscopic procedure with a single instrument observed
+1,"A single polyp measuring 5 to 10 millimeters is identified, classified as Paris type IIA."
+1,polyp measuring 5 to 10 millimeters in size with paris type characteristics
+1,One biopsy forceps is present along with visible text in the image.
+0,Two distinct abnormalities are noted without any green or black box artifact.
+1,one surgical instrument present
+0,No text detected and one abnormal finding identified
+1,one surgical instrument present
+2,"No instruments observed, one abnormal finding noted"
+2,"There are two findings, the image is from a gastroscopy, and no instruments are visible."
+1,One polyp measuring 11 to 20 millimeters in size is present.
+2,Evidence of oesophagitis is present with no polyps observed and the z-line is visible.
+1,one polyp identified
+2,No residual polyps identified and no instruments visualized
+1,"Evidence of green and black box artefacts, a 11 to 20 millimeter polyp, and a Paris type I polyp are present."
+1,"Single finding with multicolored abnormalities including pink, red, white, and grey"
+1,No polyp detected and no surgical instruments visualized
+1,"No anatomical landmarks are identifiable, a metallic clip is present, and no polyps are detected."
+1,No instrument observed and no polyps identified
+1,Single polyp identified during colonoscopy
+1,"A single tubular instrument is visible in the image, and it is not relevant to the polyp removal status."
+1,"No polyps identified, with a single abnormal finding noted."
+1,one surgical instrument present
+1,"No polyps remain, the image is from a gastroscopy, and there are two significant findings."
+1,One notable finding identified during colonoscopy
+2,"No polyps are visualized, multiple colored lesions are present, and the image is from a gastroscopy procedure."
+2,two distinct abnormalities present
+1,Polyp measures 5 to 10 millimeters in size and not all polyps have been removed.
+1,"No polyp is identified, with two distinct findings noted, and no evidence of prior polyp removal."
+1,No surgical instruments detected
+1,"One polyp is seen, and no instruments are present."
+1,Multiple color changes observed with one polyp noted
+1,"Evidence of a green and black box artifact is noted, with a polyp larger than 20 millimeters in size."
+0,Two distinct findings are noted without any green or black box artefact
+1,"Some polyps remain, with the largest measuring 11 to 20 millimeters"
+2,Two abnormalities noted with visible z-line anatomical landmark
+1,Text is present and one surgical instrument is visible
+2,One abnormal finding noted during colonoscopy
+1,No instruments are visible in the image.
+1,Evidence of cecum visibility is noted with a single abnormal finding identified.
+1,Single finding of inflammatory changes consistent with ulcerative colitis.
+1,one surgical instrument present
+1,No text is visible and no surgical instruments are present
+1,"No polyps are seen, text is visible, and one instrument is present."
+1,Text is present and one surgical instrument is visible
+2,No polyp identified with multiple color changes observed
+1,"No green or black box artifacts are present, only one finding is observed, and no polyp is identified."
+0,"No residual polyps identified, one abnormality noted"
+3,multiple colored lesions observed with no polyp detected
+1,Procedure corresponds to colonoscopy with single abnormal finding
+1,"No polyps are observed, and no instruments are visible in the image."
+1,one surgical instrument present
+1,polyp measuring greater than 20 millimeters
+1,"The image shows findings from a colonoscopy, including a polyp measuring 11 to 20 millimeters in size, with one detected abnormality."
+1,Biopsy forceps are present and two abnormalities are identified.
+2,No polyp detected during gastroscopy procedure
+2,"No instruments are visible, no green or black box artifact is present, and the abnormality shows pink, red, and white areas."
+1,Colonoscopy reveals a single tubular adenomatous polyp.
+1,One sessile serrated polyp is present in the bowel.
+0,"No polyps remain, no text is visible, and the size of the polyp is 5 to 10 millimeters."
+1,"No residual polyps identified, and no instruments visualized."
+2,one abnormal finding noted
+2,No polyp detected during gastroscopy examination
+1,"No foreign instruments observed, one abnormal finding noted"
+0,"No polyp detected, evidence of ulcerative colitis present"
+1,"No polyps are present, and the z-line is clearly visible."
+1,No residual polyps identified and no instruments observed
+2,"One instrument is visible, the procedure appears to be a colonoscopy, and polyp removal is not indicated in this context."
+1,one discrete abnormal finding
+2,Two distinct findings are noted with no polyps identified.
+1,two small benign polyps noted
+2,Two distinct gastrointestinal abnormalities identified
+1,No anatomical landmarks identified. One abnormal finding noted.
+2,"No polyp identified, z-line anatomical landmark noted"
+2,Incomplete polyp removal identified with one lesion present
+1,"Not all polyps have been completely excised, the image is from a colonoscopy, and the polyp measures less than 5 millimeters."
+1,one abnormal finding present
+1,"No polyp is visualized, and the image was obtained during a colonoscopy procedure."
+1,"No foreign bodies observed, with two distinct findings noted."
+1,No visible instruments noted and no evidence of polypoid lesions
+1,No text is visible and one instrument is present.
+1,One polyp is observed without evidence of green or black box artefact.
+1,"No polyps remain, one finding is present, and no anatomical landmark is identifiable."
+1,One polyp measuring between 5 to 10 millimeters in size
+2,"No polyps are visualized, and no instruments are present in the image."
+2,"No instruments are visible, no polyps are observed, and a green/black box artefact is present."
+1,"No residual polyps identified, with two distinct findings observed"
+1,one abnormal finding present
+0,Two distinct findings identified
+1,No polyps observed in the gastrointestinal tract.
+1,Two distinct pathological findings
+1,polyp measuring greater than 20 millimeters
+2,No instruments are visualized and no polyp is identified.
+1,"Two findings are present, including two polyps, with one appearing as a Paris-type polyp."
+1,No polyps are detected in the examined area.
+1,"No green or black box artefact is seen, one polyp is identified, and no instruments are present."
+2,"One polyp and one finding are observed, with the abnormality exhibiting flesh, white, and red hues."
+1,Two distinct findings observed and text identified
+1,"One instrument is identified, with a single finding observed, and no green or black box artifact is present."
+1,multiple colored lesions observed with one distinct finding
+1,"One polyp is present, not all polyps have been removed, and there is a single finding observed."
+1,Two distinct abnormalities noted and one medical device identified
+1,"No green or black box artifacts are present, two distinct findings are observed, and no polyps are identified."
+1,"Evidence of a green/black box artefact is noted, a polyp less than 5 millimeters in size is observed, and a Paris classification polyp is identified."
+1,One polyp measuring 11 to 20 millimeters in size is identified.
+1,polyp measuring 5 to 10 millimeters
+1,A single polyp is present in the gastrointestinal tract.
+1,one distinct abnormal finding
+1,No polyps are visualized in the gastrointestinal tract.
+1,"Text is present, multiple colored abnormalities are noted, and one instrument is visible."
+1,"No residual polyps identified, with one abnormal finding noted."
+2,"No polyps detected, and no instruments observed in the image."
+1,"No polyps identified, and no surgical instruments observed."
+1,"No foreign instruments observed, with two distinct abnormalities noted."
+1,"No polyps identified, one instrument visible, and no green or black box artefact present."
+1,"Text is present, one instrument is visible, and a tube is observed in the image."
+1,"One instrument is visible, no polyps remain, and no green or black box artefact is present."
+1,"Multiple lesions show pink, red, and white discoloration with no instruments present and two separate abnormalities identified."
+1,One significant finding noted during colonoscopy
+2,"No instruments are present, two findings are identified, and polyp removal is not applicable."
+1,Evidence of a green and black box artifact is present.
+1,Evidence of a single polypoid lesion observed in the gastrointestinal tract.
+1,"No instruments are visible, no green or black box artifacts are present, and text is visible."
+1,No evidence of green or black box artifacts and no visible polyps
+2,"No polyps are identified, and the z-line is visible in the image."
+1,"One abnormal finding noted, no instruments visible"
+1,"No polyps remain, no anatomical landmarks are identified, and one abnormal finding is present."
+1,Single polyp detected in the gastrointestinal tract.
+1,"No residual polyps identified, no instruments visible in the field"
+2,No instruments or polyps are observed in the image.
+1,Text is visible and one abnormal finding is present
+2,"No polyps are present, multiple colored lesions noted, and no polyp size recorded."
+2,"No instruments are visible, polyp removal is not applicable, and one finding is present."
+2,One instrument is present with no visible textual elements.
+1,"One polyp measuring 11 to 20 millimeters in size remains, with a single finding identified."
+1,Two small polyps present
+2,"Only one finding is present, no polyps are noted, and no polyp size is identified."
+1,No polyps visualized during gastroscopy
+1,"No polyp observed with multiple color variations including pink, red, and white"
+1,Two distinct abnormalities noted
+1,A single polyp is present with no significant artefacts observed.
+1,Z-line is present without any visible polypoid lesions
+2,One abnormal finding noted with cecal landmark visible
+1,Abnormality appears pink and one polyp is present
+1,Single tubular structure noted in the imaging field
+1,polyp measuring 5 to 10 millimeters
+1,Two abnormalities noted with no polyps identified
+1,Only one finding is present with no green/black box artefact and no visible text.
+2,"No green or black box artifacts are present, no identifiable anatomical landmarks are visible, and no instruments are observed in the image."
+2,The image shows a colonoscopy with no polyps remaining and one instrument present.
+1,"Evidence of a green/black box artefact is noted, with a polyp measuring 11 to 20 millimeters in size, classified as a Paris IP type."
+1,The image shows a colonoscopy with a single tubular instrument visible in the field.
+1,"No residual polyps detected, no instruments visualized"
+0,"Two findings observed, no instruments visible"
+0,Two distinct findings identified during gastroscopy.
+2,"No polyps observed, image obtained via gastroscopy, no anatomical landmark identified"
+1,"A small polyp is present, measuring less than 5 millimeters in size."
+1,"No instruments are visible in the image, and the polyp measures between 5 to 10 millimeters."
+1,"No polyp is present, the image is from a gastroscopy, and the abnormality shows multiple colors including pink, red, white, and grey."
+2,"No polyps are present, with no findings identified and no residual polyp observed."
+1,"Two instruments are visible, a 5 to 10 millimeter polyp is present, and no green or black box artefact is observed."
+1,polyp measuring greater than 20 millimeters
+1,"No polyps observed, with no anatomical landmarks including the z-line visible."
+0,Colonoscopic examination reveals a single polyp.
+1,No text is visible and no surgical instruments are present
+1,one distinct abnormal finding
+1,Prominent z-line seen. Multiple abnormalities noted.
+1,"One abnormal finding without any visible instruments, with pink and red areas noted."
+1,Evidence of one remaining polyp observed
+1,"One polyp is present, with evidence of green/black box artefact and visible text."
+1,"No instruments are visible, multiple colored abnormalities are present, and no polyps are identified."
+2,"Only one finding is present, no polyps are visible, and there is no evidence of prior polyp removal."
+1,One distinct abnormality noted
+1,There are two polyps noted with visible text in the field of view.
+1,Pink-appearing lesion with a single polyp noted
+1,"No instruments are visible, multiple colored abnormalities are present, and there is evidence of esophagitis."
+1,"No residual polyps identified, no instruments visualized"
+2,"No polyp is identified, and the image was obtained during a gastroscopy procedure."
+0,"Two distinct abnormalities noted, no foreign objects visualized"
+1,one distinct abnormality noted
+1,"Text is present, a Paris IP polyp is identified, and two distinct findings are observed."
+2,No surgical instruments detected with two abnormalities identified
+1,Evidence of a single polypoid lesion in the colon.
+1,one surgical instrument present
+1,The image is from a colonoscopy showing a single adenomatous polyp of the Paris classification IIa type.
+0,"No polyp is visible, multiple abnormalities with pink, red, and white coloring, and no green or black box artefact present."
+1,One abnormal finding is present with visible text and no green or black box artefacts observed.
+1,"No abnormalities identified, no foreign bodies present, and no artefacts observed."
+1,"No residual polyps identified, one instrument observed"
+1,"There is one finding, the image is from a colonoscopy, and no polyps are seen."
+1,No polyp identified with single finding observed
+1,"One abnormal finding noted, no polyps identified"
+1,The image shows a colonoscopy with no instruments present and evidence of ulcerative colitis.
+1,one polyp observed
+1,One surgical instrument present
+1,Colonoscopic view with a polyp measuring 5 to 10 millimeters in diameter
+1,"No anatomical landmarks are visualized, the image is from a colonoscopy, and one abnormal finding is present."
+1,one small polyp identified
+2,"No text is visible, multiple colored abnormalities are present, and two distinct findings are identified."
+0,Text is visible on the image and one polyp is identified.
+1,A single sessile polyp measuring more than 20 millimeters is identified.
+1,"There is evidence of oesophagitis and two additional findings, with no polyps identified."
+1,"Text is present, a Paris-type polyp is identified, and one significant finding is noted."
+2,Three distinct abnormalities noted with no evidence of polyp formation
+1,"A single tube is visible in the image, and polyp removal is not pertinent to this assessment."
+2,"No polyp detected, and no text identified"
+1,"No polyp detected, two findings observed, and z-line visible"
+1,Evidence of a gastroscopy with no polyps observed
+1,"Abnormalities show pink, red, and white discoloration with no instruments present and the z-line anatomical landmark identified."
+1,"No residual polyps were found, the image is from a colonoscopy, and one abnormal finding is present."
+1,No residual polyps identified with no visible lesions noted
+2,Two distinct findings noted with no polyp identified
+1,one distinct polyp seen
+1,"No artefacts, no instruments seen, and no polyp identified."
+1,One endoscopic instrument is visualized during a colonoscopy procedure.
+1,one abnormal finding present
+1,one polyp identified
+2,No polyps are visible in the gastrointestinal tract.
+1,The lesion appears pink with a single polyp identified
+2,No polyp identified with a single abnormal finding noted.
+1,Polyp larger than 20 millimeters with no instruments visible and a Paris classification
+2,"No artifact identified, and no instruments observed in the image."
+1,One finding is present with no instruments visible.
+2,"No polyps or instruments are visible, and a single finding is present."
+1,One polyp measuring 5 to 10 millimeters in size
+2,No instruments or polyps are visible in the image.
+1,"One significant finding identified, no polyps remaining."
+1,"Text is visible, no polyps identified, and one abnormal finding is present."
+2,"No polyps identified, two distinct findings observed, and no instrument is present."
+1,No instruments detected and no anatomical landmarks identified
+1,"One polyp is visible, text is present, and not all polyps have been removed."
+1,One polyp snare is visible in the field of view.
+1,Single polyp observed during colonoscopy with no other abnormalities noted.
+1,"No text is visible, the image is from a colonoscopy, and polyp removal is not applicable in this context."
+1,one colonic polyp identified
+1,"No polyps are identified, and evidence of oesophagitis is present."
+1,polyp measuring 11 to 20 millimeters
+1,One polyp is present and not completely removed.
+1,Polyp measuring 5 to 10 millimeters with red and pink areas noted
+1,"Two distinct findings are identified, textual elements are present, and no instruments are visible."
+2,"No polyps or instruments are visible, and there is evidence of oesophagitis."
+1,polyp measures less than 5 millimeters
+1,One abnormal finding noted with pink and red discoloration
+1,polyp measuring 11 to 20 millimeters
+1,Image from a colonoscopy with no surgical instruments present
+1,Polyps are not completely removed and one abnormal finding is present.
+1,No polyps or foreign bodies are visualized in the gastrointestinal tract.
+1,No residual polyps identified
+1,"No instruments are visualized, the procedure is a colonoscopy, and no green or black box artifacts are present."
+1,"No polyps are present, text is visible, and one instrument is seen in the image."
+1,No instruments are visible in the gastrointestinal image.
+1,"There are two polyps identified, the image is from a colonoscopy, and no green or black box artifact is present."
+1,one surgical instrument present
+1,Text is present and one surgical instrument is visible
+1,No polyps observed in the gastrointestinal tract
+2,"No polyps identified, z-line observed, and evidence of esophagitis present."
+1,one focal abnormal finding
+1,"No green or black box artifacts are seen, no polyps are present, and one finding is identified."
+2,Two distinct findings are present with no instruments visible
+1,Polyp measuring 5 to 10 millimeters with a paris iia morphology
+1,"No text noted, one radiological finding present"
+0,Image obtained during colonoscopy with no instruments present
+1,"No polyps are present, no instruments are visible, and no instrumentation is noted."
+1,Polyp measuring 11 to 20 millimeters with pink and white areas observed
+1,No evidence of remaining polyps and two distinct findings identified
+1,"No green or black box artifacts noted, with one abnormal finding identified."
+1,"Two distinct findings are identified, with no polyp detected."
+3,Two distinct pathological findings
+1,"No surgical instruments observed, with two distinct findings noted."
+1,"There are two notable findings, including a green/black box artefact and one remaining polyp."
+1,"No polyp identified, with two discrete abnormalities noted."
+1,"Two distinct findings are present, the z-line is visible, and no polyp is identified."
+1,"One tube is visible, and no polyps are present."
+1,One surgical instrument is present and text is visible
+1,No surgical instruments are visualized with two abnormalities detected.
+1,"No green/black box artefact is seen, text is visible, and two instruments are present."
+1,One polyp is present and not completely removed.
+1,polyp greater than 20 millimeters
+1,"A single polyp is noted, displaying white and pink discoloration."
+0,"No green or black box artifacts observed, and no instruments visible"
+2,"Multiple lesions with pink, red, and white areas; no visible polyp noted"
+1,"No evidence of residual polyps, performed colonoscopy, and one mucosal abnormality identified."
+1,A hyperplastic polyp measuring between 11 and 20 millimeters is present.
+1,No polyp identified and no instruments visible
+1,polyp measuring 11 to 20 millimeters with paris type features
+1,one polyp identified
+1,"Not all polyps have been removed, with the largest measuring 11 to 20 millimeters, and one instrument is visible."
+1,Two surgical instruments present
+0,one polyp detected
+1,one identified abnormality
+2,No anatomical landmarks identified and no polyps observed
+1,The image is from a colonoscopy showing evidence of ulcerative colitis with a single lesion observed.
+1,one sessile polyp present
+1,No surgical instruments are visible in the image.
+0,"Single polyp identified, no text present in the image."
+1,"No green or black box artifacts are noted, and one instrument is visible."
+1,Multiple colored lesions noted with no identifiable polyp present
+1,"One sessile polyp is present in the colon, and no complete removal has been achieved."
+1,No polyps identified in the gastrointestinal tract
+1,Evidence of z-line identification and one additional abnormal finding noted.
+2,"No polyps are present, with no evidence of esophagitis observed."
+2,The image shows a colonoscopy with a Paris IP polyp and two instruments present.
+1,Two distinct gastrointestinal abnormalities noted.
+1,"No text is visible, the image is from a colonoscopy, and no instruments are present in the field."
+2,No polyp detected and no foreign bodies identified
+1,"Multiple mucosal abnormalities are present, showing pink, red, and white coloration."
+1,No polyps observed with two identified abnormalities
+1,"A Paris IIa polyp is noted, with a pink appearance, and only a single finding is present."
+2,No instruments are visible within the gastrointestinal tract.
+1,No surgical instruments are present with a single abnormal finding.
+1,No surgical instruments detected
+2,No polyps identified with no signs of esophageal inflammation
+1,one notable finding present
+1,No polyp or foreign instruments identified
+2,"No polyp is visible, and the cecum is clearly identified."
+1,No polyps identified within the gastrointestinal tract
+1,"No polyp is visualized, with clear evidence of z-line appearance."
+1,"No surgical instruments observed, text is present in the image."
+2,No polyp detected and no foreign bodies identified
+1,"Text is visible, polyp measures less than 5 millimeters, and the polyp is classified as Paris type IIa."
+1,one abnormal finding present
+1,"No polyps observed, and no instruments are present in the image."
+1,Text is present and only one abnormal finding is identified.
+1,"No box artefact observed, performed colonoscopy, and no polyps detected."
+1,One endoscopic instrument is present during a colonoscopy procedure.
+1,Evidence of a Paris IIa polyp is noted with a single lesion observed.
+1,"No green or black box artifact observed, polyp measures 11 to 20 millimeters, and the abnormality exhibits red, pink, and yellow hues."
+1,one polyp identified
+2,one polyp identified
+1,"No polyps were completely removed, the image is from a colonoscopy, and one abnormal finding is present."
+1,The image is from a colonoscopy with no polyps observed and no instruments present.
+1,polyp measuring less than 5 millimeters
+1,polyp measuring less than 5 millimeters with a sessile morphology
+2,"No polyps observed, no anatomical landmarks identified, and no text detected."
+1,polyp measuring greater than 20 millimeters
+1,one abnormal finding present
+1,polyp measuring 11 to 20 millimeters
+1,The polyp measures between 11 to 20 millimeters with visible text and a single polyp noted.
+2,No residual polyps noted with two distinct findings present
+0,"Evidence of a green and black box artifact is noted, the image is from a colonoscopy, and a single polyp is identified."
+1,"No instruments are present, evidence of oesophagitis is noted, and no polyps are identified."
+2,"There are two distinct findings, no polyps remain, and the image is from a gastroscopy procedure."
+1,No instruments are visualized and no evidence of esophagitis is seen
+1,No evidence of ulcerative colitis or polypoid lesions detected.
+1,polyp measures 5 to 10 millimeters
+1,one surgical instrument present
+1,single polyp identified
+1,No instrument is visualized and no polyps are identified
+1,No text is visible and one instrument is present
+1,one surgical instrument present
+0,Two distinct findings noted during gastroscopy
+1,"Text is present, green and black box artefacts are observed, and one instrument is visible."
+1,No instruments are visible and no polyps are identified.
+1,No residual polyps identified with no visible polyps present
+1,No text is visible and no polyps are identified.
+1,one polyp identified
+1,"No polyps detected, no instruments visible, and the image is from a colonoscopy procedure."
+1,No visible instruments and evidence of a single polyp in the gastrointestinal tract.
+1,A single tubular device is visible in the image with accompanying text.
+1,one notable finding present
+1,"There are two findings, no polyps observed, and text is present."
+1,"A large polyp is present, measuring greater than 20 millimeters in size."
+1,"No surgical instruments are visible, the image is from a gastroscopy, and text is present."
+1,"No text is present, no instruments are observed, and no polyps are identified."
+1,polyp measuring greater than 20 millimeters
+2,"There are two findings present, no polyps are visible, and no text is present."
+1,"No polyp identified, one abnormal finding observed"
+1,"A single tube is visible in the image, with no text present."
+2,"No instruments are observed, no polyps are identified, and two abnormalities are noted."
+1,"Two distinct findings are present, no instruments are visualized, and the image is from a gastroscopic examination."
+1,one abnormal finding present
+1,"The z-line is visible, with abnormalities showing pink, red, and white hues, and no instruments are present."
+1,"Residual polyp noted, with one abnormal finding observed."
+1,one discrete abnormal finding
+1,"One instrument is present, the image is from a colonoscopy, and no green or black box artifacts are observed."
+1,Colonoscopic view with a moderately sized polyp measuring 11 to 20 millimeters
+0,"The abnormality shows red and pink discoloration, with a single finding and no visible instruments."
+1,No instruments are visible and no polyps are observed.
+1,"No instruments are visible, one finding is present, and no green or black box artefact is observed."
+1,One abnormal finding noted during a colonoscopy with visible text present.
+1,"No polyps are visible, no anatomical landmarks are present, and polyp removal is not applicable."
+1,One finding is present with pink and red abnormalities and no visible polyp size.
+2,"No anatomical landmarks are identified, text is present, and no polyps are seen."
+1,A 5-10mm polyp is present with no text detected.

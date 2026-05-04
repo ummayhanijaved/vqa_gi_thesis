@@ -1,0 +1,1499 @@
+prediction,ground_truth,correct
+green,"no green or black box artefact is present, z-line is visible, and the abnormality shows pink, red, and white colors.",0
+red,"residual polyp remains present, with lesions showing flesh and yellow hues",0
+green,"no green or black box artifacts observed, multiple red and pink abnormalities identified, no anatomical landmark is visible",0
+red,"abnormalities show pink, red, and white areas, polyp removal is not relevant, and no instruments are present.",0
+red,"anatomical landmarks are visualized in the central and upper regions with red, pink, and grey coloration, as seen during a gastroscopy.",0
+red,"no polyps remain, no instruments are present, and the abnormality shows pink and red areas.",0
+pink,"no residual polyps remain, a paris-type polyp is present, and the lesion shows white and flesh-colored areas.",0
+red,"no evidence of residual polyps observed, with multiple areas showing pink, red, and white lesions",0
+red,"abnormalities show pink and white areas distributed across multiple regions including center, center-left, center-right, lower-center, lower-right, upper-center, upper-left, and upper-right.",0
+pink,"no polyps observed, no instrument visualized, and abnormality shows pink and red coloration.",0
+red,"pink, red, and white lesions present",0
+red,"red, white, and flesh-colored lesions",0
+red,"abnormalities are scattered across multiple regions including center, upper, and lower areas, with one distinct finding noted, exhibiting pink, red, and white coloration.",0
+red,the image is from a colonoscopy showing a polyp measuring 11 to 20 millimeters with red and pink colored lesions.,0
+red,"no residual polyps identified, with pink and red-colored lesions noted",0
+red,"pink, yellow, and white lesions observed",0
+red,"no specific anatomical landmarks are visible, abnormalities appear pink, red, and orange, and polyp removal is not relevant in this context.",0
+red,multiple red and white lesions present,0
+pink,"polyps are still present, the image is from a colonoscopy, and the abnormality shows red lesions.",0
+green,"abnormalities show pink, red, and white areas with no green or black box artefact and no instrument visible.",0
+red,"polyp measuring 5 to 10 millimeters with a paris iia morphology exhibiting red, pink, and orange hues.",0
+red,"multiple findings include pink, red, and white lesions with no instruments visible.",0
+red,"pink, red, and white lesions observed",0
+red,"multiple colored lesions observed including pink, white, and purple regions, noted during colonoscopy.",0
+red,"abnormalities are seen in the central, center-right, lower-center, and lower-right areas, with findings consistent with a colonoscopy, and the lesions exhibit pink, red, and brown hues.",0
+red,"no surgical instruments are present; multiple abnormalities are noted, including pink and white lesions.",0
+red,polyp measures between 11 to 20 millimeters and shows a pink appearance,0
+red,"no instrument is visible within the gastrointestinal tract. multiple colors including pink, red, and white are present.",0
+red,evidence of colonoscopic examination with multiple colored lesions noted,0
+red,the image shows a colonoscopy with gray and white abnormalities scattered across the central and upper regions of the view.,0
+green and black,"no green or black box artifacts are present, text is visible, and the abnormalities show pink and red colors.",0
+red,"multiple colors including red, pink, and white are noted in anatomical landmarks. no instruments are visualized.",0
+red,"no foreign bodies observed. multiple red, pink, and orange lesions noted.",0
+red,"no anatomical landmark is visible, no instruments are present, and the abnormality shows multiple colors including pink, yellow, and white.",0
+red,"instrument is seen in central and lower regions, polyps remain, and abnormal areas show blue and green hues.",0
+red,"gastroscopy reveals multiple colored lesions including pink, red, and white areas.",0
+green,"no green/black box artefact is present, multiple anatomical landmarks show pink, red, and white colors, and abnormalities are scattered across central and upper regions as well as lower quadrants.",0
+red,no instrument is visible and no abnormal coloration is present.,0
+red,"no text is present, no instruments are observed, and multiple colored abnormalities are noted.",0
+green and black,presence of green and black artifacts with associated grey and white abnormalities,0
+red,"no instruments are visible, no polyps are identified, and the abnormality exhibits multiple colors including pink, red, and white.",0
+pink,no residual polyps identified with pink and red mucosal changes,0
+red,red and pink areas noted,0
+red,"no text is present, landmarks are located in central and lower regions, and they exhibit yellow, white, and pink hues.",0
+red,polyp with pink-colored lesions,0
+green,"multiple red and pink lesions are present, with no green or black artefacts observed.",0
+red,no polyp identified with multiple color changes observed,0
+red,multiple colored lesions observed with no polyp detected,0
+red,abnormalities show pink and white discoloration with no polyps identified and text present.,0
+red,"no polyp noted with multiple color changes including pink, red, and white lesions",0
+green,"multiple colored lesions including pink, red, and white are present; no green or black box artefact is seen.",0
+red,"no instruments are visualized, no polyp is present, and multiple colors including pink, yellow, white, orange, and black are noted.",0
+red,pink and red areas noted,0
+red,lesion exhibits flesh and red coloration,0
+red,"multiple color variations including pink, red, white, and purple are seen in scattered regions, with the image obtained during a gastroscopy.",0
+red,pink and red areas noted,0
+red,"multiple colored lesions including pink, red, yellow, and white with no polyp identified",0
+red,"polyps remain present, with multiple pink and red lesions noted",0
+red,"no instruments are visible, multiple colored abnormalities are present, and no polyp is observed.",0
+red,no surgical instruments observed; multiple anatomical landmarks with red and white coloring,0
+red,"multiple colored lesions including pink, red, white, and brown are present, with visible text noted.",0
+red,"abnormalities are scattered across multiple regions including center, upper, and lower quadrants, anatomical landmarks show pink and red hues, and no polyps are visualized.",0
+pink,polyps remain present with lesions showing flesh and red hues,0
+red,pinkish mucosal lesion,0
+red,"multiple colored lesions including pink, red, white, and black",0
+green and black,no green or black box artifact identified; abnormality shows yellow and red areas,0
+red,pink and white lesions observed,0
+red,"no polyps are identified, no anatomical landmarks are visible, and no color abnormalities are present.",0
+red,"pink, red, and white lesions noted",0
+red,"abnormalities are scattered across multiple regions including center, upper, and lower areas with varying colors such as pink, red, and white, and no instruments are visible.",0
+red,"multiple lesions with pink, red, and white discoloration",0
+green,"multiple colored lesions including pink, red, and white; no green or black box artefact present",0
+red,"no polyps identified, multiple colored abnormalities present, and no specific polyp type observed.",0
+red,"no polyps are present, multiple colored lesions noted, and no polyp size recorded.",0
+red,"abnormalities show pink, red, and white areas; landmarks are distributed in central, lower, and upper regions; polyp status is not applicable.",0
+red,"multiple lesions with red, white, and flesh-colored appearances",0
+red,no anatomical landmarks identified. multiple red and pink lesions observed.,0
+red,"no polyp observed with multiple color variations including pink, red, and white",0
+red,"abnormal areas show blue, green, and white discoloration",0
+red,"no instruments are visible, and the abnormality appears in pink, red, and white colors.",0
+red,no surgical instruments identified; multiple colored lesions observed,0
+red,"multiple colored lesions observed, including pink, red, and white areas",0
+red,"no polyp is present, the image is from a gastroscopy, and the abnormality shows multiple colors including pink, red, white, and grey.",0
+red,no residual polyps identified with heterogeneous mucosal coloring,0
+red,"no text is visible, no anatomical landmarks are identified, and the abnormalities appear pink and red in color.",0
+red,pink and red mucosal changes,0
+red,"multiple lesions showing pink, red, and white areas",0
+green,"the image is from a colonoscopy with pink, red, and white lesions observed and no green or black box artefact present.",0
+green,"no polyp is visible, multiple abnormalities with pink, red, and white coloring, and no green or black box artefact present.",0
+red,"no anatomical landmark is identified, with multiple colors including pink, red, and white noted.",0
+red,"lesions displaying white, yellow, pink, and red hues",0
+pink,fleshy-colored lesion,0
+red,the lesion shows evidence of a paris ip polyp with a pink appearance.,0
+red,"multiple colored lesions noted including pink, red, white, and brown in appearance",0
+red,"lesions show red, pink, and brown discoloration",0
+red,no polyp identified with multiple color variations noted,0
+pink,pink-colored mucosal lesion,0
+red,"no surgical instruments are present and multiple colors including pink, red, and white are noted.",0
+red,"multiple red, pink, and white lesions are present without any text",0
+red,abnormalities are scattered across multiple regions with a pink and white appearance.,0
+red,"pink, red, and white lesions",0
+red,"no instruments are visible, multiple colored abnormalities are present, and the image is from a gastroscopy procedure.",0
+red,"no polyps detected, no instrument visible, and multiple colors including pink, red, and white are noted in the abnormal regions.",0
+red,no visible instruments and no evidence of ulcerative colitis.,0
+red,"no foreign bodies detected. abnormalities show varying colors including pink, red, and white.",0
+red,polyp measuring 5 to 10 millimeters with red and pink areas noted,0
+red,"no residual polyps identified, with lesions exhibiting pink, red, and white hues",0
+red,"red, pink, and yellow discoloration present",0
+red,"multiple red and white mucosal lesions are present, with no instruments visible.",0
+red,no polyp identified with multiple color changes noted,0
+red,"anatomical landmarks are distributed in multiple areas including the central and lower regions, and the abnormalities show a combination of pink, red, and white hues.",0
+red,"multiple colored lesions are present, no polyps are identified, and no removal is required.",0
+red,"presence of pink and red lesions noted, no polyps identified",0
+red,"no anatomical landmarks were identified, but evidence of ulcerative colitis was noted with pink and red areas observed.",0
+red,"anatomical landmarks are located in multiple areas including center, center-left, center-right, lower-center, upper-center, upper-left, and upper-right, and they appear pink; polyp removal status is not relevant.",0
+red,pink-tinged mucosal lesion,0
+red,"multiple pink, red, and white lesions are present, with landmarks scattered in the central, lower, and upper regions.",0
+red,lesions with flesh and red discoloration,0
+red,polyp measuring 11 to 20 millimeters with pink and white areas observed,0
+red,"the polyp measures 5 to 10 millimeters and appears pink and white, located in the central and center-right regions.",0
+pink,the abnormality shows a flesh-colored appearance and some polyps remain unremoved.,0
+red,pinkish mucosal appearance,0
+pink,several pink-colored polyps are present in the gastrointestinal tract.,0
+red,"multiple lesions with pink, red, and white areas; no visible polyp noted",0
+red,"multiple findings are present in scattered locations across the image, including central, upper, and lower regions, with colors ranging from pink, red, and white.",0
+green,"mucosal ulceration consistent with ulcerative colitis is present, with no green or black box artefacts, and the abnormalities show pink, red, and yellow discoloration.",0
+red,multiple colored lesions noted with no identifiable polyp present,0
+red,"abnormalities show multiple colors including pink, red, and white with visible text present",0
+mixed,"z-line is visible, with abnormalities showing pink, red, and white colors, scattered across central and upper regions.",0
+red,"no polyp is present, no instrument is visible, and the abnormality shows varied colors including pink, red, white, and grey.",0
+red,"abnormalities show pink, red, and white areas with no identifiable anatomical landmarks and no mention of polyp removal.",0
+red,pink and red lesions noted,0
+red,"lesion shows pink and white coloration, consistent with findings from a colonoscopy",0
+red,"multiple regions including central, upper, and lower areas show the landmark with pink and white coloration.",0
+red,multiple inflammatory lesions are present across central and upper regions with pink and red coloration.,0
+red,"multiple colored lesions noted, including pink, white, yellow, and red areas.",0
+red,"no polyp identified with findings of pink, red, and white lesions",0
+green,"no green or black box artifact observed, polyp measures 11 to 20 millimeters, and the abnormality exhibits red, pink, and yellow hues.",0
+red,"multiple pink, red, and white lesions are present without any identifiable anatomical landmark",0
+red,"no text is visible, the image is from a colonoscopy, and multiple colored lesions are present including red, pink, and orange.",0
+red,"mucosal inflammation is present. multiple colors including pink, red, and grey are observed.",0
+red,polyps remain in place; lesions exhibit pink and yellow coloration,0
+red,pink and white colored lesions noted,0
+red,pink and white lesions observed in central and lower-central regions,0
+green,abnormality appears pink and no green or black box artefact is observed.,0
+green and black,"no green or black box artifacts identified; multiple abnormal areas noted in pink, red, and white colors.",0
+red,"polyps were not completely removed, the image is from a colonoscopy, and the abnormality shows red and flesh-colored lesions.",0
+red,"no polyp identified with multiple colors including pink, red, and white",0
+red,lesion shows pink and red areas with visible text,0
+red,"multiple colors including pink, red, white, and yellow",0
+red,"multiple polyps with red, flesh-colored, and purple lesions",0
+red,appearing as pink lesions,0
+red,"multiple areas of white, pink, and red discoloration",0
+red,"pink, red, white, and yellow lesions",0
+red,areas of pink and red discoloration,0
+red,"abnormalities are scattered across multiple regions including central and upper areas with no instruments visible and presenting as pink, red, and white lesions.",0
+red,"varied colors including pink, red, and white",0
+red,"no polyps are visible, with lesions showing pink and red coloration, and no specific polyp type identified.",0
+pink,no evidence of complete polyp removal. abnormality appears pink in color.,0
+red,"no polyps identified, no anatomical landmarks visible, and multiple colors including pink, white, and yellow noted in the abnormality.",0
+red,areas of red and pink mucosal changes noted; no polyps present,0
+red,"procedure is gastroscopic visualization, with red and pink anatomical landmarks noted.",0
+red,"evidence of a pink-colored polyp is noted, with text visible in the image.",0
+red,"the polyp is less than 5 millimeters in size, classified as paris type iia, and exhibits a combination of pink and white coloration.",0
+red,red and pink areas are noted in the central and upper-left regions.,0
+red,"pink, red, yellow, and white lesions",0
+red,"no polyps are visualized, with multiple colored abnormalities noted",0
+red,pink and red mucosal changes,0
+red,"abnormalities show pink, white, and yellow areas with evidence of ulcerative colitis and text present.",0
+green,"no green or black box artifacts are present, no polyp is identified, and the abnormalities exhibit pink, red, and white colors.",0
+red,the z-line is visible in the central and upper-central regions with red and pink hues.,0
+red,evidence of inflammatory changes with multiple colored lesions observed.,0
+red,"the polyp measures greater than 20 millimeters, the abnormalities show red, pink, and orange hues, and the instrument is positioned in the lower central and lower right areas.",0
+red,"flesh-colored and red lesions are distributed in the central, lower, and upper right regions",0
+red,"multiple lesions noted with pink and white areas, observed during gastroscopy.",0
+red,areas show pink and red mucosal changes,0
+red,"multiple colored lesions including pink, red, and white are present with text visible",0
+pink,"the image is from a colonoscopy with a pink abnormality located in the center-right, lower-right, and upper-right regions.",0
+green,"multiple colored lesions are present, including pink, red, white, and grey, with evidence of oesophagitis and no green or black box artefact",0
+red,"varied colors including red, white, and pink",0
+red,dark and white colored lesions present,0
+pink,polyps remain present and red-colored lesions are observed,0
+red,multiple colored lesions scattered in upper and central regions,0
+red,"multiple pink, red, and white lesions observed with evidence of esophagitis",0
+red,"pink, red, and white lesions observed",0
+red,"multiple pink, red, and white lesions noted",0
+red,"multiple pink, red, and white lesions are visible, with landmarks distributed across central and upper regions, and evidence of esophagitis is present.",0
+red,"there are two findings, with landmarks appearing in pink, red, and white, scattered across the central and upper regions.",0
+red,"text is present, no polyps are identified, and multiple colors including pink, red, and white are observed.",0
+green,"no instruments observed, multiple red and pink abnormalities noted, no green or black box artefact present",0
+red,"evidence of mucosal inflammation with multiple color variations including pink, red, and white areas",0
+red,pink-colored lesion located in the central region,0
+red,"regions showing pink, red, and white discoloration",0
+red,multiple color changes observed with no visible polyp present,0
+red,"no surgical instruments are visible. the abnormality exhibits multiple colors including pink, red, and white.",0
+red,"pink, red, and white lesions noted",0
+red,flesh-colored and white lesions,0
+red,polyp larger than 20 millimeters with a paris ip morphology and mixed pink and red areas,0
+red,"multiple lesions with red, pink, and white coloration are present, and not all polyps have been removed.",0
+red,"multiple colored lesions including pink, red, and white",0
+red,no visible color abnormality detected,0
+red,"lesions exhibiting pink, red, and white discoloration",0
+green,"no green/black box artefact is seen, biopsy forceps are present, and the abnormality shows red, pink, and yellow areas.",0
+red,pink and white lesions are present without any visible instruments,0
+red,"no distinct anatomical landmark is identified, the image is from a colonoscopy, and the abnormality exhibits multiple colors including pink, red, white, yellow, and grey.",0
+red,"polyps remain in the image, with abnormalities exhibiting red, pink, and yellow hues located in multiple regions including the center, center-right, lower-center, lower-right, upper-center, and upper-right.",0
+red,polyps are still present with reddish and pinkish lesions observed,0
+red,"abnormalities show pink, red, and white areas with no residual polyps noted.",0
+red,"no instruments are visualized in the gastrointestinal tract, multiple colored abnormalities are present, and the image is from a gastroscopy procedure.",0
+green and black,no green or black box artifacts observed; abnormality shows pink and red discoloration,0
+red,"no instruments or anatomical landmarks are visible, and the abnormality appears in pink, red, and white colors.",0
+red,"varied colors including red, pink, brown, and yellow",0
+red,red and orange colored lesions,0
+red,"multiple colored lesions are present including pink, red, and white regions with evidence of esophagitis.",0
+red,"multiple pink, red, and white lesions are present, no polyp is identified, and no instruments are visible.",0
+red,pink and red discoloration noted,0
+red,the abnormality is pink and located in the central and lower regions with a single finding.,0
+red,"no instrument is visible, and the abnormality shows pink, red, and brown discoloration.",0
+green,"abnormalities show pink, red, and white discolorations, no instrument is visible, and no green/black box artefact is present.",0
+red,no instruments are visible; multiple abnormalities noted with pink and red discoloration.,0
+red,"no instruments are present, no polyp is identified, and multiple colors including pink, red, white, and yellow are observed.",0
+green,"no green or black box artifacts are present, no polyps are identified, and the abnormalities exhibit pink, red, white, and yellow hues.",0
+green,"no text detected, multiple colored abnormalities observed, and no green or black box artefact present.",0
+red,"multiple reddish-pink lesions are observed, no anatomical landmarks are visible, and ulcerative colitis is suspected.",0
+green,"there is a green/black box artefact, the polyp measures greater than 20 millimeters, and the abnormality exhibits pink, yellow, red, and white colors.",0
+red,"no instruments are visible, no evidence of ulcerative colitis, and multiple color variations including pink, red, and white are present.",0
+red,mucosal erythema noted,0
+red,"pink, red, and white lesions present",0
+pink,lesion appears pink in color,0
+red,"no instrument is visible, abnormalities are distributed across multiple regions, and the abnormalities show pink, yellow, and white coloration.",0
+red,"abnormal areas show pink, red, and white discolorations, no instrument is visible, and the cecum is identified.",0
+red,"lesions displaying pink, red, and brown hues",0
+green,"abnormalities show pink, red, and white areas with no green/black box artefact and no instruments present.",0
+red,"abnormalities are observed in multiple colors including pink, red, and white, scattered across various regions of the image, with text present.",0
+red,"a small polyp measuring less than 5 millimeters is observed, and it appears pink in color.",0
+red,the image is from a colonoscopy showing a 5-10mm polyp with red and pink lesions.,0
+red,no polyps observed; multiple colored abnormalities noted,0
+green,evidence of a polyp with green and black box artifacts and blue and grey discoloration observed.,0
+red,"no anatomical landmarks are identified, and the lesion shows multiple colors including pink, red, and yellow.",0
+red,"multiple colored lesions observed, no polyps detected, and evidence of ulcerative colitis",0
+red,"hyperplastic polyp with multiple color variations including white, flesh-toned, and red lesions",0
+red,"the abnormality shows pink and white areas, evidence of esophagitis is present, and polyp removal is not applicable.",0
+red,"no polyp identified, with reddish and pinkish lesions scattered throughout the central and lower regions as well as upper quadrants.",0
+red,"no instruments are visible, and the abnormality shows multiple colors including pink, red, and white, with no instrument identified in the image.",0
+red,"areas of pink, red, and white discoloration",0
+green,"no green or black box artifacts are present; the abnormalities are pink and red in color, scattered across central and upper regions as well as lower quadrants.",0
+red,"a tube is present, not all polyps have been removed, and the abnormality shows blue, white, and yellow hues.",0
+red,multiple reddish-pink lesions without evidence of polyps,0
+red,"multiple red and pink lesions noted, no instruments visualized",0
+red,"no surgical instruments observed. abnormalities show varied colors including pink, red, and white.",0
+red,the image shows a colonoscopy with reddish and pinkish lesions noted,0
+red,"no instruments are visible. abnormalities exhibit pink, red, and white colors.",0
+red,"no instruments are visualized in the gastrointestinal tract. multiple colored abnormalities are present, including pink, red, and white lesions.",0
+red,polyp measures less than 5 millimeters with white and flesh-colored features,0
+red,"abnormalities are distributed across multiple regions including the center, upper, and lower areas with pink, red, and white discoloration.",0
+red,"multiple colors including pink, red, white, orange, and yellow",0
+red,"multiple color changes observed including pink, red, and white lesions",0
+red,pink and red mucosal changes,0
+red,pink and white areas noted,0
+red,"anatomical landmarks are distributed in central, upper, and lower regions with abnormalities exhibiting pink, red, and white discolorations.",0
+red,"pink, red, and white lesions observed",0
+green,abnormalities show pink and red areas with no green or black box artefact and no instrument visible.,0
+red,colonoscopic examination shows lesions with pink and white discoloration.,0
+green,"no green or black box artefact is seen, the image is from a colonoscopy, and multiple colors including pink, red, and white are present.",0
+red,evidence of colonoscopic examination with multiple colored lesions noted,0
+red,no residual polyps noted; multiple colored abnormalities present,0
+red,abnormalities are scattered across multiple central and lower regions with pink and yellow discoloration.,0
+red,polyp identified with flesh-colored appearance,0
+red,"abnormalities show a mix of pink, red, and white areas, text is visible, and the z-line is identified.",0
+red,multiple pink and white lesions noted,0
+red,"multiple red and pink lesions are present, consistent with ulcerative colitis",0
+green,"evidence of a green/black artefact is present, with red and pink abnormalities scattered in the central and left-central regions.",0
+red,"abnormalities are scattered across multiple regions including central and upper areas, no instruments are visible, and the abnormality shows pink, red, and white hues.",0
+green and black,evidence of green and black box artifacts with red and pink abnormalities noted,0
+red,multiple red and white lesions are observed with evidence of inflammatory changes,0
+green,"anatomical landmark shows red and white coloration, no green/black box artefact is present, and text is visible.",0
+red,"multiple red, pink, and white lesions are distributed across various regions, no instrument is visible, and the abnormalities are scattered throughout the central and peripheral areas.",0
+red,"areas of pink, red, and white discoloration",0
+red,multiple red and white lesions are present without any foreign bodies.,0
+red,"colonoscopic examination reveals ulcerative colitis with lesions exhibiting pink, red, and white discoloration.",0
+red,instrument positioned in central and lower regions with white and yellow lesions observed,0
+red,multiple colored lesions noted,0
+red,"the image is from a gastroscopy, with multiple colored abnormalities noted, and no instruments are present.",0
+red,"polyps are still present, with a mixture of white, red, and flesh-colored lesions observed.",0
+red,"no instrument is visible, multiple colored abnormalities are present, and the z-line is evident.",0
+red,"lesions showing pink, red, and white areas",0
+green,no green or black box artifacts observed; multiple colored abnormalities noted,0
+red,"multiple abnormal areas with pink, yellow, and white discoloration",0
+red,"no instrument is visible, with multiple colored lesions observed, and a paris-type polyp noted.",0
+red,pink and white areas noted,0
+red,"multiple colored lesions noted including pink, red, and white areas; polyp removal status not applicable",0
+red,"pink and red areas noted, no polyps remaining",0
+pink,text is present with pink-colored abnormalities,0
+red,"the abnormality appears pink, the image is from a colonoscopy, and no anatomical landmark is visible.",0
+green,"no green or black artefacts are present, landmarks are located in the central and lower regions, and multiple colors including pink, red, and white are observed.",0
+red,"abnormalities are scattered across multiple regions including center, upper, and lower areas, with two distinct findings noted, exhibiting pink, red, and white hues.",0
+green,"green and black box artifacts are present, along with a paris ip polyp, and the abnormality shows white and red discoloration.",0
+red,"abnormalities are distributed across multiple regions including center, upper, and lower quadrants with pink, red, and white coloring.",0
+pink,"some polyps remain, text is visible, and the abnormality is pink in color.",0
+red,text is present and abnormal areas show red and pink discoloration,0
+red,"text is present, the polyp is larger than 20 millimeters, and the abnormality shows multiple colors including pink, white, red, and yellow.",0
+green,"no green or black box artifacts are present, no polyps are identified, and the abnormalities exhibit pink, red, and white hues.",0
+red,no surgical instruments are visible. multiple colored abnormalities are present.,0
+red,multiple colored lesions observed,0
+red,"varied colors including pink, red, white, and yellow",0
+red,"multiple pink, red, and white lesions are present with z-line visible",0
+red,"abnormalities are scattered across multiple regions including central, upper, and lower areas with varying colors such as pink, red, and white, and no text is present.",0
+pink,"no anatomical landmarks are visible, and the abnormality is pink in color.",0
+red,"no instruments observed, no polyps remaining, and the abnormality shows pink, red, and white areas.",0
+red,"no polyps are present, with abnormalities noted in pink, yellow, and white hues",0
+red,there is one finding with multiple abnormalities presenting in various colors and distributed across multiple regions of the image.,0
+red,"evidence of z-line anatomical landmark is present, with abnormalities scattered across multiple regions including central, upper, and lower areas, displaying pink and white colors.",0
+red,flesh-colored and red lesions,0
+red,"no instruments are visible, and the abnormality shows multiple colors including pink, red, and white.",0
+red,"abnormalities present in pink, red, and white hues",0
+red,"lesions show red, pink, and white areas",0
+red,red and pink discoloration present,0
+red,no polyps observed with multiple colored abnormalities noted,0
+red,"gastroscopy reveals multiple colored lesions including pink, red, and white areas.",0
+red,multiple areas showing pink and red lesions,0
+red,evidence of a colonoscopic procedure with multiple colored lesions noted.,0
+red,"multiple areas of pink, red, and white mucosal changes observed with no polyp identified",0
+green,"evidence of green/black box artefact, a 5-10mm polyp, and red and pink coloured abnormalities observed",0
+pink,"evidence of residual polyp tissue noted, with pink-colored lesion observed",0
+green and black,"no green or black box artifacts are observed, text is present, and the abnormalities appear red and pink.",0
+red,"pink, red, and white lesions noted",0
+green,"no green or black box artefact is present, but there is evidence of oesophagitis with pink, red, and white lesions scattered throughout.",0
+green and black,"no green or black box artifacts detected, with abnormalities exhibiting pink, red, and white hues",0
+red,"abnormalities display red, flesh, and white hues",0
+green,"no polyp is present, multiple colored lesions are noted, and no green or black box artefact is seen.",0
+red,no polyp detected with multiple color changes noted,0
+red,"one finding observed, with pink and red areas noted, and no identifiable anatomical landmark present.",0
+red,"no text is visible, multiple abnormalities are present with pink and white coloration, and the image was obtained during a gastroscopy.",0
+red,evidence of colonoscopic visualization with a pink-appearing lesion,0
+green,"no box artifact is present, and the abnormality shows flesh-colored appearance.",0
+red,"pink, red, and white lesions noted",0
+red,"red and pink lesions are noted, with a polyp measuring 11 to 20 millimeters in size.",0
+red,"z-line is identified, no polyps are present, and the abnormality shows pink, red, and white areas.",0
+red,multiple red and pink lesions detected,0
+red,"abnormalities show red and pink coloration, with five separate findings ranging from less than 5 millimeters to 11 to 20 millimeters in size.",0
+red,the abnormality is pink and located in the central and upper-central regions with a single finding.,0
+red,pink and red discoloration present,0
+red,"abnormality is located in the central region, appears pink, and there is one polyp visible.",0
+green,"text is present, multiple colors including pink, red, white, and grey are observed, and no green or black box artefact is present.",0
+pink,pinkish mucosal lesion,0
+red,"multiple colored lesions including pink, red, and white are present with text observed",0
+red,"multiple colored mucosal lesions are present, including pink, red, and white areas.",0
+red,pinkish in color,0
+green,"multiple colored lesions observed, no instrument visible, and green/black box artefact present",0
+red,text is present and multiple colored abnormalities are visible,0
+red,"multiple polypoid lesions are noted with red, pink, and white hues scattered in the center-right and lower-right regions.",0
+pink,"no polyp is present, with no text noted and multiple colors observed",0
+red,"no polyp identified, no instrument visible, and multiple colors including pink, red, and white observed",0
+red,"multiple lesions showing pink, red, and white discoloration",0
+green and black,no green or black box artifacts identified; multiple colored abnormalities noted,0
+red,"pink, red, and white lesions noted",0
+red,"red, flesh-toned, and white lesions",0
+pink,evidence of a large yellow-colored polyp measuring more than 20 millimeters.,0
+red,"the abnormality shows multiple colors including pink, red, and white, and is distributed across various regions including center, upper, and lower areas, with no instrument visible.",0
+red,"pink, red, and white lesions observed during gastroscopy",0
+red,"abnormalities show multiple colors including pink, red, and white, text is visible, and the image was obtained during a colonoscopy.",0
+red,multiple pink and red lesions are present without any visible instruments,0
+green,"no polyp is present, no green or black box artefact is seen, and multiple abnormalities are noted in pink, red, and white colors.",0
+red,"red, yellow, and pink discolorations are seen in the central region with a single lesion present.",0
+red,polyp measuring 11 to 20 millimeters with a pink appearance and a sessile configuration.,0
+red,"abnormalities are distributed across multiple regions including central, lower, and upper areas with varying colors such as pink, yellow, and white.",0
+red,"multiple red and white lesions are present, with no foreign bodies seen",0
+red,"pink, red, and white lesions noted",0
+red,no polyps are present with no identifiable abnormalities in color or size.,0
+red,"multiple colored lesions are distributed across central and upper regions, and the image was obtained via colonoscopy.",0
+red,multiple color changes are seen in various regions of the image,0
+red,"no polyp identified, with multiple colored lesions noted",0
+red,"multiple colored lesions noted, including pink, red, and white areas, with z-line identified.",0
+red,"abnormalities show pink, red, and white hues scattered across multiple regions with no identifiable anatomical landmark visible.",0
+red,"the abnormality shows red, pink, brown, and yellow discolorations scattered across multiple regions, with no instruments visible.",0
+red,"multiple areas showing pink, red, and white lesions",0
+green and black,"multiple colors including flesh, pink, yellow, and orange are observed.",0
+green,"no green or black box artefact is seen, a paris iia polyp is present, and the abnormality shows pink, white, and yellow areas.",0
+red,"pink, red, and white lesions identified",0
+red,"multiple colors including pink, red, white, and purple",0
+red,"no polyps observed, multiple colored lesions noted, and the image is from a colonoscopy examination.",0
+green,"multiple colored abnormalities are noted, including yellow, white, pink, and red, with no evidence of a green or black box artifact, and the image is from a colonoscopy.",0
+red,"no instruments are visible, no polyps are identified, and multiple colors including pink, red, and white are noted in the abnormalities.",0
+red,"no anatomical landmark is visible, with abnormalities showing pink, yellow, and red colors, and a paris is present.",0
+red,polyp with erythematous and pinkish appearances,0
+red,"anatomical landmarks are scattered across central and lower regions, with evidence of oesophagitis noted, and the abnormality exhibits pink, red, and white coloration.",0
+red,"the instrument is positioned in the central and upper-left regions, no anatomical landmark is visible, and the abnormality exhibits pink, red, and white hues.",0
+red,"white, red, and pink lesions noted",0
+red,"pink, red, and white lesions noted",0
+red,fleshy and red in color,0
+red,"no identifiable anatomical landmarks are observed. multiple colors including pink, red, and white are noted in the abnormal areas.",0
+red,"colonoscopy was performed, a paris ip polyp is present, and the abnormality shows pink, red, and white regions.",0
+red,"abnormalities show pink, red, and white hues, cecum is identified, and no instrument is visible.",0
+red,"pink, red, and white lesions present",0
+red,"abnormalities are distributed across multiple regions including central, upper, and lower areas with pink, red, and white coloration.",0
+red,pink and yellow discoloration noted,0
+pink,mucosal pink discoloration,0
+red,"pink, red, and white lesions noted",0
+red,multiple polypoid lesions noted with varied pigmentation,0
+red,"lesion shows multiple colors including pink, red, and white; image obtained via gastroscopy",0
+red,"multiple colored lesions including pink, red, and white with no polyp identified",0
+green,"no green or black box artifact is present, the image is from a colonoscopy, and the abnormalities show grey and white areas.",0
+red,"no polyps remain, multiple color changes are noted, and ulcerative colitis is present.",0
+red,"abnormalities are pink, red, and white, scattered across multiple regions, with no identifiable anatomical landmark visible.",0
+red,"text is present, multiple reddish and pinkish lesions are scattered in the center-right and lower-right regions.",0
+red,the image shows a gastroscopy with multiple colored lesions noted.,0
+red,no polyps observed; multiple colored abnormalities noted,0
+red,"multiple lesions of varying colors including pink, yellow, and white are present; polyp removal is not indicated.",0
+red,"anatomical landmarks are seen in central and lower regions, with abnormal areas showing pink, red, and white discoloration.",0
+red,"no residual polyps identified, with anatomical landmarks exhibiting pink and grey hues.",0
+red,no instruments observed; abnormality shows pink and red coloration,0
+green,"no green or black box artifacts are seen, and multiple colors including pink, red, and white are noted.",0
+red,polyp measures greater than 20 millimeters with red and pink areas noted,0
+red,white and flesh-colored lesions present,0
+green,"no green or black box artefact observed, polyp less than 5 millimeters, and multiple colored lesions including pink, white, and yellow",0
+red,no text observed with multicolored abnormalities noted,0
+red,"multiple abnormalities are present, including pink, red, and white lesions, with no identifiable polyp, and they are scattered across the central, upper-right, and lower regions.",0
+red,no residual polyps identified; multiple colored lesions present,0
+green,"abnormal areas show mixed pink, white, and yellow hues with no green or black box artefact present and no instrument visualized.",0
+red,"multiple colors including pink, red, white, and yellow",0
+green and black,"no green or black box artifacts are present; multiple abnormalities of pink, red, and white color are noted.",0
+green,multiple polypoid lesions with associated red and pink mucosal changes and visible green and black artifacts,0
+red,"abnormalities are scattered across multiple regions including central and upper areas, no polyp is present, and the lesion exhibits pink, red, and white colors.",0
+red,"brown, pink, and white pigmentation observed",0
+red,pink and white areas noted,0
+red,multiple colored lesions scattered across central and lower regions,0
+red,multiple reddish and whitish lesions are distributed across central and upper regions with no instruments present.,0
+green,"no green or black box artifact detected, with pink-colored abnormality noted",0
+red,pink and white lesions located in the central and upper-central regions,0
+red,"multiple colored lesions including pink, red, yellow, and white with no polyp noted",0
+red,"evidence of z-line identified, no polyps noted, and lesions displayed pink, red, and white coloring.",0
+pink,pinkish appearance of the lesion,0
+red,"no evidence of residual polyps; multiple lesions with pink, red, and white discoloration",0
+red,no instruments are visible; abnormal areas show pink and red hues,0
+pink,pinkish hue observed in the anatomical landmark,0
+red,"no instruments or anatomical landmarks are visible, with multiple colored abnormalities noted.",0
+red,evidence of inflammatory changes with areas showing pink and red discoloration,0
+red,multiple abnormalities of varying colors are distributed across central and upper regions of the image.,0
+red,pink and white lesions noted,0
+red,flesh-colored lesion observed in central and right-central regions,0
+red,"no polyp identified with varied mucosal coloration including pink, red, and white",0
+red,"polyp measures greater than 20 millimeters, with red and pink lesions present, and the instrument is positioned in the central, lower-central, and lower-right areas.",0
+red,"yellow, flesh-toned, and red lesions",0
+red,"no instruments are visible, the abnormality shows multiple colors including pink, red, and white, and it is distributed across multiple regions including center, center-left, center-right, lower-center, lower-left, lower-right, upper-center, upper-left, and upper-right.",0
+green,"evidence of ulcerative colitis without green or black box artefacts, with lesions showing pink, red, and brown colors.",0
+red,"multiple lesions show pink, red, and white discoloration with no polyps identified.",0
+red,"there is evidence of a paris is polyp with red and pink lesions scattered across the center, lower-center, and lower-right areas.",0
+pink,lesion appears pink in color,0
+red,polyp measuring between 5 to 10 millimeters with a pink appearance,0
+red,"multiple red and white lesions are present, the image is from a gastroscopy, and there is evidence of esophagitis.",0
+red,"multiple areas with pink, red, and orange discoloration",0
+red,"no polyps observed, no identifiable anatomical landmarks, and multiple colors including pink, red, and white noted in the abnormal regions.",0
+pink,pink and white lesions are present with z-line identification,0
+red,"polyp measures between 5 to 10 millimeters with multiple lesions showing pink, white, and red hues scattered across central and upper regions of the image.",0
+green and black,no green or black artifacts identified; multiple colored abnormalities noted,0
+green,"no text or green/black box artefacts are present, and multiple colored abnormalities including pink, red, and white are observed.",0
+red,"colonoscopic examination shows no polyps removed and multiple color variations including pink, yellow, and white lesions.",0
+red,multiple pink and yellow lesions observed,0
+red,one abnormal area noted with pink discoloration,0
+red,"no abnormalities observed, no instruments visible, and no anatomical landmark identified.",0
+red,evidence of pedunculated polyp with reddish and pinkish mucosal changes,0
+red,"multiple mucosal lesions with varied coloration including pink, red, and white",0
+red,"no text is visible, abnormalities appear as pink and yellow areas, and no instrument is present.",0
+green and black,"evidence of green and black artifact is noted, with multiple areas exhibiting red, pink, and brown discoloration.",0
+red,"abnormalities are observed in the central and lower regions with pink, red, and white discoloration.",0
+red,"no instruments are visible, and multiple colored abnormalities are present.",0
+red,"text is present, with black and white abnormalities noted, and the instrument is positioned in the central and upper regions.",0
+red,no instrument is visible in the image. multiple colored lesions are present.,0
+red,"varied red, pink, and white lesions",0
+red,"anatomical landmarks are seen in the center-left and upper-left regions, no instruments are present, and the abnormalities show pink and red colors.",0
+red,evidence of a paris-type polyp with areas of pink and white discoloration,0
+red,"multiple pink, red, and white lesions are present in the center-left and upper-left regions.",0
+red,"pink, yellow, and red lesions observed",0
+red,"multiple colors including pink, red, and white",0
+red,lesion with flesh-toned and reddish areas,0
+red,"abnormalities are seen scattered across central and upper regions, exhibiting pink, white, and red hues, with no instruments present.",0
+red,"no instrument is visible, evidence of ulcerative colitis is present, and the abnormality shows pink and red areas.",0
+pink,"not all polyps have been removed, the remaining lesion is less than 5 millimeters in size, and it appears pink.",0
+red,no residual polyps identified with multiple colored lesions noted,0
+red,"no polyp observed; multiple colors including yellow, white, and pink noted",0
+pink,text is present and abnormal area appears pink,0
+red,"anatomical landmarks are distributed across multiple regions including central and upper areas, abnormalities show pink and white coloration, and no instruments are visible.",0
+red,"multiple areas show pink, red, and white discoloration",0
+red,"abnormalities are present in multiple colors including pink, red, and white, scattered across various regions of the image.",0
+red,polyp measures between 5 to 10 millimeters with pink and red discoloration,0
+red,"colonoscopic examination reveals a paris ip polyp with red, pink, and yellow lesions.",0
+red,gastroscopy image shows multiple colored lesions without any visible instruments.,0
+red,areas of pink and red discoloration,0
+red,multiple colored lesions are observed across central and upper regions with no polyps identified.,0
+red,no text identified with multiple colored abnormalities noted,0
+green,"the abnormality shows pink, red, and white areas with no green/black box artefact and no instruments present.",0
+red,"abnormalities of pink, red, and white color are scattered across multiple regions including center, center-left, center-right, lower-center, lower-left, lower-right, upper-center, upper-left, and upper-right, with a total of two findings.",0
+red,"multiple pink, red, and white lesions are present, with evidence of esophagitis, and anatomical landmarks are distributed across the center, center-left, lower-center, lower-left, and upper-right regions.",0
+red,flesh-colored and red lesions are scattered across the central and upper regions.,0
+green,"mucosal ulceration is present with areas showing pink and red discoloration, and a green/black box artefact is visible.",0
+red,"no instruments are visible, the abnormality is scattered across multiple regions, and the abnormality shows pink and red colors.",0
+red,polyp measures 5 to 10 millimeters with red and flesh-colored lesions,0
+red,"pink, red, white, and brown lesions observed",0
+red,"multiple polyps are identified, including paris ii and paris i types, with lesions showing pink and red coloration.",0
+red,no polyp is visible with no associated abnormal coloration.,0
+red,"multiple colored lesions including pink, red, and white are present; no instrument is visible.",0
+red,"areas of pink, red, and white discoloration",0
+red,multiple red and white lesions noted without any foreign bodies present,0
+green,"no green or black box artifacts are present, no instrument is visible, and the abnormalities show pink, white, and red coloration.",0
+red,"no instrument is visible in the gastrointestinal tract. multiple colors including pink, red, and white are present in the affected area.",0
+red,a pink-colored polyp measuring 11 to 20 millimeters is present.,0
+red,"multiple colored lesions noted, including pink, red, and white areas; polyp removal is not applicable.",0
+red,pink and red discoloration observed,0
+red,"pink, red, and white lesions",0
+pink,polyps remain in the stomach with a paris iia morphology and red to flesh-colored appearance.,0
+green,abnormalities show pink and red coloration with no polyps identified and no green or black box artefacts present.,0
+red,"colonoscopic examination shows multiple pink, red, and white lesions without any instruments present.",0
+red,"pink, red, and white lesions noted",0
+red,red and white colored landmarks observed,0
+red,"pink, red, and white lesions noted",0
+green,multiple areas of red and pink mucosal changes present without imaging artefact,0
+red,multiple red and white lesions are present; no instruments are visible,0
+red,"pink, red, and white lesions noted",0
+red,"abnormalities are scattered throughout multiple regions including central, upper, and lower quadrants with varied colors such as pink, red, and white.",0
+red,"red, pink, and brown discolorations present",0
+red,red and pink patches noted,0
+red,"abnormalities are scattered across multiple regions including central, upper, and lower areas with pink and red coloration, and text is present.",0
+pink,evidence of pink-appearing lesion,0
+red,the image shows findings from a colonoscopy with multiple colored lesions scattered in the lower central and right regions.,0
+red,"multiple colored lesions including pink, red, and white",0
+red,"text is present with multiple colored abnormalities including pink, red, and white lesions",0
+pink,pinkish hue observed in the anatomical structure,0
+red,"pink, red, and yellow lesions present",0
+red,"text is present, with pink and red colored abnormalities, and polyp removal status is not applicable.",0
+red,"multiple red and white lesions are present without associated anatomical landmarks, consistent with ulcerative colitis.",0
+red,"pink, red, and white lesions noted",0
+red,lesion appears pink and is consistent with a paris-type polyp.,0
+pink,"polyp measuring greater than 20 millimeters with flesh and red areas, consistent with a paris classification type.",0
+pink,"abnormality shows pink and red areas, no polyps are present, and no anatomical landmarks are visible.",0
+red,"red, pink, and grey lesions observed",0
+red,"multiple red and white lesions are present, no instruments are visualized, and the image is from a gastroscopy procedure.",0
+pink,"no residual polyps identified, no anatomical landmarks visualized, and abnormal area appears red",0
+red,"the abnormality shows red, flesh, and white colors and is distributed in the center-right, lower-center, lower-right, upper-center, and upper-right regions, with one polyp identified.",0
+red,"abnormalities are present in multiple regions including central, upper, and lower areas, exhibiting pink, red, and white colors, and the image was obtained during a gastroscopy.",0
+red,"text is present, the procedure was a colonoscopy, and multiple colored abnormalities are noted including pink, yellow, and red lesions.",0
+pink,"no instrument is visible, and the anatomical landmark shows a pink and red coloration.",0
+red,"multiple pink, red, and white lesions are present; no instruments are visible.",0
+red,pink and white lesions noted,0
+red,"abnormality shows multiple colors including pink, white, and yellow; no polyp is present; text is visible.",0
+red,"multiple colored lesions including red, orange, yellow, and white are present, along with a paris-type polyp.",0
+pink,pink-colored lesion observed,0
+red,red and flesh-colored lesions,0
+red,"multiple findings are present, including pink, red, and white abnormalities scattered across central, upper, and lower regions of the image.",0
+green,"multiple color variations including pink, red, and white are noted without evidence of green or black box artifacts.",0
+red,"pink, red, and white lesions detected",0
+red,"text is present. multiple colors including pink, red, and white are observed.",0
+red,red and pink areas observed,0
+red,no polyps observed; areas exhibit pink and white discoloration,0
+red,"abnormalities are distributed across multiple regions including the center, upper, and lower quadrants with varying red and pink hues.",0
+red,"areas exhibiting pink, red, and white discoloration",0
+red,"areas of pink, red, and white discoloration",0
+red,no foreign instruments are present. multiple colored lesions observed.,0
+green,"no text is present, multiple colored abnormalities are observed, and no green/black box artifacts are detected.",0
+red,"lesion appears pink, red, and white in color",0
+green and black,no green or black box artifacts observed; abnormality appears as flesh and red in color,0
+red,"evidence of z-line is present, with lesions displaying pink, red, and white hues.",0
+red,"no instruments are visible, no anatomical landmark is identified, and the abnormality shows pink and red coloration.",0
+red,"lesions exhibiting white, red, and yellow discoloration",0
+red,"presenting with pink, red, and white discoloration",0
+red,"pink, red, and white lesions observed",0
+red,"red and flesh-colored lesions are observed in the central and center-right regions, suggestive of a polypic lesion.",0
+green and black,"no green or black box artifacts noted, with red, pink, and yellow abnormalities identified",0
+red,"pink, red, and white coloration observed",0
+red,"no instrument is visible in the image. abnormal areas show pink, yellow, and white discoloration.",0
+red,"no residual polyps identified, multiple colored abnormalities observed, and no text present.",0
+green,"no evidence of remaining polyps, multiple colored lesions observed, and no green or black box artefact present.",0
+red,multiple polyps with pink and red areas noted in the gastrointestinal tract,0
+red,"no polyps are visible, and no abnormal colors are present.",0
+red,"abnormalities show multiple colors including pink, red, brown, and orange, no polyp is present, and the image was obtained during a colonoscopy.",0
+red,"a single abnormality is present, distributed across multiple regions with pink, red, and white coloration.",0
+green and black,no green or black box artifacts noted; abnormalities appear pink and white,0
+red,"no instruments or anatomical landmarks are visible, and multiple colored abnormalities are present.",0
+pink,presence of pink-colored lesion,0
+red,"lesion shows pink, red, and white areas",0
+pink,pink-colored lesion noted,0
+red,"pink, red, and white lesions noted",0
+red,pink and red areas noted,0
+red,no polyp identified with multiple color changes observed,0
+pink,"multiple polyps are present, not all have been removed, and the lesions are white and flesh-colored.",0
+red,"abnormalities show pink and red discoloration, no instrument is visible, and ulcerative colitis is present.",0
+red,multiple colored lesions and evidence of esophageal inflammation are present.,0
+red,no instruments identified. abnormalities appear pink and red.,0
+red,"colonoscopy was performed with findings of pink, red, and white abnormalities, and no polyp is present.",0
+red,"no surgical instruments are visible, multiple abnormalities show pink, red, and white discoloration, and anatomical landmarks are located in the central, center-right, lower-central, lower-right, and upper-right areas.",0
+red,"pink and red lesions noted, no anatomical landmarks identified",0
+pink,"no instrument is visible, no polyp is present, and the abnormality shows mixed pink and red hues.",0
+red,"abnormalities observed in multiple regions including center, upper, and lower areas with varying colors such as pink, red, and white",0
+red,pink and yellow lesions observed,0
+red,"no instruments are visible, evidence of esophagitis is present, and the lesion shows pink, grey, and white areas.",0
+red,evidence of pink-appearing lesion,0
+red,"text is present, with abnormalities distributed across multiple regions including central, upper, and lower areas, exhibiting pink, red, and white colors.",0
+red,there is a pink-colored polyp noted in the gastrointestinal tract.,0
+red,red and flesh-colored lesions present,0
+red,"pink, red, and white lesions identified",0
+green and black,no green or black artifacts observed; red and pink areas noted,0
+red,pink-colored lesion detected with visible text,0
+red,"abnormalities show multiple colors including pink, red, and white, the image is from a gastroscopy, and text is present.",0
+red,"no instruments are visible, and the abnormality exhibits multiple colors including pink, white, yellow, and red.",0
+red,"multiple colored lesions are present, no polyp is noted, and evidence of esophagitis is observed.",0
+red,"abnormalities exhibit multiple colors including pink, red, white, and yellow with no visible anatomical landmarks and evidence of ulcerative colitis.",0
+red,"multiple reddish and pinkish lesions are seen, landmarks are noted in central and lower-central regions, and there is evidence of ulcerative colitis.",0
+pink,abnormality located in central and upper regions with pink and white coloring,0
+red,multiple red and white lesions noted without identifiable anatomical landmarks,0
+pink,pink-colored lesion,0
+red,"text is present, evidence of oesophagitis is observed, and the abnormality shows pink, red, and white hues.",0
+red,the image shows a colonoscopy with reddish and pinkish lesions located in the central region.,0
+red,text is present with red and pink abnormalities noted,0
+green,"evidence of green and black box artifacts, areas of pink and red abnormalities, and visible text is present.",0
+red,evidence of a pink-colored polypoid lesion,0
+red,multiple colored lesions noted,0
+red,"multiple pink, red, and white lesions are present without any text",0
+red,"pink, red, and white areas noted",0
+red,"multiple red and pink mucosal lesions are seen, consistent with ulcerative colitis, during a colonoscopy examination.",0
+red,"the abnormality shows multiple colors including pink, red, and white and is distributed across various regions including center, center-left, center-right, lower-center, lower-left, lower-right, upper-center, upper-left, and upper-right with no instruments visible.",0
+red,"text is present, multiple abnormalities are noted, with pink and red coloration scattered across the central and lower regions of the image.",0
+red,"gastroscopic findings show multiple colored lesions including pink, red, and white areas.",0
+red,incomplete polyp removal noted with multiple flesh-colored and white lesions present,0
+red,"multiple lesions with pink, yellow, and white discoloration",0
+red,"no polyps observed, no instruments visible, and the abnormality shows pink, red, and white hues.",0
+red,"multiple polyps with variable coloration including orange, flesh, and white tones are present.",0
+red,"multiple lesions with white, red, yellow, and flesh-colored areas",0
+red,"no polyps identified, image obtained during colonoscopy, abnormal areas show pink, red, and white discoloration",0
+red,"no instruments are visible. abnormalities appear in multiple colors including pink, white, and yellow.",0
+red,no surgical instruments identified. multiple colored lesions noted.,0
+red,"multiple colored abnormalities noted, including pink, red, and white lesions.",0
+green,evidence of mucosal inflammation with multiple colored lesions observed,0
+red,abnormal tissue appears pink and the polyp measures less than 5 millimeters.,0
+red,"polyps remain in the colon, the image is from a colonoscopy, and the abnormality shows red, pink, and white areas.",0
+red,the image is from a colonoscopy showing a small pink polyp less than 5 millimeters in size.,0
+red,"multiple colored lesions with red, pink, and orange mucosal changes",0
+red,multiple reddish-pink lesions are distributed across central and upper regions,0
+red,"no foreign bodies noted. lesion shows varying shades of pink, red, and white.",0
+red,multiple red and pink lesions identified during colonoscopy,0
+red,no instruments detected. abnormalities noted in pink and red hues.,0
+red,"pink, red, and white lesions observed",0
+red,no text detected. abnormality shows red and pink discoloration.,0
+red,pink and red discoloration noted,0
+red,features consistent with paris iia classification and areas demonstrating red and pink discoloration,0
+red,"multiple red, pink, and white lesions are present, the image is from a gastroscopy, and the z-line is visible.",0
+red,"multiple colored lesions including pink, red, and white are seen without any text",0
+red,"findings suggest inflammatory changes with pink, red, and white lesions present.",0
+red,"text is present, multiple colors including pink, red, orange, and brown are observed, and no polyp is identified.",0
+red,abnormality shows pink and brown discoloration with visible text,0
+red,"no instrument is visible, multiple colored abnormalities are present, and two distinct findings are identified.",0
+red,mucosal polyp consistent with paris iia classification with pink and white areas observed,0
+red,"red, pink, and white lesions are located in the center-left, upper-center, and upper-left regions.",0
+pink,"no polyps are visible, with pink, red, and white abnormalities noted.",0
+red,presence of z-line identified; multiple colored lesions observed,0
+red,"some polyps remain, with pink and white areas observed, and a paris-type polyp is present.",0
+red,"no instruments are present, no polyps are identified, and the abnormality exhibits pink, red, and white colors.",0
+pink,"multiple colors including pink, red, and white are noted. polyp status is not applicable.",0
+red,"pink, red, and white lesions identified",0
+red,"no polyps are present, with lesions of varying colors including pink, red, and brown, and removal status is not applicable.",0
+red,areas showing pink and red discoloration,0
+red,"multiple instruments are present, with the abnormality showing red, pink, and orange hues, and the instrument located in the central, lower-central, and lower-right areas.",0
+red,evidence of hyperplastic polyp with red and pink mucosal changes,0
+red,"no anatomical landmark is visible, multiple abnormalities show pink and red hues, and the image is from a colonoscopy procedure.",0
+red,"multiple findings are present in scattered locations across the central and upper regions, exhibiting pink, red, white, and yellow colors.",0
+red,"evidence of ulcerative colitis scattered across multiple regions with pink, white, and yellow discoloration.",0
+red,"varied red, pink, and white lesions",0
+red,"the abnormality shows red, pink, and white areas scattered across the center, center-left, lower-left, and upper-center regions, with one polyp identified.",0
+red,"no text is visible, multiple colors including pink, red, and white are noted, and no polyp is identified.",0
+red,"evidence of mucosal inflammation with pink, red, and white discoloration noted",0
+red,multiple pigmented lesions noted,0
+red,a tube is visible in the upper-right and center regions with a flesh-colored abnormality present.,0
+red,multiple colored lesions noted,0
+red,"abnormalities show pink, red, and white areas; the image is from a gastroscopy; no text is present.",0
+red,no instruments are present. the abnormalities show pink and red coloration.,0
+red,"no anatomical landmarks are visible, multiple reddish-pink abnormalities are noted, and no instruments are present.",0
+red,red and pink lesions are distributed in central and lower regions of the image.,0
+green,"mucosal inflammation is present with pink, red, and white discolorations, and no green or black box artifact is observed.",0
+red,"polypoid lesion noted with red, pink, and white color variations seen during colonoscopy.",0
+pink,"no instruments are visible, and the abnormality appears pink.",0
+red,no residual polyps identified with pink and white areas observed,0
+red,"multiple polypoid lesions are observed, displaying pink and red coloration, scattered across the central, upper-center, upper-right, center-right, and lower-right regions.",0
+red,"pink, red, and white lesions observed",0
+red,colonic examination revealed multiple reddish and white lesions.,0
+red,areas showing pink and red discoloration,0
+red,"no specific anatomical landmark is identified, multiple colors including pink, red, white, and yellow are noted, and the image was obtained during a colonoscopy.",0
+red,no polyp identified with multiple color changes noted,0
+red,"text is present, a paris iia polyp is identified, and the abnormality shows red, pink, and yellow hues.",0
+red,"no instruments are visible, no polyps are present, and the anatomical landmarks show pink and red coloration.",0
+green,"the abnormality shows pink and red hues, the cecum is visible, and no green/black box artefact is present.",0
+red,"text is present, multiple colors including pink, red, yellow, and orange are noted, and no polyp is seen.",0
+red,pink and red areas observed,0
+red,white and red colored lesions present,0
+red,multiple red and pink lesions observed during colonoscopy,0
+green,"multiple colorations including pink, red, white, and grey are noted; no green or black box artefact is present.",0
+red,the image is from a gastroscopy with multiple colored abnormalities and the z-line is present.,0
+red,"the abnormality shows red, pink, and yellow areas, located in the central and upper-central regions, with a single polyp observed.",0
+red,"the abnormality shows red and pink discoloration located in the central and lower-central regions, with a single distinct finding present.",0
+red,"no text is present, multiple colors including pink, red, and white are observed, and the z-line is clearly visible.",0
+red,multiple colored lesions present,0
+red,"multiple mucosal changes with varied coloration including pink, red, and white areas",0
+red,"the image is from a colonoscopy, showing the cecum, and revealing pink and red abnormalities.",0
+red,"no polyp detected, evidence of oesophagitis with pink, red, and white colored lesions",0
+red,multiple reddish and white lesions are present,0
+green and black,"no green or black box artifacts are observed; multiple colors including pink, red, white, and yellow are present",0
+red,red and pink lesions are observed in the central and lower-left regions of the image.,0
+red,no polyp detected with pink and white coloration observed,0
+red,"multiple colored lesions including pink, red, and white with no visible polyp",0
+red,"pink, red, and white lesions noted",0
+green,"no green or black box artifacts are present, no instruments are visible, and the abnormality shows pink, red, and brown areas.",0
+red,"anatomical landmarks are distributed across central and lower regions, with multiple areas showing pink, red, and white abnormalities, and no instrument is visible.",0
+red,pink and red lesions noted,0
+mixed,"no polyps identified, no evidence of polyp removal, and multiple colored lesions observed.",0
+pink,"no text is visible, the abnormality is pink in color, and it is located in the central and lower-central regions of the image.",0
+green,"no green or black box artifacts are present, multiple abnormalities of pink, red, and white color are noted, and anatomical landmarks are distributed across central and upper regions as well as lower areas.",0
+red,multiple reddish and white-colored lesions are present with no visible polyp,0
+red,multiple polyps with varying colors are distributed across the central and peripheral regions of the image.,0
+red,polyp measures less than 5 millimeters in size with pink appearance,0
+red,"pink, red, and white lesions noted",0
+red,"abnormalities show pink, white, and yellow discoloration with text present",0
+red,"pink, red, and yellow lesions observed",0
+red,"metallic clip noted, performed during a colonoscopy, with lesions showing flesh and red hues",0
+red,red and pink discolorations present,0
+red,"no instrument is visible in the image, and multiple red and pink lesions are present.",0
+red,"no instrument is visible, multiple colored abnormalities are present, and text is visible.",0
+red,"abnormalities are scattered across multiple regions including upper, lower, and central areas, with pink and red hues, and the anatomical landmark is located in the lower-right quadrant.",0
+red,"text is present, multiple red and pink lesions are noted, and ulcerative colitis is evident.",0
+red,"multiple lesions demonstrate varying colors including pink, red, and orange. no instruments are present in the field.",0
+red,"evidence of ulcerative colitis is noted with lesions scattered across multiple regions including the center, center-left, center-right, lower-center, lower-right, upper-center, upper-left, and upper-right, displaying pink, red, and white discolorations.",0
+red,"no instrument is visible, evidence of esophagitis is present, and the abnormality shows pink, red, and white areas.",0
+red,polyps remain present. abnormalities exhibit pink and white coloration.,0
+red,no anatomical landmarks identified. abnormalities noted in pink and red hues.,0
+red,"no anatomical landmark is visible, no instruments are present, and the abnormality shows multiple colors including pink, red, yellow, and white.",0
+red,multiple areas of pink and white coloration noted without any visible instruments,0
+red,no polyps identified; multiple colored lesions noted,0
+green,multiple abnormalities are present in central and upper regions with pink and red discoloration.,0
+red,"no anatomical landmark is visible, multiple abnormalities are present in pink and yellow, and polyp removal is not applicable.",0
+red,"lesions exhibit multiple colors including pink, red, white, and brown",0
+green,"abnormalities show pink and red hues, no instrument is visible, and no green or black box artefact is present.",0
+red,"the image shows a gastroscopy, with multiple colored lesions observed, and polyp removal is not applicable.",0
+red,"anatomical landmark is situated in the lower central region, multiple colored lesions including yellow, pink, and brown are noted, and a paris-type polyp is present.",0
+red,"multiple colored lesions observed, text visible, and no identifiable anatomical landmarks",0
+red,"the image is from a colonoscopy, text is present, and multiple colored abnormalities are observed.",0
+red,"abnormalities show pink, red, and yellow discoloration with no instruments present, and the landmark is located in the lower-left region.",0
+green,"abnormalities show pink, red, and white areas with no green or black box artefact and no identifiable anatomical landmark.",0
+red,pink and red lesions noted,0
+red,"abnormalities show varied colors including pink, red, and white, no polyps are present, and the anatomical landmark is positioned in central and upper regions.",0
+red,no polyp identified with multiple colored lesions noted,0
+red,"pink, red, and white colored lesions",0
+red,text is present and the abnormality shows multiple colors including flesh and red,0
+red,"multiple red, pink, and white lesions",0
+red,"multiple colored lesions including pink, yellow, and white",0
+green,"no instruments are visible, multiple colored abnormalities are present, and no green/black box artefact is observed.",0
+red,"no surgical instruments identified. multiple colors including pink, red, white, and yellow observed.",0
+red,"multiple areas of pink, red, and white discoloration",0
+green,"no artefact is present, the abnormality is pink in color, and no instrument is visible in the image.",0
+red,evidence of inflammatory changes with multiple color variations and a visible z-line is present.,0
+red,"no text is present, no instruments are visible, and multiple abnormalities are noted in pink and red colors.",0
+red,"instruments are seen in multiple areas including the center, upper-center, and upper-right, with evidence of ulcerative colitis and red and pink lesions observed.",0
+red,no polyp observed with multiple color changes noted,0
+red,pink and white colored lesions,0
+red,"no text is present, no instruments are visible, and multiple colors including pink, red, and white are noted in the abnormal areas.",0
+green and black,"no green or black box artifacts are present, text is visible, and the abnormalities show red and pink discoloration.",0
+red,"multiple colored landmarks are visible, including the z-line, and no polyp is detected.",0
+red,"abnormalities show pink, brown, and white areas with no identifiable anatomical landmarks present.",0
+red,"no residual polyps identified, with multiple colored lesions observed, and no polyp present.",0
+red,the image shows a colonoscopy with a pink lesion located in the center-right area.,0
+red,"multiple colored lesions noted including white, pink, and red; no instrument visible",0
+red,"pink, red, and white colored structures",0
+red,no polyp detected with multiple colored lesions observed,0
+red,"multiple polypoid lesions with varying colors including red, pink, and yellow",0
+red,"the cecum is visualized, multiple colored abnormalities are present, and no instrument is identified.",0
+red,"gastroscopy was performed with no polyps identified and multiple abnormalities noted in pink, red, and white colors.",0
+red,"varied coloration including pink, white, and yellow",0
+pink,lesion appears pink in color,0
+red,"abnormalities are distributed across multiple regions with varied colors, and no instruments are visible.",0
+red,"multiple colored lesions including pink, red, and yellow",0
+red,"the lesion measures 11 to 20 millimeters and is pink in color, located in the central and upper-right regions.",0
+red,"no residual polyps observed, with pink and red colored lesions noted",0
+red,"areas of pink, red, and white discoloration",0
+red,abnormality shows pink and red coloration with visible text,0
+red,"no surgical instruments are visible. multiple colors including pink, red, and white are present in the abnormal area.",0
+green,"polyps remain present, green/black box artefact is observed, and the abnormality shows pink discoloration.",0
+red,"multiple findings are observed in scattered locations with varied colors including pink, red, grey, and white.",0
+green,"the z-line is visible, with pink and red coloration, and no green or black box artefact is present.",0
+red,"multiple colored lesions including brown, red, and pink with a 11-20mm polyp noted",0
+red,"multiple colored lesions noted including pink, red, and white areas with no polyp identified",0
+red,text is present and multiple areas show pink and white discoloration,0
+red,pink and white lesions noted,0
+green,"multiple colored lesions including pink, red, and white are noted, with no green or black box artifact present.",0
+pink,a tube is present in the lower-central region with a pink abnormality noted.,0
+red,"endoscopic evaluation shows pink, red, and white lesions",0
+red,"abnormalities are scattered across multiple regions including center, upper, and lower quadrants with no instruments visible and lesions appearing pink, red, and white.",0
+red,"multiple findings include pink, red, and white abnormalities, with evidence of esophagitis.",0
+red,"no instruments are visible, and no abnormal coloration is observed.",0
+red,pink and white areas noted,0
+red,"no surgical instruments are visible, the anatomical landmark is positioned in the central and lower-central areas, and the abnormality exhibits pink and red hues.",0
+red,"text is present, the image is from a colonoscopy, and the abnormalities show flesh-colored and red lesions.",0
+red,"anatomical landmarks are distributed in the central and upper regions, with abnormal areas showing pink, red, and white hues.",0
+red,"no polyp is visible, multiple colors including pink, red, and white are noted, and no anatomical landmark is identified.",0
+red,"the image is from a colonoscopy showing a polyp measuring 11 to 20 millimeters with lesions of flesh, yellow, and red coloration.",0
+red,"a mucosal polyp is present with flesh-colored and white regions, and a tube is visible in the upper-left quadrant.",0
+red,"abnormalities show varying colors including pink, white, and brown, not all polyps have been removed, and no anatomical landmarks are visible.",0
+green,"multiple reddish-pink and white lesions are present, along with evidence of oesophagitis, and no green or black box artefact is observed.",0
+red,"multiple colored lesions are observed, the image is from a colonoscopy, and ulcerative colitis is present.",0
+red,"the z-line is visible, with lesions exhibiting pink, red, and white colors, as seen during a gastroscopy.",0
+red,"lesions exhibit pink, red, and orange hues",0
+red,"varied hues of flesh, red, and white noted",0
+red,"pink, red, and white lesions noted",0
+red,"mucosal changes consistent with ulcerative colitis are present, no text is visible, and the abnormality shows pink, yellow, and white discoloration.",0
+pink,no residual polyps identified with multiple color changes noted,0
+red,"no instrument is visualized, no polyp is identified, and the abnormality displays pink, red, and white areas.",0
+green,"no polyp is identified, no artefact is present, and the abnormality exhibits pink, red, and white areas.",0
+green and black,"no green or black box artifacts observed; multiple abnormalities with flesh, white, and yellow hues",0
+red,"one polyp is present, showing pink and red coloration.",0
+red,polyp measuring 11 to 20 millimeters with red and pink areas located in the central and upper-center regions.,0
+red,"pink, red, and white lesions observed",0
+red,"no polyp is visible, the anatomical landmark is scattered across central and lower regions, and the colors include red, pink, and white.",0
+red,"pink, red, and yellow lesions identified",0
+red,"no instruments are visible, and multiple colors including pink, red, and white are present in the abnormal regions.",0
+red,"evidence of cecal landmark noted. multiple colored lesions observed including pink, red, white, orange, and yellow.",0
+red,"the polyp shows multiple colors including pink, brown, and white, measures 11 to 20 millimeters in size, and is classified as a paris type polyp.",0
+red,evidence of a pink-colored polyp seen in the gastrointestinal tract,0
+red,"no polyps are present, and abnormalities are scattered across multiple regions with varying colors including pink, red, and white.",0
+green,"multiple colored lesions observed including pink, yellow, and red with presence of green/black box artefact",0
+red,"no anatomical landmark identified; multiple color changes observed including pink, red, and white lesions.",0
+red,"pink, red, and white areas noted",0
+red,"the abnormality shows pink, red, and white areas, the z-line is visible, and no polyp is present.",0
+red,findings consistent with colonoscopy show multiple colored lesions.,0
+red,evidence of remaining polyps and multiple colored abnormalities observed,0
+red,multiple red and pink lesions scattered across central and upper regions,0
+red,"residual polyps remain, with multiple abnormalities showing white, red, and pink hues scattered in the central and lower regions.",0
+red,"text is present, multiple abnormalities show pink and red hues, and a paris-type polyp is identified.",0
+red,"colonoscopic examination reveals multiple colored lesions including pink, red, white, and yellow areas.",0
+red,"multiple pink and red lesions are observed without any identifiable anatomical landmarks, suggestive of ulcerative colitis.",0
+red,"no instruments are visible, and the abnormality shows multiple colors including pink, yellow, and white.",0
+red,"no text is visible, no polyps are identified, and the abnormalities exhibit pink and white colors.",0
+mixed,"no polyps are identified, with abnormalities showing pink and red colors, and no anatomical landmark is visible.",0
+red,polyp measures less than 5 millimeters in size with a pink appearance,0
+red,"multiple red and white lesions noted, no text observed",0
+red,no foreign bodies observed; multiple color changes noted in the lesion,0
+red,"no polyp is seen, and no instruments are visible in the image.",0
+red,"residual polyps are present, with abnormalities showing red, pink, and yellow hues located in the central, center-right, lower-center, and lower-right regions.",0
+red,"multiple abnormalities are present in scattered regions of the image, displaying a variety of colors including pink, red, yellow, white, and grey, with a paris iia polyp noted.",0
+green,multiple colored lesions observed with presence of green/black box artefact,0
+pink,"no polyps are present, no removal was necessary, and the abnormality shows pink and white discoloration.",0
+red,pink and red discoloration noted,0
+pink,multiple pink and white lesions are present with z-line visible,0
+red,"multiple polypoid lesions are present, ranging in size from 11 to 20 millimeters, with varied colors including pink, red, and yellow.",0
+red,"the lesion measures 11 to 20 millimeters and is pink, located in the central, upper-right, lower-right, and lower-center regions.",0
+red,pink and white lesions noted,0
+red,"multiple colored lesions noted including pink, red, and white areas; performed gastroscopy",0
+red,no polyps are visible; multiple colored abnormalities are present,0
+red,"abnormalities are distributed across multiple regions including central, upper, and lower areas, no anatomical landmarks are visible, and the abnormality exhibits pink and red hues.",0
+green,"no green or black box artifacts are present, the polyp measures 5 to 10 millimeters, and the abnormality appears pink.",0
+pink,"abnormalities exhibit pink, red, and white lesions with no text observed and no polyps identified.",0
+red,"lesions showing pink, red, and white discoloration",0
+green,no artefact detected and no instruments visualized in the image.,0
+red,"the abnormality is flesh-colored and reddish, located in the center, center-left, and lower regions, with one polyp observed.",0
+red,"red and pink lesions are present in the central, center-left, and lower-left regions.",0
+red,"no instruments detected, no polyp identified, and multiple colors including pink, red, and white are present.",0
+red,"pink, red, and white lesions observed",0
+red,multiple pink and red lesions noted,0
+red,"multiple red and pink lesions are present, indicating ulcerative colitis, with no instruments visible.",0
+red,"no instrument is visible, and multiple abnormalities are present in various regions including central, upper, and lower areas, displaying pink, red, yellow, and white colors.",0
+red,"multiple abnormalities with pink, red, and white discoloration are present; no instrument is visible",0
+red,"abnormalities show pink, red, and white discoloration with no visible anatomical landmark and zero instruments present.",0
+red,"multiple red and pink mucosal lesions are present, the image was obtained during a colonoscopy, and no significant anatomical landmarks are visible.",0
+red,"text is present, multiple colors including pink, red, and brown are observed, and no polyp is identified.",0
+red,"no instrument is visible, multiple colored abnormalities are present, and the z-line is identified.",0
+red,"varied discoloration including pink, red, orange, and brown",0
+red,"no instrument is visible, text is present, and the abnormality shows pink, red, and white areas.",0
+green,"no green or black box artifacts or text are present, and the abnormality shows white and flesh-colored regions.",0
+red,"no polyp is identified with mucosal areas exhibiting pink, red, and brown discoloration",0
+red,multiple colored lesions observed with no polypoid structures present,0
+red,multiple colored lesions observed with no evidence of polyp formation,0
+red,"pink, red, and white lesions noted",0
+pink,text is present with reddish-pink colored abnormalities,0
+red,"no instrument is visible in the image. abnormalities exhibit pink, red, and white coloration.",0
+pink,"polyps remain present, the image is from a colonoscopy, and the abnormality shows white and flesh-colored lesions.",0
+red,multiple red and white lesions are present without any instruments visible,0
+red,"pink, grey, and red lesions noted",0
+red,colonoscopic view shows multiple colored lesions and biopsy forceps in place.,0
+red,"multiple areas showing pink, red, and white lesions",0
+red,"abnormalities show pink, red, and white areas, no anatomical landmark is visible, and polyp removal is not applicable.",0
+red,yellowish discoloration observed,0
+red,"multiple colored lesions noted including pink, red, and white areas; polyp removal status is not applicable",0
+red,"no instruments or anatomical landmarks are visible, and multiple abnormal areas show pink, red, and white discoloration.",0
+red,"red and pink abnormalities are present along with two findings, and the instrument is positioned in the central and upper regions.",0
+green,lesion appears pink and red without evidence of green or black box artefact,0
+red,"mucosal inflammation is present, no instrument is visible, and the abnormality shows varied colors including pink, red, and white.",0
+red,"multiple pink, red, and white lesions are present without any instruments, suggesting ulcerative colitis.",0
+red,"abnormalities show pink, red, and white areas with no polyps identified",0
+red,evidence of a paris ip polyp with multiple colored lesions scattered in the central and upper-right regions.,0
+red,multiple colored lesions present,0
+red,"polyps remain in place, text is visible, and the abnormalities exhibit pink, red, and white coloring.",0
+red,"abnormalities show pink and yellow discoloration, no instrument visible",0
+red,the abnormality shows red and pink hues and is located in the lower-central region with a single polyp observed.,0
+red,"lesion exhibits pink, red, and white areas",0
+green,"no green or black box artifacts are seen, no polyps are present, and multiple colors including pink, red, white, and yellow are noted.",0
+red,pink and white colored lesions,0
+red,"no polyps are visible, with abnormalities scattered in multiple locations including central and upper regions, showing pink and red colors.",0
+red,abnormalities exhibit pink and red hues without visible instruments and show evidence of ulcerative colitis.,0
+red,"lesions displaying pink, white, and yellow discoloration",0
+red,"pink, red, and white lesions observed",0
+red,evidence of colonoscopy findings with multiple colored lesions observed,0
+red,"pink, red, and white lesions noted",0
+red,"multiple lesions showing pink, red, and white hues",0
+red,colonoscopic examination revealed lesions with varying coloration including flesh-toned and red areas.,0
+red,"the image is from a gastroscopy, with abnormalities distributed across multiple quadrants, and red, pink, and white-colored anatomical landmarks are noted.",0
+red,"multiple polypoid lesions with red, pink, and yellow discoloration",0
+green,"abnormalities show pink, red, and white hues with z-line visible and no green/black box artefact detected.",0
+green,"red and pink areas noted, no green or black box artefact observed",0
+red,"no anatomical landmarks are visible. the abnormalities show varied colors including pink, red, and white.",0
+green,"no green or black box artifacts are present, and the abnormality shows red, pink, and yellow colors.",0
+red,red and pink mucosal lesions,0
+red,"no anatomical landmarks are visible, multiple color abnormalities are present, and no polyp is identified.",0
+red,multiple red and pink lesions are present in the central and lower-central regions of the image.,0
+green,"multiple abnormal areas with pink, yellow, and white discoloration are present.",0
+red,"no anatomical landmarks are identified, and multiple colored lesions are present.",0
+red,"polyps were not completely removed, the procedure was a colonoscopy, and the abnormality shows multiple colors including white, yellow, red, and flesh tones.",0
+green,"multiple red and white lesions are present, no green or black artefacts are seen, and no instruments are visualized.",0
+pink,evidence of pinkish mucosal lesion,0
+red,red and pink lesions are distributed in the central and lower regions,0
+pink,focal pinkish mucosal changes,0
+red,"a paris iia polyp is observed, appearing pink and located in the center-right region of the image.",0
+red,"multiple colors including pink, red, grey, and white are noted, with the z-line clearly identified.",0
+red,evidence of inflammatory changes with pink and red mucosal areas observed,0
+red,"no polyps observed, multiple abnormalities with pink and red hues, scattered across central and upper regions as well as lower quadrants.",0
+red,"evidence of ulcerative colitis is present, polyp removal status is not relevant, and the abnormalities show pink and red discoloration.",0
+red,"instrument is positioned in the central and lower-central areas, polyp measures 5 to 10 millimeters, and the abnormality shows red and pink hues.",0
+red,lesion shows pink and red areas,0
+red,multiple red and white lesions observed with no polypoid structures noted,0
+red,"multiple colored lesions including pink, red, and white areas are present without any polypoid structures.",0
+red,"areas of pink, red, and white discoloration seen",0
+red,colonoscopy was performed with red and pink abnormalities located in the central and lower-central regions.,0
+red,"pink, red, and white lesions noted",0
+green,"polyps remain in place, a green/black box artefact is present, and the abnormality shows pink and red hues.",0
+red,abnormality located in central and lower regions with a pink color and one polyp observed.,0
+red,"no polyps detected, no instrument visualized, and multiple colors including pink, red, and white noted in the abnormal area.",0
+green and black,"no green or black box artifacts are seen; multiple colors including pink, red, and white are present",0
+red,"no polyp is present, no anatomical landmark is visible, and the abnormality shows no distinct coloration.",0
+red,"no instrument is visible in the image, multiple colors including pink, red, and white are observed in the abnormal area, and the polyp measures 5 to 10 millimeters in size.",0
+green and black,evidence of green and black artifact noted; abnormal areas show pink and red hues,0
+red,there is a polyp measuring 11 to 20 millimeters with a red and pink appearance.,0
+red,"polyp measures greater than 20 millimeters with lesions displaying red, white, and yellow hues",0
+red,"multiple colors including pink, yellow, and white",0
+red,"abnormalities exhibit pink, yellow, and red hues, not all polyps have been removed, and text is visible.",0
+red,"polyp measures between 11 to 20 millimeters with multiple color changes including pink, red, and white",0
+red,"the cecum is present, and multiple red and pink abnormalities are scattered across central and upper regions of the image.",0
+red,"multiple abnormalities of pink, red, and white color are scattered across central and upper regions, consistent with ulcerative colitis.",0
+pink,"text is present, the abnormality appears pink, and the ileum is visible.",0
+pink,pink-colored mucosal lesion,0
+red,"multiple lesions with pink, red, and white discoloration",0
+red,"abnormalities are observed in multiple locations including central, upper, and lower regions, presenting in various colors such as pink, red, white, and grey, with evidence of oesophagitis present.",0
+red,"multiple polyps with red, pink, and white coloration",0
+red,"multiple colors including pink, red, white, and yellow",0
+red,no polyp identified with multiple color changes noted,0
+pink,text is present and pink-colored abnormality noted,0
+red,"pink, red, and white lesions noted",0
+green,"no polyps remain, no artefacts observed, and multiple abnormalities noted in pink, red, and white colors.",0
+red,"lesions showing pink, red, and white discoloration",0
+red,"pink, red, and white discoloration noted",0
+red,"varied pink, red, and white lesions",0
+red,pink and red colored lesions,0
+red,no polyp identified; multiple colored lesions present,0
+green,"polyps remain in place, a green/black box artefact is present, and the abnormality shows multiple colors including flesh, yellow, and orange.",0
+red,"text is present, and the abnormality appears as white and flesh-colored lesions scattered across the central and lower regions.",0
+red,"no polyps are identified, with pink and red abnormalities noted, and no distinct anatomical landmark is visible.",0
+red,multiple colored lesions present,0
+red,no polyp identified with multiple color changes noted,0
+red,red and pink colored lesions,0
+red,"no polyps are present, multiple abnormal areas show pink, red, and white discoloration.",0
+red,"abnormalities exhibit pink, red, and white discolorations, no instrument is visible, and anatomical landmarks are distributed across the central, left, and lower regions.",0
+red,"pink, red, and white lesions present",0
+red,abnormal findings show pink and purple hues,0
+red,"gastroscopy demonstrates multiple mucosal abnormalities with pink, red, and white lesions.",0
+red,pink and white areas noted,0
+red,text is present. abnormal areas show pink and white discoloration.,0
+red,"no polyp is present, and no abnormal coloration is noted.",0
+red,"anatomical landmarks are seen in the center-left and lower-left regions, multiple abnormalities exhibit pink, red, yellow, and orange colors, and no polyp is present.",0
+red,"multiple colored lesions noted including pink, red, white, and yellow; performed during a colonoscopy",0
+red,"pink, white, and red colored structures noted",0
+red,no polyp identified with multiple colored lesions noted,0
+red,focal pink and white lesions located in the central and center-right regions,0
+red,"multiple polyps are present with pink and orange hues, and not all polyps have been removed.",0
+red,"no anatomical landmarks are visible, text is present, and the abnormalities show pink, red, and white coloration.",0
+red,"the abnormality shows multiple colors including pink and red, is located in various regions such as the center and upper-left quadrant, and no polyp is present.",0
+red,"no polyp identified with multiple colors including pink, red, and white noted",0
+red,"abnormalities are scattered across multiple regions including the center, upper and lower areas, with pink, red, and white discolorations noted.",0
+red,pink and red lesions observed in central and upper-left regions,0
+red,abnormal areas show pink and red discoloration,0
+green,"no green or black box artifacts are present, multiple abnormalities show pink and red colors, and polyp removal is not indicated.",0
+red,polyp larger than 20 millimeters with red and flesh-colored lesions,0
+green,"no green or black box artifact observed, image obtained via gastroscopy, and multiple abnormalities noted in pink, red, and white colors.",0
+red,"no polyp is present with multiple colors observed including pink, red, and white.",0
+green,"text is present, multiple colored abnormalities are noted, and no green or black box artifacts are observed.",0
+red,"multiple polyps are present with varied colors including yellow, flesh-toned, and white lesions.",0
+red,"varied red, pink, and yellow lesions",0
+red,multiple reddish-pink lesions noted without any polypoid growths,0
+red,"no residual polyps identified; multiple color changes noted including pink, red, and white lesions",0
+red,"no instrument is visible, multiple colored abnormalities are present, and text is visible.",0
+pink,residual polyps noted with pink mucosal appearance,0
+red,"multiple colored lesions noted including pink, red, and white areas with no polyp identified",0
+pink,polyps remain with a size greater than 20 millimeters and a pink appearance.,0
+red,the abnormality shows pink and red discoloration with no polyps present and evidence of ulcerative colitis.,0
+red,"multiple red and white lesions are present, no polyps are noted, and ulcerative colitis is evident.",0
+red,"gastroscopy was performed with no polyps identified and lesions exhibiting pink, red, and white colors.",0
+red,"multiple red and white lesions are present, with no instrumentation noted",0
+green,"abnormalities show pink, red, and white areas with no green or black box artefacts observed",0
+red,"abnormalities show pink, red, and white areas, no polyps remain, and text is present.",0
+green,"evidence of green/black box artefact, polyp less than 5 millimeters, and abnormality exhibiting red and pink colors.",0
+red,red and pink discolorations noted,0
+red,"abnormalities show pink, red, and white hues",0
+red,red and pink mucosal lesions,0
+red,"abnormalities are scattered across the central and upper-right regions with varying colors including white, flesh, and red, and one distinct finding is present.",0
+red,"multiple colored lesions including pink, red, and white are noted, along with evidence of esophagitis, as seen during a gastroscopy.",0
+red,"pink, red, and white lesions observed",0
+red,text is present and multiple red and pink lesions are noted,0
+red,"abnormalities show pink, red, and brown hues scattered across multiple regions with no identifiable anatomical landmark present.",0
+red,the image is from a colonoscopy showing a polyp measuring 11 to 20 millimeters with pink and yellow colored abnormalities.,0
+red,multiple red and white lesions present with no identifiable polyp,0
+green and black,"no green or black box artifacts are observed. the abnormality demonstrates pink, yellow, and red coloration.",0
+red,pink and red discoloration noted,0
+red,"multiple lesions with pink, red, and white hues",0
+red,"abnormalities show pink, red, and white regions with no text present and the z-line is visible.",0
+red,"no polyp is present, text is visible, and the abnormality shows pink and red areas.",0
+red,presence of a pink-colored polyp observed,0
+red,pink and red lesions observed,0
+red,"multiple colored lesions present including pink, red, and white; no instrument seen",0
+red,colonoscopic examination reveals a paris iia polyp with red and pink regions of mucosal irregularity.,0
+red,"no polyp is identified, multiple abnormalities show pink, red, and white colors, and no instrument is visible in the image.",0
+red,no instruments observed. abnormality exhibits pink and red coloring.,0
+red,red and flesh-colored lesions,0
+red,"abnormalities are scattered across multiple regions including the center, lower areas, and upper regions, with evidence of oesophagitis and lesions showing pink, red, and white colors.",0
+red,no anatomical landmark is visible; multiple reddish-pink lesions are present.,0
+red,the abnormality is pink and located in the central and upper-right regions with a single finding.,0
+red,polyp measuring 5 to 10 millimeters with a paris type iia morphology and red to pink hue,0
+green,"no evidence of green or black box artifact, presence of paris ip polyp, and abnormality appears pink.",0
+red,"varied coloration including pink, red, and grey",0
+red,"text is present, with areas of flesh-colored and red abnormalities scattered in the center-right, lower-center, lower-right, and upper-right regions.",0
+red,text is present; abnormal areas show yellow and red discoloration,0
+green,procedure was a colonoscopy with pink-colored lesion and presence of artefact.,0
+red,"multiple areas of pink, red, and white lesions",0
+red,no visible abnormal coloration noted with a paris-type polyp identified,0
+red,"pink, red, and white lesions present",0
+red,multiple areas of pink and yellow discoloration,0
+red,"pink, red, and white lesions noted",0
+red,"abnormalities are noted in multiple colors including pink, red, and white, and are scattered across various regions of the image, with no identifiable anatomical landmarks present.",0
+red,multiple pink and red lesions are present in central and surrounding regions with no instruments detected.,0
+red,"pink, red, and white lesions identified",0
+green,"evidence of green and black box artefact is present, consistent with a colonoscopy, and the abnormality shows pink and red areas.",0
+pink,"no instruments are visible, and no polyp is present with measured size.",0
+red,"the abnormality shows pinkish discoloration, no anatomical landmarks are visible, and the image was obtained during a colonoscopy procedure.",0
+red,instrument seen in lower-central and lower-right regions with pink and red lesions,0
+green and black,no green or black box artifacts observed; abnormality shows pink and red areas,0
+red,"anatomical landmark is located in the lower central region, with abnormal areas showing pink and red discoloration.",0
+red,"not all polyps have been removed, with red and white abnormalities noted, and the polyp measures 11 to 20 millimeters.",0
+red,"no surgical instruments are visible. abnormal areas show pink, red, and white discolorations.",0
+red,multiple colored lesions noted,0
+red,there is a 5-10mm polyp with red and pink discoloration observed.,0
+green,"multiple pink, red, and white lesions are present without artefact, consistent with ulcerative colitis.",0
+pink,"text is present, the image is from a colonoscopy, and the abnormality appears pink.",0
+red,multiple red and white lesions noted; no polyp detected,0
+red,"abnormalities show pink, red, and white discoloration with no polyps visible.",0
+red,"multiple areas showing pink, red, and white discoloration",0
+red,"text is present, the image is from a colonoscopy, and multiple colors including red, pink, and white are observed in the abnormal region.",0
+red,"pink, red, and white areas noted",0
+red,"yellow, flesh-toned, and white lesions",0
+red,"text is present with multiple colored abnormalities including pink, red, and white lesions",0
+red,"multiple colored lesions observed, including pink, red, yellow, green, white, and grey; text is present",0
+green,"no anatomical landmarks identified, multiple colored abnormalities noted, and a green/black box artefact is present.",0
+red,"multiple colors including pink, red, white, and brown are noted without identifiable anatomical landmarks",0
+red,"multiple abnormalities are present in various colors, including pink, blue, red, grey, and white, scattered across the central, lower, and upper regions of the image.",0
+red,"no polyp identified, multiple areas of pink, red, and white discoloration present, and the lesion shows textural changes.",0
+red,"polyp measuring greater than 20 millimeters with varied colors including pink, yellow, and purple located across multiple regions including center, center-left, center-right, lower-center, lower-left, upper-center, upper-left, and upper-right",0
+red,multiple lesions observed with pink and white coloring noted,0
+red,abnormalities are distributed across multiple regions with pink and red discoloration,0
+red,"abnormalities are scattered across multiple regions including central, upper, and lower quadrants, with a single finding noted, displaying pink, red, white, yellow, and brown colors.",0
+red,pink and white lesions are distributed in the central and lower regions,0
+red,"abnormalities show pink and red discoloration, no polyps are noted, and text is present.",0
+green,"multiple colored lesions including pink, red, and white are noted. no green or black box artefact is present.",0
+red,procedure is colonoscopy with multiple colored lesions noted,0
+red,"no surgical instruments are visible, multiple abnormalities show pink, red, and white hues, and anatomical landmarks are scattered across the central and upper regions.",0
+red,"pink, white, and yellow lesions noted",0
+red,"no text is visible, multiple colored abnormalities are present, and no instrument is observed.",0
+red,the abnormality is pink and located in the central and lower regions with a single lesion.,0
+red,a paris ip polyp is observed with flesh and red colored lesions scattered in the central and center-right regions.,0
+red,"no polyp identified with multiple colors noted including pink, red, and white",0
+red,"multiple colors including pink, red, and white are present; polyp removal is not indicated",0
+red,"no text is present, the image is from a colonoscopy, and multiple abnormalities are noted in pink and yellow hues.",0
+red,"multiple lesions displaying pink, red, and white discoloration",0
+green,"no green or black box artifact is observed, the abnormality shows pink, red, and white areas, and the anatomical landmark is located in the central and upper-central regions.",0
+red,"no text is present, no instruments are visible, and the abnormality shows pink, red, and white areas.",0
+red,multiple lesions exhibiting pink and white discoloration are present with features consistent with ulcerative colitis.,0
+red,"anatomical landmark is located in the central and lower-central regions, with pink and red abnormalities observed, and no polyps identified.",0
+red,text is present and multiple colored abnormalities are observed,0
+red,pink and red mucosal lesions,0
+pink,"no polyp identified, with red and pink colored landmarks observed",0
+red,evidence of z-line and multiple colored lesions observed,0
+red,multiple white and yellow lesions are present,0
+red,pink and red areas observed,0
+red,"pink, red, and white lesions noted",0
+red,"polyps remain in place, the procedure was a colonoscopy, and the abnormality shows flesh-colored and white areas.",0
+red,abnormalities observed across multiple regions including central and upper areas with pink and red discoloration,0
+red,"multiple lesions with pink, red, and white discoloration",0
+red,"pink, red, and yellow lesions located in the center-right and lower-right areas",0
+green,"green and black box artefacts are present, a paris type polyp is identified, and the abnormality shows red and pink colors.",0
+red,"no anatomical landmark is visible, with pink and red abnormalities noted and a paris ip polyp identified.",0
+red,red and flesh-colored lesions detected,0
+red,"pink, red, and white lesions noted",0
+red,"multiple colored lesions including pink, orange, and yellow are observed, no anatomical landmarks are visible, and a single polyp is present.",0
+red,areas of pink and red discoloration noted,0
+red,red and pink discoloration noted,0
+red,"multiple areas of pink, white, and grey coloration",0
+red,"multiple lesions with pink, red, and white discoloration; no polyp identified",0
+green,"polyps remain in place, a green/black box artefact is present, and the abnormality shows red, white, and flesh-colored lesions.",0
+red,the image shows a gastroscopic view with multiple colored anatomical landmarks.,0
+red,"abnormalities show pink, red, and white lesions, the image is from a gastroscopy, and landmarks are located in the central, upper-central, and upper-right regions.",0
+green,"no green or black box artifacts are present, no polyps are identified, and the abnormalities show pink, red, and white coloration.",0
+red,"no surgical instruments are present. the anatomical landmarks show varied colors including pink, red, and white.",0
+red,"abnormalities are scattered across multiple regions including the center, lower areas, and upper quadrants, with varied colors such as pink, red, and white observed during gastroscopy.",0
+red,"pink, red, and white areas noted",0
+red,"no polyps observed, multiple colored abnormalities present, and evidence of esophagitis noted",0
+red,"no anatomical landmark is visible, and the abnormality is scattered across multiple areas with pink, red, and white hues.",0
+red,text is present and multiple colored abnormalities are observed,0
+red,"red, pink, and yellow discolorations present",0
+red,"anatomical landmarks are noted in the central, center-left, lower-left, upper-center, and upper-left regions, no polyp is present, and the abnormality shows pink, red, and white coloration.",0
+red,"abnormal areas show pink, red, and white discoloration",0
+red,"text is present, the image is from a gastroscopy, and the landmarks show pink and white coloration.",0
+red,"lesion exhibits multiple colors including pink, red, yellow, and white with no polyp identified",0
+red,"the image is from a colonoscopy showing lesions of varying colors including pink, yellow, and orange.",0
+red,no polyp identified with multiple color changes noted,0
+red,"no polyps are present, removal is not required, and the abnormalities show pink, red, and white discoloration.",0
+red,"multiple colored lesions including pink, red, yellow, and white; no polyp identified",0
+red,"multiple lesions demonstrate pink, red, and white coloration without any text present.",0
+red,"no instruments are visible, no anatomical landmark is present, and multiple colors including pink, red, and white are observed.",0
+red,pink-colored lesion noted,0
+green,"no green or black box artifacts are present, anatomical landmark is located in central and lower regions, and multiple colors including pink, red, and white are observed.",0
+red,"pink, red, and white lesions noted",0
+red,"abnormalities show varied colors including pink, red, and white with no anatomical landmarks identified.",0
+green,"no artifacts identified, with multiple colored lesions observed",0
+red,the abnormality is pink and is scattered across the central and lower right regions.,0
+red,"pink, red, and white lesions noted",0
+red,abnormal areas show red and pink coloration with a polyp measuring 11 to 20 millimeters.,0
+red,"red, pink, white, and grey coloration noted in anatomical structures; gastroscopy performed",0
+red,"flesh-colored lesion identified, with presence of polypoid lesion",0
+red,no polyp detected with multiple color variations observed,0
+red,"no polyp is identified, with multiple red and white lesions noted, and text is present.",0
+red,colonoscopic visualization of multiple colored mucosal lesions,0
+red,"red and pink abnormalities are distributed across multiple regions including central, upper, and lower areas.",0
+mixed,"no anatomical landmarks or polyps are visible, with no distinct color abnormalities noted.",0
+red,"abnormalities are scattered across multiple regions including central and upper areas with no polyps identified and lesions exhibiting pink, red, and white hues.",0
+red,"multiple color changes including pink, red, and white",0
+red,"abnormalities show pink, red, and white areas with visible text present",0
+red,the lesion shows pink-colored mucosa and is classified as a paris type iia polyp.,0
+red,evidence of paris iia polyp with pink-colored lesion,0
+red,"multiple colored lesions observed, including pink, red, and white; text visible on the image",0
+red,no surgical instruments are present; multiple colored abnormalities are noted,0
+red,"no instruments are visible, no polyp is identified, and the abnormality shows pink and red coloration.",0
+red,no polyp identified with multiple color changes noted,0
+green,"evidence of ulcerative colitis is present, with lesions showing pink, red, and white discoloration, and no green or black box artifact is observed.",0
+red,"abnormalities show pink and red hues, text is present, and no anatomical landmark is identifiable.",0
+red,multiple colored lesions observed with no polyp present,0
+green,no evidence of green or black box artefact and no visible abnormality,0
+red,"multiple lesions are distributed across central, upper, and lower regions with varying colors including pink, red, and yellow.",0
+red,"no foreign bodies or instruments noted. multiple color changes observed including pink, red, white, and yellow lesions.",0
+red,presence of a pink-colored polyp noted,0
+green,"multiple abnormalities of pink and white coloration are present, along with visible text and green-black box artifacts.",0
+red,pinkish appearance of the lesion,0
+green,"presence of green/black box artefact, paris ip polyp, and pink-coloured abnormality",0
+red,multiple colored lesions present without identifiable anatomical landmark,0
+red,"no abnormalities are visible, no instruments are present in the image.",0
+green,"evidence of a green/black box artefact is present, the image is from a colonoscopy, and the abnormality shows a pink coloration.",0
+green,"anatomical landmark shows red, pink, and white colors with no green or black box artefact observed.",0
+red,"polyp measures between 11 to 20 millimeters and exhibits red, yellow, and pink hues with a paris is morphology.",0
+red,multiple red and white lesions are present with evidence of mucosal inflammation,0
+red,"abnormalities are scattered across multiple regions with varied colors including pink, red, and white.",0
+red,"pink, orange, and brown discoloration noted",0
+red,polyps remain present. abnormal areas show pink and yellow discoloration.,0
+red,"red and pink lesions are noted, with evidence of ulcerative colitis",0
+red,"findings show pink, red, and white lesions; image is from a gastroscopy procedure.",0
+green,"metal clip noted, presence of green/black box artefact observed, and abnormality displaying red and pink hues",0
+red,evidence of a pink-colored polyp is present.,0
+red,"abnormalities exhibit pink, red, and white areas with no visible text and no polyps present.",0
+pink,the image is from a colonoscopy showing a flesh-colored lesion,0
+green and black,"no green or black box artifacts noted; abnormality shows pink, red, and white areas",0
+green,"abnormalities are seen scattered across multiple regions including central, upper, and lower areas with pink and red hues, and a green/black box artefact is present.",0
+red,"multiple colored lesions including pink, red, and white are present; no instruments are visible",0
+red,"no instruments are visible in the image, with abnormal findings showing pink, red, and white coloration",0
+red,"pink, red, and white lesions observed",0
+red,"multiple colored lesions are present, no residual polyps are noted, and no polyps are detected.",0
+red,pink and white areas noted,0
+red,text is present and the abnormality shows red and flesh-colored lesions,0
+red,visible pinkish discoloration,0
+red,text is visible and multiple colored abnormalities are present,0
+red,"polyps measuring 11-20mm and 5-10mm are present, with red and pink lesions located in the center, center-right, and lower-center regions.",0
+red,"no instrument is visible, multiple colored abnormalities are present, and there is one finding observed.",0
+red,"red, flesh-colored, and white lesions are distributed in the central and left lower regions.",0
+red,"no instruments are present, the cecum is identified, and the abnormality shows pink and red coloration.",0
+red,"no polyps observed, multiple colored abnormalities noted, and evidence of oesophagitis present",0
+green,"no box artefact observed, with red and pink abnormalities noted.",0
+red,"anatomical landmarks are visible in the central and upper-left regions, with a pink and red abnormality noted.",0
+red,"two distinct findings are observed, exhibiting pink, red, and white discoloration, scattered across the central and upper-center regions.",0
+red,pink and red mucosal areas observed,0
+green,evidence of green/black box artefact and pink-coloured abnormality present,0
+red,"various colors including pink, red, yellow, and white",0
+red,pink and yellow lesions observed,0
+pink,"no polyps remain; abnormal areas show pink, red, and white discoloration",0
+red,pink and white areas noted,0
+red,"no anatomical landmarks are identified, multiple colored abnormalities are present, and no polyp is observed.",0
+red,"findings include evidence of ulcerative colitis with pink and red mucosal changes, and no residual polyps noted.",0
+red,"multiple color changes noted, with no visible polyp identified",0
+red,"no instruments are visible, anatomical landmarks are located in the central and upper regions, and the abnormality shows pink, red, and white areas.",0
+red,"text is present, a paris is polyp is observed, and the abnormality shows yellow, pink, and brown discolorations.",0
+red,"abnormalities are scattered across multiple regions including central and upper areas, displaying pink, red, and white colors, with no polyp identified.",0
+red,"lesional areas show pink, red, and white discoloration",0
+red,"text is present, with red and pink colored abnormalities located in the central region.",0
+red,"polyp measures greater than 20 millimeters and appears red and pink, located in the central, upper-central, upper-right, lower-center, and center-right regions.",0
+green,"multiple colored lesions including pink, red, and white are present without any green or black box artefact",0
+red,red and pink lesions noted,0
+red,"no anatomical landmarks are identifiable, the image is from a colonoscopy, and the abnormalities display white, yellow, pink, and red colors.",0
+green,"no polyps remain, no artefacts are observed, and the abnormality appears white and flesh-colored.",0
+red,"abnormalities are scattered across multiple regions with pink, red, and white coloration, and no polyps are identified.",0
+red,"no polyps remain, multiple lesions exhibit pink and red hues, and no text is visible.",0
+red,"areas of pink, red, and white discoloration are present with evidence of esophagitis.",0
+green,evidence of green and black box artifacts noted with pink-colored abnormality,0
+red,evidence of colonoscopy findings with multiple colored lesions observed,0
+red,no polyp identified with multiple colored lesions observed,0
+red,"multiple lesions with pink, red, and white hues",0
+red,no instruments are visualized within the gastrointestinal tract. multiple red and pink lesions are present.,0
+red,"abnormalities are scattered across multiple regions including central and upper areas, with pink and red discolorations, and no instrument is visible.",0
+red,"multiple polypoid lesions with varied colors including flesh, white, and red are observed in the central region.",0
+pink,"text is present, with a pink-colored abnormality located in the center-left region.",0
+red,"multiple colored lesions noted including pink, red, and white areas; no polyps identified for removal.",0
+red,multiple pink and white lesions noted in the gastrointestinal tract.,0
+red,"abnormalities show pink, red, and white discoloration scattered across multiple regions, with no instruments visible.",0
+red,"no residual polyps noted, with multiple colored lesions observed",0
+red,no instruments are visualized. multiple color changes are observed.,0
+red,"red, pink, and orange discolorations present",0
+red,no polyps observed with multiple colored lesions noted,0
+red,"no polyps identified, no instruments visible, and multiple colors including pink, red, and white noted.",0
+red,flesh-colored and red lesions observed,0
+red,polyp measuring 11 to 20 millimeters with a paris ip morphology and a white to pink appearance.,0
+red,"red, brown, and pink lesions noted",0
+red,red and flesh-colored lesions observed,0
+pink,"abnormalities show varied colors including pink, red, and white, with the z-line visible and no polyp identified.",0
+red,"abnormalities are distributed across multiple regions including the center, upper and lower quadrants, appearing as pink and red lesions with no evidence of polyp formation.",0
+red,"abnormalities are scattered across central and upper regions, with evidence of oesophagitis and short-segment barretts, and lesions appear pink, red, and white.",0
+green,"abnormalities show pink, red, and white discoloration with no visible anatomical landmark and no green or black box artefact present.",0
+red,"the anatomical landmark is located in the central and center-right regions, with abnormalities showing pink and red colors, and there is one distinct finding present.",0
+red,"no instruments are visible, no polyp is present, and the abnormality shows no distinct coloration.",0
+red,"the polyp measures greater than 20 millimeters, with red, flesh, and white areas, scattered across the central, lower, and upper regions.",0
+red,text is present and the abnormality shows red and pink areas,0
+red,"multiple colored abnormalities including pink, blue, yellow, white, and gray are observed, the image is from a colonoscopy, and text is present.",0
+red,evidence of a paris-type polyp with pink and red lesions identified,0
+red,text is present with red and pink colored abnormalities,0
+red,"lesions displaying pink, red, and white discoloration",0
+red,"red, pink, and yellow lesions observed",0
+green,"multiple colored abnormalities are present, and no green or black box artefact is observed.",0
+red,"abnormalities are distributed across multiple regions including central, upper, and lower areas with pink, red, and white discoloration.",0
+red,red and flesh-colored lesions are distributed in the central and upper regions,0
+red,"no polyps are identified, with multiple reddish and whitish lesions noted in the gastrointestinal tract.",0
+red,no anatomical landmark is visible; multiple colored abnormalities are present.,0
+red,multiple red and white lesions noted; no foreign bodies identified,0
+red,"multiple colored lesions including pink, red, and white are present, with text noted.",0
+red,"varied red, pink, and yellow lesions",0
+red,"abnormalities are scattered across multiple regions including central, upper, and lower areas with pink, red, and orange discoloration, and one distinct finding is present.",0
+red,"a small polyp measuring less than 5 millimeters is noted, with a pink appearance.",0
+red,pink and red lesions observed,0
+red,no surgical instruments are present; multiple red and pink lesions are observed,0
+red,"multiple colors including pink, red, and white",0
+green,"no green or black box artifacts observed, polyp removal is not indicated, and the abnormality shows pink, red, and white areas.",0
+pink,"polyps remain present, the abnormality is pink, and the instrument is positioned in the central and upper regions.",0
+red,"abnormalities show pink, red, and white areas, text is present, and not all polyps have been removed.",0
+red,"polyps are still present, the procedure was a colonoscopy, and the abnormality shows pink and red areas.",0
+pink,the image is from a colonoscopy with a 11-20mm polyp exhibiting a flesh-colored appearance.,0
+red,pink and white colored lesions,0
+red,"pink, red, and white lesions noted",0
+red,"no residual polyps identified, with lesions noted in pink, red, and white hues",0
+red,a single pink-colored lesion is present in the upper-central region of the image.,0
+red,pink and red lesions observed,0
+red,colonoscopic examination shows red and flesh-colored lesions,0
+green,"no green or black box artefacts are present, multiple abnormalities of pink, red, and white colors are noted, and no instruments are visible.",0
+pink,multiple colors observed including pink and white with no visible text,0
+red,evidence of colonic mucosa visualized during colonoscopy with pink-colored lesion,0
+red,"multiple reddish and white lesions are present, no anatomical landmark is visible, and no polyps are observed.",0
+red,"multiple colored lesions including pink, red, and white areas",0
+red,"multiple red and white lesions are present, with no visible instruments in the image.",0
+red,"no instruments or anatomical landmarks are visible, and the abnormalities show pink and red discoloration.",0
+red,pink and white lesions are present with visible text,0
+green,"abnormalities show multiple colors including pink, red, white, and yellow with no green or black box artefact present and no instrument visible.",0
+red,"abnormalities show pink, red, and white coloration, with evidence of oesophagitis, and no remaining polyps are present.",0
+red,"multiple reddish, pink, and yellow lesions are observed scattered in the central and lower regions of the image.",0
+red,pinkish lesion observed with small polypoid lesion less than 5 millimeters in size,0
+green,"green and black box artifacts are present, the image is from a colonoscopy, and multiple abnormal areas show pink, yellow, and white coloration.",0
+red,"multiple colored lesions observed, no polyp removal indicated",0
+red,"multiple pink and white lesions are observed, the image is from a gastroscopy, and no polyps are present.",0
+red,"abnormalities are scattered across multiple regions including central, upper, and lower areas, displaying pink, red, and white coloration, with a total of two distinct findings.",0
+red,"no anatomical landmark is visible, no polyps are identified, and the abnormality exhibits pink and red areas.",0
+red,"no text is present, anatomical landmarks are located in central and lower regions, and the abnormalities exhibit pink, red, and white hues.",0
+green,"no green or black box artefact is present, the abnormality is red in color, and it is located in the central, center-right, and lower-right regions of the image.",0
+red,multiple pink lesions noted in the center-right and upper-right regions,0
+red,red and pink mucosal lesions,0
+red,no text identified; multiple colored lesions observed,0
+red,"red, flesh-toned, and white lesions are scattered across central and lower regions",0
+green,"the abnormality shows pink and red areas, no green or black box artefact is present, and the image was obtained during a colonoscopy.",0
+red,"pink, red, and white lesions are scattered across multiple regions including center, upper, and lower quadrants.",0
+red,"flesh-colored, red, and white lesions are present",0
+red,the lesion shows a pink appearance with no visible instruments present.,0
+red,multiple reddish and white lesions scattered across central and upper regions,0
+red,"one polyp is noted, no instrument is visible, and the abnormality shows pink, white, and red hues.",0
+red,"pink, red, and white lesions noted",0
+red,"multiple colored lesions observed including pink, red, and white areas; polyp removal is not applicable.",0
+red,"anatomical landmarks are noted in central and surrounding regions, with abnormal areas showing pink, red, and white discoloration.",0
+red,no instruments observed; multiple colored abnormalities noted,0
+red,red and pink patches noted,0
+red,no surgical instruments observed; multiple colored abnormalities present,0
+pink,"multiple red and white mucosal lesions are noted, with an identifiable z-line present.",0
+red,multiple colored lesions observed,0
+pink,"no anatomical landmark is identified, with red and pink abnormalities noted",0
+red,"no instrument is visualized in the gastrointestinal tract, and multiple colored lesions are present.",0
+red,"multiple colored lesions observed, no instruments present, and evidence of ulcerative colitis",0
+red,"multiple colored lesions including pink, red, and white are noted, with visible text present.",0
+red,"pink, red, and white lesions noted",0
+red,no instruments are present and the abnormality shows pink and red coloration,0
+red,"abnormalities show pink, red, and white hues, anatomical landmarks are located in multiple central and lower regions, and text is present.",0
+red,"red, pink, and white anatomical landmarks are visible, consistent with a gastroscopy, and there is evidence of esophageal inflammation.",0
+red,"abnormalities show varied colors including pink, red, orange, and brown with no identifiable anatomical landmark and no measurable polyp size.",0
+red,multiple pink and white lesions are scattered across central and upper regions,0
+red,"not all polyps have been removed, text is present, and the abnormalities exhibit flesh, red, and white hues.",0
+red,"text is present, the polyp measures less than 5 millimeters, and the abnormality shows flesh-colored and white areas.",0
+red,"multiple colored lesions observed, evidence of esophagitis present, and no instrument detected",0
+red,"colonoscopic examination reveals multiple colored lesions including red, yellow, and pink areas.",0
+red,"multiple lesions with varying colors including red, pink, and brown are present.",0
+red,"multiple colored lesions including pink, red, and white are present without any text",0
+red,"the abnormality shows pink and red coloring, located in the central and upper-right regions, with one polyp observed.",0
+red,"lesions appear pink, red, and white in color",0
+red,"the z-line is visible in multiple locations across the central and upper regions, appearing in gray, white, red, and pink colors.",0
+red,abnormal areas observed with pink and white coloration,0
+red,"mucosal inflammation, no polyp removal needed, and multiple color changes including pink, red, and white lesions",0
+green and black,"evidence of green and black box artifacts, presence of text, and multiple colored abnormalities including pink, white, and red.",0
+red,flesh-colored and white lesions noted in the gastrointestinal tract,0
+red,"multiple inflammatory changes with varied coloration including pink, red, yellow, and white lesions.",0
+green,"multiple colored lesions noted including pink, red, and orange; no green or black box artefact present",0
+red,the abnormality shows pinkish coloration and the polyp measures 5 to 10 millimeters.,0
+red,"text is present, multiple colored abnormalities are seen, and they are distributed across various regions including center, periphery, and quadrants.",0
+red,"no instrument is visible in the image, with lesions showing pink, red, and white discoloration",0
+red,"multiple lesions exhibiting varied colors including flesh-toned, pink, white, red, and yellow.",0
+red,"no anatomical landmark is identified, with abnormalities scattered across multiple regions, showing pink and red discoloration.",0
+red,"evidence of ulcerative colitis with multiple red, pink, and white lesions observed during a colonoscopy.",0
+red,"no text is visible, the abnormality shows pink, red, and white areas, and no instruments are present.",0
+red,"instrument is positioned in the central and lower-central regions, with red, pink, and white colored abnormalities present, and one polyp is observed.",0
+red,"no text is visible, z-line is present, and the abnormality shows pink, red, and white colors.",0
+red,"evidence of barrett's esophagus with pink, red, and white mucosal changes noted, no instruments visible.",0
+pink,text is present on the image. the abnormality appears pink.,0
+red,"the abnormality exhibits red, white, and flesh-colored regions and is located in the central and lower-central areas.",0
+red,areas of red and pink discoloration,0
+red,"pink, red, and white lesions noted",0
+green,"no green or black box artifact is present, multiple colors including pink, red, yellow, and white are observed, and no polyp is identified.",0
+green and black,"no green or black box artifacts observed, with red, flesh, and orange areas noted",0
+red,no instrument is present in the image; multiple colored abnormalities are observed,0
+red,pink and white lesions noted,0
+red,"abnormalities are distributed across multiple regions including the center, upper, and lower areas with pink and red discoloration.",0
+red,"no instrument is visible, text is present, and the abnormality shows pink and red areas.",0
+red,"the abnormality shows pink and red hues, there is one finding, and no anatomical landmark is visible.",0
+red,"varied red, white, yellow, and pink lesions",0
+red,"pink, red, and white discolorations",0
+red,multiple findings including a polyp measuring 11 to 20 millimeters with a flesh and red appearance.,0
+red,"no instruments are visible in the image, and the abnormality shows varied colors including pink, red, and white.",0
+red,"no anatomical landmark is visible, evidence of ulcerative colitis is present, and the abnormality shows pink, red, and white discoloration.",0
+red,"abnormalities are scattered across multiple regions including central, upper, and lower quadrants, and display pink, red, and white colors.",0
+red,yellow and pink lesions are present; no instrument is visible,0
+red,"pink, red, and white areas observed",0
+red,"brown, red, and pink lesions are distributed in the central and lower regions",0
+red,"one finding observed with multiple colors including pink, red, and white, with no identifiable anatomical landmark present.",0
+red,"no anatomical landmarks are identified, and the lesion exhibits multiple colors including pink, white, and yellow.",0
+red,"multiple red, pink, and white lesions are present, no polyps are remaining, and evidence of esophagitis is noted.",0
+red,red and pink lesions noted,0
+red,"no evidence of remaining polyps, text is present, and the abnormalities show pink and red discoloration.",0
+red,"polyps remain present, the procedure was a colonoscopy, and the abnormality shows white, pink, and brown areas.",0
+red,"abnormalities are distributed across multiple regions including central, upper, and lower areas with pink, red, and white discoloration",0
+red,no polyp identified with multiple colored lesions observed,0
+red,multiple pink and white lesions are present without any visible instruments,0
+pink,"abnormalities show pink and red coloring with no anatomical landmarks present, captured during a colonoscopy procedure.",0
+pink,"text is present, the abnormality appears black, and the instrument is positioned in the center-left and upper-left areas.",0
+red,the polyp measures 11 to 20 millimeters and appears pink and red in the upper-left region.,0
+pink,the image is from a colonoscopy showing a paris iia polyp with a pink-colored lesion.,0
+red,multiple colored lesions observed in central and upper regions of the image,0
+red,"no polyp is seen, no instrument is visible, and the abnormality shows pink and red coloration.",0
+red,"no instruments are visible, and the abnormality shows multiple colors including pink, red, and white.",0
+red,"the abnormality is pink in color and located in multiple areas including the center, center-left, center-right, lower-center, lower-left, upper-center, and upper-right, consistent with a paris polyp.",0
+green,"no green or black box artefacts identified, presence of paris is polyps, and abnormality shows red and pink hues",0
+red,"text is present, the image is from a colonoscopy, and multiple colored abnormalities are noted including pink, red, and white lesions.",0
+green,"multiple pink, red, and white lesions are present without any text or box artifacts",0
+red,"no text is visible, evidence of oesophagitis is present, and the abnormality shows pink, white, and grey hues.",0
+red,"no anatomical landmarks are identified, multiple colored abnormalities are present, and polyp removal is not applicable.",0
+red,"the abnormality shows red, pink, and orange discoloration and is located in the central and upper-central areas with a single instrument present.",0
+red,no specific anatomical landmarks are identified in the image. abnormalities appear as pink and red lesions.,0
+green,"no green or black box artifact is present, no polyps are identified, and multiple colors including pink, yellow, white, and orange are observed.",0
+red,"pink, red, and white lesions noted",0
+red,"white, flesh-colored, and red lesions noted",0
+red,"lesions exhibiting pink, red, and white discoloration",0
+red,white and flesh-colored lesions present,0
+red,"textual elements are present, with multiple colored abnormalities noted.",0
+red,"no instruments are present, and multiple colors including pink, red, and white are observed.",0
+red,"prominent z-line and multiple areas of inflammatory changes with varied coloration including pink, red, and white.",0
+red,no polyps identified; multiple colored abnormalities noted,0
+red,a pink and white lesion is centrally located with additional involvement in the upper central region.,0
+red,"abnormalities are distributed across multiple regions including central, upper, and lower areas with pink, red, and white discolorations.",0
+red,"no evidence of residual polyps identified; abnormal areas show pink, red, and white discoloration",0
+red,"no anatomical landmarks or instruments are visible, and abnormalities are noted in pink, red, and yellow colors.",0
+red,"multiple color changes noted including pink, red, and white lesions; polyp removal status is not applicable",0
+red,red and pink mucosal lesions,0
+red,a polyp is observed with a pink appearance located centrally and in the lower-central region.,0
+red,"text is present, multiple colors including pink, red, and white are observed, and polyp removal is not relevant.",0
+red,"no polyps remain, no anatomical landmark is identified, and the abnormality shows pink and red discoloration.",0
+red,"no instruments visualized, multiple colored abnormalities noted",0
+red,"no anatomical landmark is present, the polyp measures 11 to 20 millimeters, and the abnormality shows pink and red hues.",0
+red,procedure shows gastroscopy findings with multiple colored lesions noted,0
+red,"no anatomical landmarks are visible, and the abnormality appears pink and red in color.",0
+red,"pink, red, and white lesions present",0
+pink,colonoscopic examination reveals a pink-colored lesion consistent with a paris iia polyp.,0
+red,"abnormalities are scattered across multiple regions including central, upper, and lower areas with varying colors such as pink, red, and white, and the presence of polyps is not relevant.",0
+red,"pink, red, and orange lesions noted",0
+red,"red and pink lesions are seen in multiple areas including central, upper, and lower regions.",0
+red,"anatomical landmarks are seen in the central and upper regions, with the abnormality also located in the central and upper areas, showing pink, red, and white discolorations.",0
+red,polyp measures between 11 to 20 millimeters with a flesh-colored appearance,0
+red,"no anatomical landmarks are identifiable in the viewed region, the image is from a colonoscopy, and multiple abnormalities with pink, red, and white coloration are present.",0
+red,focal pinkish discoloration,0
+red,"evidence of z-line is present with multiple colored lesions including pink, red, and white areas.",0
+red,"lesions exhibiting pink, red, and white discoloration",0
+red,multiple polyps are present with red and pink hues scattered across the central and upper regions of the image.,0
+red,"text is present, multiple colors including pink, red, white, and brown are observed, and the image was obtained during a colonoscopy.",0
+red,"pink, red, and white lesions observed",0
+red,pink and red areas noted,0
+red,"polyp measures greater than 20 millimeters with red, white, and flesh-colored lesions",0
+red,evidence of parietal polyp with red and pink lesions,0
+red,"a single polyp measuring 5 to 10 millimeters with varied colors including pink, yellow, and brown",0
+green,"no polyps remain, no artefacts are present, and the abnormality shows a pink coloration.",0
+red,"abnormalities are scattered across multiple regions with pink and red discoloration, and no instruments are visible.",0
+red,"no specific anatomical landmark is identified, multiple abnormal areas show pink, red, and white discoloration, and the image was obtained during a gastroscopy.",0
+green,"multiple colored lesions including pink, red, and white are present without any green or black box artefact.",0
+red,evidence of colonoscopy findings with multiple colored lesions noted,0
+pink,"no polyps are present, no instrument is visible, and no abnormal coloration is noted.",0
+red,no instruments detected; multiple colored abnormalities present,0
+red,"multiple colors including red, white, and pink are noted in the anatomical structures; no instrument is visible.",0
+red,"no instruments are visible, abnormalities are scattered across multiple regions, and the abnormalities show pink and red discoloration.",0
+red,pink and white lesions observed,0
+red,pink and red areas noted,0
+red,"evidence of ulcerative colitis is present with no polyps identified and multiple colored lesions including pink, red, and white.",0
+pink,"no polyp is visible, no instruments are present, and the anatomical landmark appears red.",0
+green,"no green or black box artifacts are present, polyp removal is not applicable, and the abnormality shows pink, yellow, and white areas.",0
+red,pink and red colored lesions,0
+red,multiple colored lesions are scattered across central and upper regions of the image.,0
+red,"varied red, pink, and white lesions",0
+red,"pink, red, and white lesions present",0
+red,"no instruments are visible, multiple colored abnormalities are present, and no polyps are identified.",0
+red,"pink, red, and white lesions noted",0
+red,areas of pink and red discoloration,0
+red,"the z-line is visible, the image is from a gastroscopy, and the abnormality shows pink, red, and white coloration.",0
+red,text is present and multiple colored abnormalities are noted.,0
+red,"multiple pink, red, and white lesions are present without identifiable anatomical landmarks",0
+red,polyps remain present. the abnormality shows areas of pink and white discoloration.,0
+red,"abnormalities show pink, red, and white areas, the image is from a gastroscopy, and no instruments are present.",0
+red,polyp measures between 11 to 20 millimeters with red and pink lesions observed,0
+pink,"no polyps are present, no removal is needed, and the abnormality shows pink and red hues.",0
+red,"one finding is present, with abnormalities showing pink, red, and yellow colors, and no identifiable anatomical landmark is visible.",0
+red,"multiple lesions show pink, red, and white discoloration, with text observed, and no polyp is seen.",0
+red,"no instruments are visualized, and multiple colored abnormalities are present.",0
+red,"abnormalities show pink, red, and white areas; no instrument is visible",0
+green,"multiple colored lesions including pink, red, and white are present; no green or black box artefact observed.",0
+red,"multiple polypoid lesions with varied coloration including white, red, and flesh tones",0
+green and black,"no green or black box artifacts seen; multiple abnormalities noted in pink, red, and white colors.",0
+red,"multiple red, pink, and white lesions observed",0
+red,"red, pink, and orange lesions are scattered across central and upper regions",0
+red,"no polyps detected, multiple red and white lesions observed, and signs of ulcerative colitis are present.",0
+red,"no evidence of residual polyps, multiple colored lesions observed, and text is present.",0
+pink,evidence of colonoscopy findings with pinkish lesions noted,0
+red,"lesions exhibiting pink, red, and white discoloration",0
+red,red and pink mucosal changes present,0
+red,"abnormalities are scattered across multiple regions with pink, red, and white discolorations",0
+red,"abnormalities include red, white, and pink lesions distributed across multiple regions with two polyps visible.",0
+red,lesion appears pink and white in color,0
+red,"areas of pink, red, and white discoloration",0
+red,"multiple abnormalities are present in various regions including central, upper, and lower areas, displaying pink, red, and white colors, with no instrument visible.",0
+red,"colonoscopy was performed with multiple colored lesions observed, including pink, red, white, and yellow, and text is visible in the image.",0
+red,"pink, red, and white lesions",0
+red,no instruments are present. multiple colored abnormalities are noted.,0
+red,"polyps remain present, the procedure was a colonoscopy, and the abnormality shows red, pink, and yellow hues.",0
+green,"abnormalities show pink, red, and white areas with no green or black box artefact present",0
+red,"white, flesh-toned, and red lesions noted",0
+red,abnormalities show pink and red coloration with text present and a polyp identified.,0
+red,"the image is from a gastroscopy, no polyps are present, and the abnormality shows pink, red, and white areas.",0
+red,"lesional areas show varying colors including pink, red, and yellow; image obtained during colonoscopy",0
+red,"text is visible, multiple abnormalities are noted in pink and red colors, and a paris ip polyp is identified.",0
+red,"text is present, multiple abnormalities are noted in pink and red colors, and no polyp is identified.",0
+red,"no polyps are present, no removal was necessary, and abnormal areas show pink, red, and white discolorations.",0
+red,"pink, yellow, and orange discolorations noted",0
+red,"no polyps are present, multiple colored landmarks are seen, and the z-line is visible.",0

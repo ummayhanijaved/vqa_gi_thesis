@@ -1,0 +1,359 @@
+class,precision,recall,f1,support,tp,fp,fn,tn
+a 5-10mm polyp is present with no text detected.,0.0,0.0,0.0,1,0,0,1,4698
+"a polyp snare and tube are visible, no green/black box artifact is present, and the image is from a colonoscopy procedure.",0.0,0.0,0.0,1,0,0,1,4698
+a single 5- to 10-millimeter polyp is present along with two surgical instruments.,0.0,0.0,0.0,1,0,0,1,4698
+a single finding is present along with visible text and a tube.,0.0,0.0,0.0,1,0,0,1,4698
+a single polyp greater than 20 millimeters in size is present with no instruments visualized.,0.0,0.0,0.0,1,0,0,1,4698
+a single polyp is identified without any associated artifacts.,0.0,0.0,0.0,1,0,0,1,4698
+"a single polyp measuring 11 to 20 millimeters is identified, showing features consistent with a paris ip type lesion.",0.0,0.0,0.0,1,0,0,1,4698
+a single sessile polyp measuring more than 20 millimeters is identified.,0.0,0.0,0.0,1,0,0,1,4698
+a single tube is present,0.0,0.0,0.0,2,0,0,2,4697
+a single tube is present in the image with visible text,0.0,0.0,0.0,1,0,0,1,4698
+"a single tube is present, consistent with a colonoscopy procedure.",0.0,0.0,0.0,1,0,0,1,4698
+a single tube is visible,0.0,0.0,0.0,1,0,0,1,4698
+a single tube is visible in the image and text is present.,0.0,0.0,0.0,2,0,0,2,4697
+a single tube is visible in the image with no text detected.,0.0,0.0,0.0,1,0,0,1,4698
+a single tube is visible in the image with no text observed.,0.0,0.0,0.0,1,0,0,1,4698
+a single tube is visible in the image with text identified.,0.0,0.0,0.0,1,0,0,1,4698
+"a single tube is visible in the image, no polyps are noted, and no green or black box artefact is present.",0.0,0.0,0.0,1,0,0,1,4698
+a single tube is visible in the upper-left quadrant with a small polyp noted in the central region.,0.0,0.0,0.0,1,0,0,1,4698
+"a single tube is visible without any green or black box artifacts, and the procedure appears to be a colonoscopy.",0.0,0.0,0.0,1,0,0,1,4698
+a single tube is visualized in the gastrointestinal tract with no residual polyps observed.,0.0,0.0,0.0,1,0,0,1,4698
+"a single tubular device is visible without any artifact, indicating a colonoscopy procedure.",0.0,0.0,0.0,1,0,0,1,4698
+a single tubular structure is observed in the field of view with no evidence of green or black box artifacts.,0.0,0.0,0.0,1,0,0,1,4698
+a tube is present and no box artifact is noted.,0.0,0.0,0.0,1,0,0,1,4698
+a tube is present in the abdominal region,0.0,0.0,0.0,1,0,0,1,4698
+a tube is visible in the anatomical region and a green/black box artifact is present.,0.0,0.0,0.0,1,0,0,1,4698
+"a tube is visible, polyp removal is not applicable, and no green/black box artefact is present.",0.0,0.0,0.0,1,0,0,1,4698
+a tubular instrument is present in the gastrointestinal tract and a paris ip polyp is identified.,0.0,0.0,0.0,1,0,0,1,4698
+adenomatous polyp measuring 5 to 10 millimeters,0.0,0.0,0.0,1,0,0,1,4698
+adenomatous polyp noted in the colon,0.0,0.0,0.0,1,0,0,1,4698
+adenomatous polyp seen in rectum,0.0,0.0,0.0,2,0,0,2,4697
+all polyps have been completely removed with no anatomical landmarks identified.,0.0,0.0,0.0,1,0,0,1,4698
+all polyps have been successfully removed with no residual text observed and a paris classification noted.,0.0,0.0,0.0,1,0,0,1,4698
+an intraluminal tube is present and text is visible.,0.0,0.0,0.0,1,0,0,1,4698
+biopsy forceps and tube visible,0.0,0.0,0.0,1,0,0,1,4698
+biopsy forceps are present in the field and no residual polyps are noted.,0.0,0.0,0.0,1,0,0,1,4698
+"biopsy forceps are present, consistent with a colonoscopy procedure.",0.0,0.0,0.0,1,0,0,1,4698
+biopsy forceps are visible and text is present in the image,0.0,0.0,0.0,1,0,0,1,4698
+"biopsy forceps are visible, no polyps remain, and text is present.",0.0,0.0,0.0,1,0,0,1,4698
+biopsy forceps observed in field,0.0,0.0,0.0,1,0,0,1,4698
+biopsy forceps observed in the field,0.0,0.0,0.0,1,0,0,1,4698
+central region visible,0.0,0.0,0.0,1,0,0,1,4698
+characteristic of paris iia classification,0.0,0.0,0.0,1,0,0,1,4698
+distributed across central and lower regions,0.0,0.0,0.0,1,0,0,1,4698
+distributed across central and upper regions,0.0,0.0,0.0,1,0,0,1,4698
+evidence of a colonic polyp and a polyp snare are present during a colonoscopy.,0.0,0.0,0.0,1,0,0,1,4698
+evidence of a colonic polyp and metallic clip observed during a colonoscopy.,0.0,0.0,0.0,1,0,0,1,4698
+evidence of a colonic polyp with a green/black box artefact present during colonoscopy.,0.0,0.0,0.0,1,0,0,1,4698
+evidence of a green and black artefact noted; a tube is present in the field of view.,0.0,0.0,0.0,1,0,0,1,4698
+"evidence of a green and black box artifact is present, consistent with a colonoscopy procedure.",0.0,0.0,0.0,1,0,0,1,4698
+"evidence of a green and black box artifact is present, the image is from a colonoscopy, and a paris ip polyp is identified.",0.0,0.0,0.0,1,0,0,1,4698
+"evidence of a green or black box artifact is noted, consistent with a colonoscopy procedure.",0.0,0.0,0.0,1,0,0,1,4698
+evidence of a green-black box artefact and a colonic polyp observed,0.0,0.0,0.0,1,0,0,1,4698
+"evidence of a green-black box artifact is present, the image is from a colonoscopy, and a polyp larger than 20 millimeters is observed.",0.0,0.0,0.0,1,0,0,1,4698
+evidence of a green/black box artefact is present along with a tube in the field of view.,0.0,0.0,0.0,1,0,0,1,4698
+evidence of a pedunculated polyp seen during gastroscopy.,0.0,0.0,0.0,1,0,0,1,4698
+evidence of a polyp is present along with visible text from a colonoscopy procedure.,0.0,0.0,0.0,1,0,0,1,4698
+evidence of a polyp snare and a tube present along with a paris-type polyp,0.0,0.0,0.0,1,0,0,1,4698
+"evidence of a polyp, green/black box artefact, and text are present.",0.0,0.0,0.0,1,0,0,1,4698
+evidence of a single polyp and a visible tube,0.0,0.0,0.0,1,0,0,1,4698
+evidence of barrett's esophagus and visible z-line,0.0,0.0,0.0,1,0,0,1,4698
+evidence of black and green box artifacts,0.0,0.0,0.0,1,0,0,1,4698
+evidence of box artifacts in green and black,0.0,0.0,0.0,1,0,0,1,4698
+evidence of box artifacts in green and black hues,0.0,0.0,0.0,1,0,0,1,4698
+evidence of box artifacts in the image,0.0,0.0,0.0,1,0,0,1,4698
+evidence of box artifacts noted,0.0,0.0,0.0,3,0,0,3,4696
+evidence of box artifacts observed,0.0,0.0,0.0,11,0,0,11,4688
+evidence of box artifacts present,0.0,0.0,0.0,2,0,0,2,4697
+evidence of box-shaped artifacts,0.0,0.0,0.0,1,0,0,1,4698
+evidence of box-shaped artifacts noted,0.0,0.0,0.0,3,0,0,3,4696
+evidence of box-shaped artifacts observed,0.0,0.0,0.0,1,0,0,1,4698
+evidence of cecal anatomy,0.0,0.0,0.0,1,0,0,1,4698
+"evidence of cecal anatomy is noted, with no polypoid lesions identified.",0.0,0.0,0.0,1,0,0,1,4698
+evidence of cecal landmark observed; no polyp removal documented.,0.0,0.0,0.0,1,0,0,1,4698
+evidence of cecal location,0.0,0.0,0.0,2,0,0,2,4697
+evidence of cecal region visualization,0.0,0.0,0.0,1,0,0,1,4698
+evidence of cecal structure,0.0,0.0,0.0,9,0,0,9,4690
+evidence of esophageal inflammation and z-line identified,0.0,0.0,0.0,1,0,0,1,4698
+evidence of esophageal inflammation and z-line seen,0.0,0.0,0.0,1,0,0,1,4698
+evidence of esophageal inflammation with z-line identification,0.0,0.0,0.0,1,0,0,1,4698
+evidence of esophageal inflammation with z-line visible,0.0,0.0,0.0,1,0,0,1,4698
+evidence of esophageal inflammation without any foreign bodies present,0.0,0.0,0.0,1,0,0,1,4698
+evidence of esophageal inflammation without polyps and clear z-line identification,0.0,0.0,0.0,1,0,0,1,4698
+"evidence of green and black artefacts is present, no text is visible, and the image was obtained during a colonoscopy.",0.0,0.0,0.0,1,0,0,1,4698
+evidence of green and black box artefacts and a 5 to 10 millimeter polyp,0.0,0.0,0.0,1,0,0,1,4698
+"evidence of green and black box artefacts noted, with a polyp measuring 11 to 20 millimeters in size.",0.0,0.0,0.0,1,0,0,1,4698
+evidence of green and black box artefacts present during colonoscopy,0.0,0.0,0.0,1,0,0,1,4698
+"evidence of green and black box artefacts, presence of text, and a paris ii a polyp noted.",0.0,0.0,0.0,1,0,0,1,4698
+"evidence of green and black box artefacts, presence of text, and the image was obtained during a colonoscopy.",0.0,0.0,0.0,1,0,0,1,4698
+evidence of green and black box artifact with presence of paris ip type polyp,0.0,0.0,0.0,1,0,0,1,4698
+evidence of green and black box artifacts,0.0,0.0,0.0,33,0,0,33,4666
+evidence of green and black box artifacts along with visible text,0.0,0.0,0.0,1,0,0,1,4698
+evidence of green and black box artifacts along with visible text is present.,0.0,0.0,0.0,3,0,0,3,4696
+"evidence of green and black box artifacts is noted, consistent with a colonoscopy procedure.",0.0,0.0,0.0,1,0,0,1,4698
+"evidence of green and black box artifacts is noted, consistent with colonoscopy imaging.",0.0,0.0,0.0,1,0,0,1,4698
+"evidence of green and black box artifacts noted, consistent with colonoscopy imaging.",0.0,0.0,0.0,1,0,0,1,4698
+"evidence of green and black box artifacts noted, no polyp identified",0.0,0.0,0.0,1,0,0,1,4698
+"evidence of green and black box artifacts noted, with a paris ip polyp identified",0.0,0.0,0.0,1,0,0,1,4698
+evidence of green and black box artifacts observed during colonoscopy,0.0,0.0,0.0,1,0,0,1,4698
+evidence of green and black box artifacts observed during colonoscopy.,0.0,0.0,0.0,1,0,0,1,4698
+evidence of green and black box artifacts with visible text is present.,0.0,0.0,0.0,1,0,0,1,4698
+evidence of green and black box artifacts with visible text noted.,0.0,0.0,0.0,1,0,0,1,4698
+evidence of green and black box artifacts with visible text present,0.0,0.0,0.0,2,0,0,2,4697
+"evidence of green and black box artifacts, presence of text, and a paris classification polyp is noted.",0.0,0.0,0.0,1,0,0,1,4698
+evidence of green/black box artefact and a polyp observed,0.0,0.0,0.0,1,0,0,1,4698
+evidence of green/black box artefact and findings consistent with ulcerative colitis,0.0,0.0,0.0,1,0,0,1,4698
+evidence of green/black box artefact and signs of ulcerative colitis,0.0,0.0,0.0,1,0,0,1,4698
+evidence of green/black box artefact and z-line delineation present,0.0,0.0,0.0,1,0,0,1,4698
+evidence of green/black box artefact present; no polyps observed.,0.0,0.0,0.0,1,0,0,1,4698
+evidence of hyperplastic polyp formation,0.0,0.0,0.0,1,0,0,1,4698
+evidence of hyperplastic polyps found during colonoscopy,0.0,0.0,0.0,1,0,0,1,4698
+evidence of inflammatory bowel disease with cecal visualization,0.0,0.0,0.0,1,0,0,1,4698
+evidence of inflammatory changes in the colon and cecal structure visible,0.0,0.0,0.0,1,0,0,1,4698
+evidence of large sessile polyp with measured diameter exceeding 20 millimeters,0.0,0.0,0.0,1,0,0,1,4698
+evidence of metal clip present,0.0,0.0,0.0,2,0,0,2,4697
+evidence of mucosal inflammation consistent with ulcerative colitis and visible cecum,0.0,0.0,0.0,1,0,0,1,4698
+evidence of mucosal inflammation is present without any foreign bodies,0.0,0.0,0.0,1,0,0,1,4698
+"evidence of mucosal polyp, green/black box artefact, and text visible",0.0,0.0,0.0,1,0,0,1,4698
+evidence of multiple sessile serrated polyps,0.0,0.0,0.0,1,0,0,1,4698
+"evidence of oesophagitis and z-line are present, with the image acquired during a gastroscopy.",0.0,0.0,0.0,1,0,0,1,4698
+"evidence of oesophagitis and z-line identification are noted, with the image obtained via gastroscopy.",0.0,0.0,0.0,1,0,0,1,4698
+"evidence of oesophagitis is present with no foreign instruments seen, consistent with a gastroscopy procedure.",0.0,0.0,0.0,1,0,0,1,4698
+"evidence of oesophagitis is present with no instruments visualized, and the image is from a gastroscopy.",0.0,0.0,0.0,1,0,0,1,4698
+"evidence of oesophagitis is present, no green/black box artefact is observed, and text is visible.",0.0,0.0,0.0,1,0,0,1,4698
+evidence of parietal polyp formation,0.0,0.0,0.0,4,0,0,4,4695
+evidence of parietal polypoid lesion,0.0,0.0,0.0,3,0,0,3,4696
+evidence of parietal polyps,0.0,0.0,0.0,3,0,0,3,4696
+"evidence of paris iia polyps noted, no instruments visible, and the image is from a gastroscopy procedure.",0.0,0.0,0.0,1,0,0,1,4698
+"evidence of paris ip type polyps remains, not all polyps have been removed, and text is present.",0.0,0.0,0.0,1,0,0,1,4698
+evidence of paris-ip polyp with ileum visualization,0.0,0.0,0.0,1,0,0,1,4698
+evidence of paris-type polyp,0.0,0.0,0.0,6,0,0,6,4693
+evidence of pyloric region,0.0,0.0,0.0,1,0,0,1,4698
+evidence of pyloric region visible,0.0,0.0,0.0,1,0,0,1,4698
+evidence of residual polyp detected measuring 11 to 20 millimeters,0.0,0.0,0.0,1,0,0,1,4698
+evidence of residual polyp tissue,0.0,0.0,0.0,1,0,0,1,4698
+evidence of residual polyps,0.0,0.0,0.0,1,0,0,1,4698
+"evidence of surgical instruments including a metal clip and polyp snare, with visible text noted",0.0,0.0,0.0,1,0,0,1,4698
+evidence of ulcerative colitis is present with no polyps observed and a single abnormal finding noted.,0.0,0.0,0.0,1,0,0,1,4698
+"evidence of ulcerative colitis is present, no instruments are visible, and a green/black box artefact is observed.",0.0,0.0,0.0,1,0,0,1,4698
+"evidence of ulcerative colitis is present, no instruments are visible, and polyp removal is not applicable.",0.0,0.0,0.0,1,0,0,1,4698
+"evidence of ulcerative colitis noted without any instruments present, consistent with a colonoscopy procedure.",0.0,0.0,0.0,1,0,0,1,4698
+"evidence of ulcerative colitis without associated polyps was noted, and the image was obtained via colonoscopy.",0.0,0.0,0.0,1,0,0,1,4698
+"evidence of ulcerative colitis, no polyps identified, and the image was obtained via colonoscopy.",0.0,0.0,0.0,1,0,0,1,4698
+evidence of z-line anatomical landmark,0.0,0.0,0.0,1,0,0,1,4698
+evidence of z-line anatomy,0.0,0.0,0.0,6,0,0,6,4693
+"evidence of z-line anatomy is present, and text is visible.",0.0,0.0,0.0,1,0,0,1,4698
+evidence of z-line appearance,0.0,0.0,0.0,26,0,0,26,4673
+evidence of z-line delineation,0.0,0.0,0.0,2,0,0,2,4697
+evidence of z-line formation,0.0,0.0,0.0,11,0,0,11,4688
+evidence of z-line identification,0.0,0.0,0.0,5,0,0,5,4694
+evidence of z-line identified without visible polypoid lesions,0.0,0.0,0.0,1,0,0,1,4698
+"evidence of z-line is noted, no instrument is visible, and the image is from a gastroscopy procedure.",0.0,0.0,0.0,1,0,0,1,4698
+evidence of z-line is present with no instruments visualized and signs of oesophagitis detected.,0.0,0.0,0.0,1,0,0,1,4698
+evidence of z-line is present without any polypoid lesions observed.,0.0,0.0,0.0,1,0,0,1,4698
+"evidence of z-line is present, with no visible polyp detected.",0.0,0.0,0.0,1,0,0,1,4698
+evidence of z-line presence,0.0,0.0,0.0,2,0,0,2,4697
+evidence of z-line prominence,0.0,0.0,0.0,1,0,0,1,4698
+evidence of z-line structure,0.0,0.0,0.0,1,0,0,1,4698
+evidence of z-line visualization,0.0,0.0,0.0,12,0,0,12,4687
+evidence of z-line visualization and esophageal inflammation,0.0,0.0,0.0,1,0,0,1,4698
+"evident z-line seen, no green or black box artefact noted",0.0,0.0,0.0,1,0,0,1,4698
+features consistent with paris type iia polyp with visible text,0.0,0.0,0.0,1,0,0,1,4698
+findings consistent with inflammatory bowel disease and no evidence of imaging artefact,0.0,0.0,0.0,1,0,0,1,4698
+"findings include evidence of mucosal ulceration and polyps, no instruments observed, and the image is from a colonoscopy procedure.",0.0,0.0,0.0,1,0,0,1,4698
+findings include evidence of ulcerative colitis with no text or instruments observed.,0.0,0.0,0.0,1,0,0,1,4698
+green and black box artifacts are present along with visible text from a colonoscopy procedure.,0.0,0.0,0.0,1,0,0,1,4698
+"green and black box artifacts are present along with visible text, and a paris classification polyp is identified.",0.0,0.0,0.0,1,0,0,1,4698
+"green/black box artefact observed, no identifiable anatomical landmark noted, and image obtained during colonoscopy.",0.0,0.0,0.0,1,0,0,1,4698
+incomplete polyp removal observed with presence of text,0.0,0.0,0.0,1,0,0,1,4698
+"instrument observed in the gastrointestinal tract, no evidence of residual polyps, and artifact noted in the imaging field.",0.0,0.0,0.0,1,0,0,1,4698
+landmark located in central and upper-central regions,0.0,0.0,0.0,1,0,0,1,4698
+landmark located in the left central region,0.0,0.0,0.0,1,0,0,1,4698
+landmarks distributed across multiple regions including left and right central areas,0.0,0.0,0.0,1,0,0,1,4698
+landmarks located in multiple regions including central and upper areas,0.0,0.0,0.0,1,0,0,1,4698
+landmarks seen in central and surrounding regions,0.0,0.0,0.0,1,0,0,1,4698
+located in central and left-central regions,0.0,0.0,0.0,1,0,0,1,4698
+located in multiple regions including central and lower-left areas,0.0,0.0,0.0,1,0,0,1,4698
+located in the center-left and upper regions,0.0,0.0,0.0,1,0,0,1,4698
+located in the central and lower-left regions,0.0,0.0,0.0,1,0,0,1,4698
+located in the central and upper-central regions,0.0,0.0,0.0,1,0,0,1,4698
+located in the central region,0.0,0.0,0.0,1,0,0,1,4698
+located in the lower central region,0.0,0.0,0.0,1,0,0,1,4698
+"metal clip identified in the visual field, consistent with colonoscopy procedure",0.0,0.0,0.0,1,0,0,1,4698
+metal clip noted in area,0.0,0.0,0.0,1,0,0,1,4698
+metal clip observed in the field of view with visible text,0.0,0.0,0.0,1,0,0,1,4698
+"mucosal inflammation is noted, no artefacts identified, and no residual polyps observed.",0.0,0.0,0.0,1,0,0,1,4698
+mucosal inflammation is present without any identifiable anatomical landmark or text.,0.0,0.0,0.0,1,0,0,1,4698
+mucosal inflammation is present without any instruments or anatomical landmarks identified.,0.0,0.0,0.0,1,0,0,1,4698
+mucosal inflammation is present without any text or artefacts,0.0,0.0,0.0,1,0,0,1,4698
+"mucosal inflammation is present, multiple anatomical landmarks are visible in various regions, and no polyps are identified.",0.0,0.0,0.0,1,0,0,1,4698
+mucosal inflammation noted without evidence of foreign bodies,0.0,0.0,0.0,1,0,0,1,4698
+mucosal inflammation observed without evidence of foreign bodies,0.0,0.0,0.0,1,0,0,1,4698
+multiple anatomical landmarks are visualized in central and upper regions with no instruments present.,0.0,0.0,0.0,1,0,0,1,4698
+multiple anatomical landmarks located in central and lower regions,0.0,0.0,0.0,1,0,0,1,4698
+multiple anatomical landmarks located in central and upper regions,0.0,0.0,0.0,1,0,0,1,4698
+multiple landmarks located across central and upper regions,0.0,0.0,0.0,1,0,0,1,4698
+multiple landmarks located in central and lower regions,0.0,0.0,0.0,1,0,0,1,4698
+multiple landmarks located in central and upper regions,0.0,0.0,0.0,2,0,0,2,4697
+multiple landmarks scattered across central and upper regions,0.0,0.0,0.0,1,0,0,1,4698
+multiple landmarks seen in central and upper regions,0.0,0.0,0.0,1,0,0,1,4698
+no,0.8885,1.0,0.941,4175,4175,524,0,0
+one abnormal finding noted with presence of artifact,0.0,0.0,0.0,1,0,0,1,4698
+one abnormal finding observed with presence of artifact,0.0,0.0,0.0,1,0,0,1,4698
+one pedunculated polyp measuring 11 to 20 millimeters is present.,0.0,0.0,0.0,1,0,0,1,4698
+one polyp is present without evidence of green/black box artefact.,0.0,0.0,0.0,1,0,0,1,4698
+one subtle abnormality is identified without any anatomical landmarks visible.,0.0,0.0,0.0,1,0,0,1,4698
+one surgical instrument is present and text is visible.,0.0,0.0,0.0,1,0,0,1,4698
+one surgical instrument is present with visible text,0.0,0.0,0.0,1,0,0,1,4698
+"one surgical instrument is present, and no residual polyps are noted.",0.0,0.0,0.0,1,0,0,1,4698
+one surgical instrument is visible and text is present in the image.,0.0,0.0,0.0,1,0,0,1,4698
+polyp classified as paris type iia,0.0,0.0,0.0,1,0,0,1,4698
+polyp consistent with hamartomatous type,0.0,0.0,0.0,1,0,0,1,4698
+polyp consistent with paris iia classification,0.0,0.0,0.0,1,0,0,1,4698
+polyp larger than 20 millimeters detected during colonoscopy,0.0,0.0,0.0,1,0,0,1,4698
+polyp larger than 20 millimeters in size and text is visible,0.0,0.0,0.0,1,0,0,1,4698
+"polyp larger than 20 millimeters is observed, no anatomical landmarks are visible, and the image was obtained during a colonoscopy.",0.0,0.0,0.0,1,0,0,1,4698
+"polyp larger than 20 millimeters observed, no instruments identified",0.0,0.0,0.0,1,0,0,1,4698
+polyp larger than 20 millimeters with no instruments visible and a paris classification,0.0,0.0,0.0,1,0,0,1,4698
+polyp measures 11 to 20 millimeters and is partially residual,0.0,0.0,0.0,1,0,0,1,4698
+polyp measures 11 to 20 millimeters in size with no green or black box artefact present.,0.0,0.0,0.0,1,0,0,1,4698
+polyp measures 5 to 10 millimeters in diameter with no green or black box artefact present.,0.0,0.0,0.0,1,0,0,1,4698
+polyp measures 5 to 10 millimeters in size and not all polyps have been removed.,0.0,0.0,0.0,1,0,0,1,4698
+polyp measures 5 to 10 millimeters in size and text is visible.,0.0,0.0,0.0,1,0,0,1,4698
+polyp measures between 11 and 20 millimeters with no identifiable anatomical landmarks visible.,0.0,0.0,0.0,1,0,0,1,4698
+polyp measures between 11 to 20 millimeters with ileal structures visible,0.0,0.0,0.0,1,0,0,1,4698
+polyp measures between 5 to 10 millimeters in size and text is present.,0.0,0.0,0.0,1,0,0,1,4698
+polyp measures between 5 to 10 millimeters in size with no evidence of green or black box artefact.,0.0,0.0,0.0,1,0,0,1,4698
+polyp measures between 5 to 10 millimeters with no instruments visualized,0.0,0.0,0.0,1,0,0,1,4698
+polyp measures greater than 20 millimeters and is classified as paris type iia.,0.0,0.0,0.0,1,0,0,1,4698
+polyp measures greater than 20 millimeters with no green or black box artefact present.,0.0,0.0,0.0,1,0,0,1,4698
+"polyp measures less than 5 millimeters in size, the image was obtained during a colonoscopy, and no distinct anatomical landmark is visible.",0.0,0.0,0.0,1,0,0,1,4698
+polyp measuring 11 to 20 millimeters in size with visible text,0.0,0.0,0.0,1,0,0,1,4698
+polyp measuring 11 to 20 millimeters is present,0.0,0.0,0.0,1,0,0,1,4698
+polyp measuring 11 to 20 millimeters is present and not fully excised,0.0,0.0,0.0,1,0,0,1,4698
+"polyp measuring 11 to 20 millimeters is present, and not all polyps have been removed.",0.0,0.0,0.0,1,0,0,1,4698
+polyp measuring 5 to 10 millimeters detected,0.0,0.0,0.0,1,0,0,1,4698
+polyp measuring 5 to 10 millimeters with paris is morphology,0.0,0.0,0.0,1,0,0,1,4698
+polyp measuring greater than 20 millimeters and presence of text noted,0.0,0.0,0.0,1,0,0,1,4698
+polyp removal incomplete with biopsy forceps present,0.0,0.0,0.0,1,0,0,1,4698
+polyp snare device visible,0.0,0.0,0.0,1,0,0,1,4698
+polyps are still present and text is visible,0.0,0.0,0.0,1,0,0,1,4698
+polyps are still present with a size greater than 20 millimeters and classified as paris type.,0.0,0.0,0.0,1,0,0,1,4698
+polyps not completely excised,0.0,0.0,0.0,1,0,0,1,4698
+"polyps remain in place, a green and black box artefact is present, and text is visible.",0.0,0.0,0.0,1,0,0,1,4698
+"polyps remain in place, a green/black box artefact is visible, and a paris ip type polyp is identified.",0.0,0.0,0.0,1,0,0,1,4698
+"polyps remain in place, green and black artefacts are present, and a paris classification polyp is identified.",0.0,0.0,0.0,1,0,0,1,4698
+polyps remain in the colon and artefact is present,0.0,0.0,0.0,1,0,0,1,4698
+"polyps remain in the examined area, a green/black box artefact is present, and the largest polyp measures more than 20 millimeters.",0.0,0.0,0.0,1,0,0,1,4698
+polyps remain in the gastrointestinal tract and green/black box artefact is observed,0.0,0.0,0.0,1,0,0,1,4698
+polyps remain in the gastrointestinal tract and z-line is identifiable,0.0,0.0,0.0,1,0,0,1,4698
+"polyps remain in the visualized areas, text is present, and a paris-type polyp is identified.",0.0,0.0,0.0,1,0,0,1,4698
+polyps remain present and text is visible,0.0,0.0,0.0,1,0,0,1,4698
+polyps remain present and text is visible.,0.0,0.0,0.0,1,0,0,1,4698
+"polyps remain present, a green/black box artefact is observed, and the image is from a colonoscopy procedure.",0.0,0.0,0.0,1,0,0,1,4698
+"polyps remain present, text is visible, and a paris iia polyp is identified.",0.0,0.0,0.0,1,0,0,1,4698
+"polyps remain present, text is visible, and the image is from a colonoscopy procedure.",0.0,0.0,0.0,1,0,0,1,4698
+"polyps remain, there is a green/black box artefact, and a paris iia polyp is present.",0.0,0.0,0.0,1,0,0,1,4698
+"polyps remain, with a size of 11 to 20 millimeters, and the pathology indicates a paris ip type.",0.0,0.0,0.0,1,0,0,1,4698
+"presence of a green-black artifact noted, no polyps observed",0.0,0.0,0.0,1,0,0,1,4698
+presence of a mucosal polyp and a visible tubular structure,0.0,0.0,0.0,1,0,0,1,4698
+presence of green and black box artifacts,0.0,0.0,0.0,3,0,0,3,4696
+presence of z-line and evidence of esophageal inflammation,0.0,0.0,0.0,1,0,0,1,4698
+"presence of z-line identified, no polyp detected",0.0,0.0,0.0,2,0,0,2,4697
+presence of z-line landmark,0.0,0.0,0.0,1,0,0,1,4698
+prominent z-line is visible without evidence of green/black box artefact.,0.0,0.0,0.0,1,0,0,1,4698
+prominent z-line is visible. no instruments detected in the image.,0.0,0.0,0.0,1,0,0,1,4698
+prominent z-line observed with no evidence of polypoid lesion,0.0,0.0,0.0,1,0,0,1,4698
+prominent z-line observed without any polypoid lesions present.,0.0,0.0,0.0,1,0,0,1,4698
+residual polyp detected with paris iia morphology,0.0,0.0,0.0,1,0,0,1,4698
+"residual polyp tissue identified, with histopathologic confirmation of adenomatous polyp.",0.0,0.0,0.0,1,0,0,1,4698
+residual polyp tissue observed,0.0,0.0,0.0,2,0,0,2,4697
+residual polyp tissue present,0.0,0.0,0.0,1,0,0,1,4698
+"residual polyps are present, the image is from a colonoscopy, and the polyp measures 5 to 10 millimeters.",0.0,0.0,0.0,1,0,0,1,4698
+"residual polyps are present, with evidence of green and black box artefacts, and a paris ip classification polyp is identified.",0.0,0.0,0.0,1,0,0,1,4698
+residual polyps identified,0.0,0.0,0.0,1,0,0,1,4698
+"residual polyps not observed, text present in the image",0.0,0.0,0.0,1,0,0,1,4698
+scattered across central and lower regions,0.0,0.0,0.0,1,0,0,1,4698
+scattered across central and upper regions,0.0,0.0,0.0,2,0,0,2,4697
+small mucosal polyp measuring less than 5 millimeters,0.0,0.0,0.0,1,0,0,1,4698
+some polyps remain and green and black box artifacts are present,0.0,0.0,0.0,1,0,0,1,4698
+some polyps remain and text is visible,0.0,0.0,0.0,1,0,0,1,4698
+some polyps remain in place with text visible and a paris-type polyp noted.,0.0,0.0,0.0,1,0,0,1,4698
+some polyps remain in the colon,0.0,0.0,0.0,1,0,0,1,4698
+some polyps remain unremoved,0.0,0.0,0.0,2,0,0,2,4697
+"some polyps remain, and artefacts are present in the image.",0.0,0.0,0.0,1,0,0,1,4698
+"some polyps remain, and text is visible.",0.0,0.0,0.0,1,0,0,1,4698
+"some polyps remain, text is visible, and a paris ip polyp is identified.",0.0,0.0,0.0,1,0,0,1,4698
+"some polyps remain, text is visible, and the sizes include 5-10 millimeters and less than 5 millimeters.",0.0,0.0,0.0,1,0,0,1,4698
+"some polyps remain, there is a green and black box artefact, and text is present.",0.0,0.0,0.0,1,0,0,1,4698
+"some polyps remain, there is a green/black box artefact, and a paris classification is noted.",0.0,0.0,0.0,1,0,0,1,4698
+"some polyps remain, with a size ranging from 5 to 10 millimeters",0.0,0.0,0.0,1,0,0,1,4698
+"some polyps remain, with a size ranging from 5 to 10 millimeters, and artefacts are present.",0.0,0.0,0.0,1,0,0,1,4698
+"some polyps remain, with evidence of residual lesions",0.0,0.0,0.0,1,0,0,1,4698
+"some polyps remain, with sizes ranging from 11 to 20 millimeters and larger.",0.0,0.0,0.0,1,0,0,1,4698
+"some polyps remain, with the largest measuring 11 to 20 millimeters",0.0,0.0,0.0,1,0,0,1,4698
+text and a tube are present in the image.,0.0,0.0,0.0,1,0,0,1,4698
+text is present and no polyp is identified,0.0,0.0,0.0,1,0,0,1,4698
+text is present and the image is from a colonoscopy procedure,0.0,0.0,0.0,2,0,0,2,4697
+text is present and the procedure is gastroscopy,0.0,0.0,0.0,1,0,0,1,4698
+text is present in the image and the procedure is a colonoscopy.,0.0,0.0,0.0,1,0,0,1,4698
+"text is present, a tube is visible, and the image is from a colonoscopy procedure.",0.0,0.0,0.0,1,0,0,1,4698
+"text is present, and green/black box artefacts are observed, with no instruments identified.",0.0,0.0,0.0,1,0,0,1,4698
+"text is present, and there is evidence of oesophagitis with a clear z-line demonstrated.",0.0,0.0,0.0,1,0,0,1,4698
+"text is present, evidence of oesophagitis is noted, and no polyp is identified.",0.0,0.0,0.0,1,0,0,1,4698
+"text is present, findings include polyps and evidence of ulcerative colitis, and the image was obtained during a colonoscopy.",0.0,0.0,0.0,1,0,0,1,4698
+"text is present, green/black box artefact is seen, and a tube is visible in the image.",0.0,0.0,0.0,1,0,0,1,4698
+"text is present, no evidence of oesophagitis, and no polyp identified",0.0,0.0,0.0,1,0,0,1,4698
+"text is present, no polyps remain, and a tube is visible in the image.",0.0,0.0,0.0,1,0,0,1,4698
+"text is present, z-line is identified, and the image is from a gastroscopy procedure.",0.0,0.0,0.0,1,0,0,1,4698
+"text is present, z-line is visible, and no green or black box artifacts are observed.",0.0,0.0,0.0,1,0,0,1,4698
+text is visible and the image is from a colonoscopy procedure,0.0,0.0,0.0,1,0,0,1,4698
+text is visible and the z-line is identified,0.0,0.0,0.0,1,0,0,1,4698
+text is visible and z-line is identified,0.0,0.0,0.0,1,0,0,1,4698
+text is visible with no evidence of green or black box artifacts,0.0,0.0,0.0,1,0,0,1,4698
+text is visible with no evidence of polypoid lesion,0.0,0.0,0.0,1,0,0,1,4698
+"text is visible, evidence of oesophagitis is present, and no polyp is observed.",0.0,0.0,0.0,1,0,0,1,4698
+"text is visible, no polyps are detected, and the image was obtained during a colonoscopy.",0.0,0.0,0.0,1,0,0,1,4698
+"text is visible, one instrument is present, and two findings are noted.",0.0,0.0,0.0,1,0,0,1,4698
+"the image is from a gastroscopy, no text is visible, and no polyp is identified.",0.0,0.0,0.0,1,0,0,1,4698
+the image shows a gastroscopy with no artifact and no visible polyp.,0.0,0.0,0.0,1,0,0,1,4698
+"the polyp measures 5 to 10 millimeters, a single polyp is present, and no anatomical landmarks are identifiable.",0.0,0.0,0.0,1,0,0,1,4698
+the polyp measures between 11 to 20 millimeters with visible text and a single polyp noted.,0.0,0.0,0.0,1,0,0,1,4698
+the procedure was a gastroscopy with visible z-line and no evidence of unremoved polyps.,0.0,0.0,0.0,1,0,0,1,4698
+"the z-line is clearly identified, no signs of oesophagitis are present, and no instruments are visible.",0.0,0.0,0.0,1,0,0,1,4698
+"the z-line is clearly identified, no text is present, and no instruments are observed.",0.0,0.0,0.0,1,0,0,1,4698
+"the z-line is present, with two findings noted and no instruments visible.",0.0,0.0,0.0,1,0,0,1,4698
+"the z-line is visible, no instruments are present, and text is evident.",0.0,0.0,0.0,1,0,0,1,4698
+"the z-line is visible, with two distinct findings noted and no instruments present.",0.0,0.0,0.0,1,0,0,1,4698
+"there are remaining polyps, green and black box artefacts are present, and a paris classification polyp is identified.",0.0,0.0,0.0,1,0,0,1,4698
+there is a single visible instrument and text present with no abnormalities noted.,0.0,0.0,0.0,1,0,0,1,4698
+tube identified in the abdominal region,0.0,0.0,0.0,1,0,0,1,4698
+tube located in the gastric region,0.0,0.0,0.0,1,0,0,1,4698
+tube observed in the gastric region,0.0,0.0,0.0,1,0,0,1,4698
+tube present in the abdominal region,0.0,0.0,0.0,1,0,0,1,4698
+tube present in the gastric region,0.0,0.0,0.0,1,0,0,1,4698
+tube visible in abdominal region,0.0,0.0,0.0,3,0,0,3,4696
+tube visible in the abdominal region,0.0,0.0,0.0,11,0,0,11,4688
+tube visible in the gastric region,0.0,0.0,0.0,6,0,0,6,4693
+tube visible in the gastrointestinal tract,0.0,0.0,0.0,4,0,0,4,4695
+tube visible in the stomach,0.0,0.0,0.0,2,0,0,2,4697
+tube visible in the stomach region,0.0,0.0,0.0,1,0,0,1,4698
+"two distinct abnormalities noted, no polyps identified",0.0,0.0,0.0,1,0,0,1,4698
+"two distinct findings are present, with no instruments visible.",0.0,0.0,0.0,1,0,0,1,4698
+two findings including a polyp and a green/black box artifact are present.,0.0,0.0,0.0,1,0,0,1,4698
+"two small polyps are identified, with one appearing as a sessile lesion.",0.0,0.0,0.0,1,0,0,1,4698
+"visible anatomical landmark is the z-line, no polyps identified.",0.0,0.0,0.0,1,0,0,1,4698
+visible in central and upper-central regions,0.0,0.0,0.0,1,0,0,1,4698
+visible in the central region,0.0,0.0,0.0,1,0,0,1,4698
+visible text and green/black box artifacts are present,0.0,0.0,0.0,1,0,0,1,4698
+visible z-line at gastroesophageal junction,0.0,0.0,0.0,7,0,0,7,4692
+visible z-line junction,0.0,0.0,0.0,1,0,0,1,4698
+"visible z-line observed, no polyp identified",0.0,0.0,0.0,1,0,0,1,4698
+visible z-line structure,0.0,0.0,0.0,1,0,0,1,4698
+"z-line is clearly identified, no polypoid lesions are present.",0.0,0.0,0.0,1,0,0,1,4698
+z-line is present without any visible polypoid lesions,0.0,0.0,0.0,1,0,0,1,4698
+z-line is visible and no residual polyps are present.,0.0,0.0,0.0,1,0,0,1,4698
+z-line is visible and text is present,0.0,0.0,0.0,1,0,0,1,4698
+"z-line is visible, no green or black box artefact observed",0.0,0.0,0.0,1,0,0,1,4698
+"z-line is visible, no instrument is seen, and polyp removal is not applicable.",0.0,0.0,0.0,1,0,0,1,4698

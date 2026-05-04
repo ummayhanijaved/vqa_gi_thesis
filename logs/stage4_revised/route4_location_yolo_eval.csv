@@ -1,0 +1,501 @@
+prediction,ground_truth
+left region,Biopsy forceps are visible in the central and upper-left regions with a green/black box artefact present.
+central region,"Red, pink, and white lesions are present with two polyps identified"
+central region,Multiple findings are present scattered across central and upper regions with involvement in lower quadrants
+central region,"No green/black box artefact is present, with a single finding observed, and the instrument is positioned in the central and upper regions of the image."
+central region,"No green/black box artefact is visible, and the instrument is positioned in the central and upper-central areas of the image."
+central region,No anatomical landmark identified with no signs of mucosal inflammation
+central region,No visible instruments detected in the abdominal region
+central region,"No polyps are observed, and no instrument is visible in the image."
+central region,No green or black box artifact noted; instrument positioned in central and upper regions
+central region,Mucosal inflammation is noted. Anatomical structures are seen scattered across central and lower regions.
+central region,No instrument visualized and no text observed
+central region,"No polyps observed, no instrument visible, and z-line identified as anatomical landmark."
+central region,presence of a polyp in the lower-right quadrant
+central region,"Multiple anatomical landmarks are distributed across central and upper regions, with no instruments visible."
+central region,No instrumentation is visualized in the gastrointestinal tract.
+central region,"No polyps observed, no instrument visible, and text is present in the image."
+central region,"No polyps are identified, no instruments are visible in the image, and zero instruments are present."
+central region,No instruments are visible in the image.
+central region,No instruments or anatomical landmarks are visible in the image.
+left region,Instrument is positioned in the central and upper-left regions with visible text present.
+central region,"Anatomical landmarks are visualized in the central and upper regions with red, pink, and grey coloration, as seen during a gastroscopy."
+no landmark identified,"Polyps remain present in multiple areas including the center, center-right, lower-right, upper-center, and upper-right regions."
+central region,"No polyps remain, one abnormal finding is present, and no anatomical landmark is identified."
+no landmark identified,"No instruments are visible in the image, and no green or black box artefacts are present."
+central region,"No instrument is visible, evidence of oesophagitis is present, and no green or black box artifact is observed."
+central region,"Abnormalities show pink and white areas distributed across multiple regions including center, center-left, center-right, lower-center, lower-right, upper-center, upper-left, and upper-right."
+central region,"No polyps observed, no instrument visualized, and abnormality shows pink and red coloration."
+central region,"red, white, and flesh-colored lesions"
+central region,Abnormalities are scattered across multiple quadrants and the central region; polyp removal is not applicable.
+central region,"Abnormalities are scattered across multiple regions, z-line is visible, and no polyps are observed."
+central region,"Abnormalities are scattered across multiple regions including center, upper, and lower areas, with one distinct finding noted, exhibiting pink, red, and white coloration."
+central region,"scattered across multiple regions including center, upper, and lower quadrants"
+left region,Polyp measures between 5 to 10 millimeters in size with no visible instruments present
+central region,"Evidence of a polyp is present, the image is from a colonoscopy, and the instrument is positioned in the central and lower regions."
+central region,"No polyps identified, no text observed, and no instrument visible in the image."
+central region,"Abnormalities are scattered across multiple regions, no instruments are visible, and a tube is present."
+central region,"The image is from a colonoscopy, with abnormalities scattered across multiple regions, and no instrument is visible."
+central region,"Abnormalities are scattered across multiple regions including central and upper areas, with no instruments visible."
+central region,"Polyps measure between 11 to 20 millimeters, not all polyps have been removed, and abnormalities are distributed in the central and upper-right regions."
+central region,"One polyp is seen in the central region, with no anatomical landmarks identified."
+central region,"No anatomical landmark is visible, a polyp is present, and not all polyps have been removed."
+central region,multiple red and white lesions present
+central region,No anatomical landmarks or instruments are visible in the image.
+central region,"Abnormalities show pink, red, and white areas with no green or black box artefact and no instrument visible."
+central region,"No polyps observed, no text present, and abnormality distributed across multiple regions including center, center-left, center-right, lower-center, lower-right, upper-center, upper-left, and upper-right."
+central region,"Anatomical landmark located in lower central and lower right regions, no polyps observed."
+central region,One significant finding is present with no instrument observed and no green or black box artefact noted.
+central region,"Multiple findings include pink, red, and white lesions with no instruments visible."
+no landmark identified,"There is one finding and one instrument visible, with the abnormality noted in the central and upper-central regions."
+central region,"No polypoid lesions are identified in the central, upper, or lower regions of the image."
+central region,scattered across multiple abdominal regions
+central region,"No polyps are detected in the central, upper, or lower regions of the image."
+central region,No polyps are visible across all regions of the image.
+central region,instrument positioned in lower-right quadrant
+central region,scattered across multiple quadrants including central and lower areas
+central region,Instrument seen in multiple regions including central and upper areas; text is visible
+central region,No anatomical landmarks are visible in the image.
+central region,There is evidence of oesophagitis scattered across multiple regions without any visible polyp.
+central region,"Text is present and anatomical landmarks are located in the center, lower-left, lower-right, upper-center, and upper-left regions."
+lower region,"instrument visible in center-left, lower-center, and lower-left regions"
+central region,"One instrument is visualized in multiple areas including the center, center-left, lower-center, upper-center, and upper-left, consistent with a colonoscopy procedure."
+no landmark identified,One polyp observed in central and lower-right regions
+central region,No green or black box artifacts observed; instrument positioned in central and upper regions
+central region,visible in central and upper regions
+central region,"Anatomical landmarks are seen in the central, upper-right, and lower-center regions, text is present, and no green or black box artifacts are observed."
+central region,abnormalities scattered across multiple quadrants with no polyp detected
+central region,"Multiple mucosal abnormalities are scattered throughout the central and lower regions, as well as upper quadrants."
+central region,No polyp identified and no anatomical landmark visible
+no landmark identified,"Abnormalities are seen in the central, center-right, lower-center, and lower-right areas, with findings consistent with a colonoscopy, and the lesions exhibit pink, red, and brown hues."
+central region,"No surgical instruments are present; multiple abnormalities are noted, including pink and white lesions."
+central region,No foreign instrumentation is visible in the image.
+central region,"No polyps identified, no removal required, and no anatomical landmark visible."
+central region,No instruments are visualized within the abdominal region.
+central region,"No polyps are present, no anatomical landmarks are visible, and abnormalities are scattered across multiple regions of the image."
+central region,"The image is from a colonoscopy with no polyps detected and multiple colored lesions including pink, red, yellow, and white areas."
+central region,No polyps observed; abnormalities scattered across multiple regions
+central region,No instruments are visible in the gastrointestinal tract with no evidence of inflammatory bowel disease.
+central region,"No instrument is visible within the gastrointestinal tract. Multiple colors including pink, red, and white are present."
+central region,"Abnormalities are seen in the lower central and lower right regions, consistent with findings from a colonoscopy."
+central region,"No anatomical landmarks, polyps, or instruments are present in the image."
+central region,"Instrument is positioned in multiple areas including central and upper regions, and this image is from a colonoscopy procedure."
+central region,"No instruments are visible, and the anatomical landmark is scattered across central and lower regions."
+central region,A single polyp is located in the central and lower-left regions of the image.
+central region,"Text is present, one instrument is visible, and it is located in the central, lower-central, and lower-right areas."
+central region,"Mucosal inflammation is present in multiple regions across the image, with no evidence of a green/black box artefact."
+central region,"No polyps identified; landmarks observed in multiple regions including central, upper, and lower areas; image obtained during gastroscopy."
+no landmark identified,Single polyp identified in the center-right region
+central region,"No polyp identified, evidence of ulcerative colitis present, and no instrument visible in the image."
+central region,"No polyp is visible, no abnormalities are present, and no instruments are observed."
+central region,No instruments are visualized within the abdominal region.
+central region,"Text is present, abnormalities are scattered across multiple regions, and there are two distinct findings."
+central region,No anatomical landmarks are identifiable; abnormalities are distributed across multiple regions
+central region,No residual polyps identified; instrument positioned in central and upper regions
+left region,instrument visible in central and upper-left regions
+central region,The image shows a colonoscopy with gray and white abnormalities scattered across the central and upper regions of the view.
+central region,No polyp noted in the examined area
+central region,Abnormality noted in the lower central region with evidence of a polyp
+central region,"No instruments are visible, and no polyp is identified in the image."
+central region,"No text is visible, one instrument is present, and it is located in the central and upper-central regions."
+central region,polyp observed in the center-left and lower-left regions of the image
+central region,"abnormality noted in multiple regions including center, upper, and lower quadrants"
+central region,"Two distinct findings are present, no instrument is visible, and not all polyps have been removed."
+central region,No instrument is visible and polyp removal is not applicable
+central region,"No instrument is visible, two findings are present, and the z-line is identified."
+central region,Evidence of cecal landmark without any instruments detected.
+upper region,"No green/black box artefact is present, and a single instrument is located in the central and upper regions of the image."
+central region,Abnormalities are present in the center of the image with visible text.
+left region,"One surgical instrument is present, with landmarks distributed across multiple regions including central, upper, and lower quadrants."
+central region,"No anatomical landmark is visible, no instruments are present, and the abnormality shows multiple colors including pink, yellow, and white."
+upper region,"Instrument is seen in central and lower regions, polyps remain, and abnormal areas show blue and green hues."
+central region,scattered across central and upper regions
+central region,"Gastroscopy reveals multiple colored lesions including pink, red, and white areas."
+central region,"No green/black box artefact is present, multiple anatomical landmarks show pink, red, and white colors, and abnormalities are scattered across central and upper regions as well as lower quadrants."
+central region,"The z-line is visible in multiple regions including central, upper, and lower quadrants."
+no landmark identified,The image is from a colonoscopy showing a Paris IP polyp located in the central and upper-right regions.
+central region,abnormalities distributed across multiple regions
+central region,"No instruments are present, no polyps are identified, and abnormalities are scattered across multiple regions of the image."
+left region,"No green/black box artefact is present, polyp removal is not indicated, and the instrument is positioned in multiple areas including the center, center-left, lower-center, lower-left, upper-center, and upper-left."
+central region,instrument located in central and upper regions
+central region,abnormality noted in multiple central and lower regions
+central region,abnormality distributed throughout multiple quadrants
+central region,"No polyps identified, no measurable size noted, and no distinct anatomical landmark visible."
+left region,"One instrument is visible in the central and upper-left regions, and no evidence of polyps is present."
+central region,Evidence of colonic findings with abnormality observed in central and upper-central regions
+central region,"Abnormalities are scattered across multiple regions, consistent with ulcerative colitis, and no instruments are visible."
+central region,"Abnormalities are scattered across multiple regions including central, upper, and lower areas; polyps are not relevant; no instruments are visible."
+central region,"distributed across multiple regions including center, upper, and lower areas"
+central region,"located in multiple areas including center, lower-left, and upper-left regions"
+central region,red and pink areas noted
+central region,abnormality scattered across central and upper regions
+central region,abnormality located in the central region and polyp size less than 5 millimeters
+central region,"Text is present and abnormalities are distributed across multiple regions including center, center-left, center-right, lower-center, lower-right, upper-center, upper-left, and upper-right"
+central region,"Abnormalities are scattered across multiple regions including the center, lower, and upper areas, the image is from a colonoscopy, and a Paris IP polyp is present."
+central region,"Anatomical landmarks are scattered across central and lower regions, no instruments are present, and the procedure is a gastroscopy."
+central region,"No text is present, landmarks are located in central and lower regions, and they exhibit yellow, white, and pink hues."
+central region,Only a single abnormality is present with no identifiable anatomical landmark visible.
+no landmark identified,One abnormal finding is observed in the center-left and upper-left regions.
+central region,The z-line is identified in the central and upper-right regions of the image.
+central region,Evidence of esophageal inflammation detected without visible anatomical landmarks
+central region,"No polyps identified, no anatomical landmarks noted, and abnormalities distributed across multiple regions including center, center-left, center-right, lower-center, lower-left, lower-right, upper-center, upper-left, and upper-right."
+central region,Abnormalities are distributed across multiple regions including central and lower areas with no identifiable anatomical landmarks
+central region,abnormality scattered across multiple regions
+central region,One abnormal finding is noted in the lower-central region of the image.
+central region,"The z-line is located in the central and upper regions of the image, with no evidence of green or black box artefact."
+central region,No instruments are visible in the image across all regions.
+central region,"A tube is present in the central and upper-central regions of the image, and text is visible."
+central region,"No residual polyps are present, no green or black box artefacts are seen, and the instrument is positioned in the lower-central region."
+central region,"No instrument is visible, polyp removal status is not relevant, and there is evidence of ulcerative colitis."
+central region,"No polyps are present, with abnormalities scattered across multiple regions"
+central region,"One instrument is visible in the central and upper-central regions, with no evidence of polyp removal."
+central region,"One finding is present without any identifiable anatomical landmark, and a Paris-type polyp is observed."
+central region,No instruments are present in the image and no anatomical landmark is identified.
+central region,"No polyp noted with multiple color changes including pink, red, and white lesions"
+central region,"Green and black box artifacts are present in the central and upper-center regions, with an instrument located in the lower-right quadrant."
+central region,"No instruments are visualized, no polyp is present, and multiple colors including pink, yellow, white, orange, and black are noted."
+central region,located in the upper central area
+central region,"Evidence of a Paris IP polyp is seen in multiple areas including the center, center-left, center-right, lower-center, lower-left, and lower-right, with no green or black box artefact present."
+central region,"No instrument is present; abnormalities are scattered across multiple regions including center, center-left, center-right, lower-center, lower-left, lower-right, upper-center, upper-left, and upper-right."
+central region,"No polyp is present, and the z-line is observed in multiple areas including center, center-left, center-right, lower-center, lower-left, and lower-right."
+central region,pink and red areas noted
+no landmark identified,"Polyp measures 5 to 10 millimeters in diameter, with abnormalities seen in the center-right, lower-right, and upper-right regions."
+central region,"No polyps remain; one polyp is present; the instrument is positioned in multiple areas including the center, center-left, lower-center, lower-right, and upper-left."
+central region,"No green/black box artefact is present, and the instrument is positioned in multiple areas including the center, center-left, lower-center, upper-center, and upper-left."
+central region,lesion exhibits flesh and red coloration
+central region,"No instrument is visible, polyp status is not relevant, and text is present in the image."
+no landmark identified,abnormality noted in lower central region
+central region,One abnormal finding is distributed across multiple regions without any identifiable anatomical landmarks.
+central region,"Multiple color variations including pink, red, white, and purple are seen in scattered regions, with the image obtained during a gastroscopy."
+central region,Text is present and the instrument is positioned in central and upper-left regions
+central region,"No polyps are visible, no anatomical landmarks are present, and abnormalities are distributed across multiple regions including central, upper, and lower areas."
+central region,Pink and red areas noted
+central region,"No polyp is identified, with abnormalities scattered across multiple regions, and a single finding is present."
+no landmark identified,"Text is present, abnormality is seen in the central and lower-central regions, and the polyp measures less than 5 millimeters."
+central region,Text is present with abnormality noted in upper-center and upper-left regions
+central region,"multiple colored lesions including pink, red, yellow, and white with no polyp identified"
+central region,"Multiple anatomical landmarks are distributed across the central and lower regions, with no polyps identified."
+central region,abnormalities are scattered across multiple regions and no instruments are visible
+central region,One instrument is positioned in the central and upper-left regions of the image.
+central region,Evidence of colonic mucosa observed with lesion noted in the upper-center region.
+central region,"Abnormalities are scattered across multiple regions including central, upper, and lower areas with a single finding observed and no anatomical landmarks present."
+no landmark identified,"One polyp measuring 11 to 20 millimeters is present in multiple areas including the center, center-left, center-right, lower-center, lower-right, upper-center, and upper-right regions."
+central region,"No green or black box artifact is present, abnormalities are scattered across multiple regions, and polyp removal is not relevant."
+central region,No instrument is visible within the gastrointestinal tract and evidence of ulcerative colitis is present.
+no landmark identified,"Abnormalities are scattered across the central and upper regions, not all polyps have been removed, and no instruments are present."
+central region,No instruments or anatomical landmarks are visible in the image.
+no landmark identified,Abnormal mucosal findings are observed in the central region following a colonoscopic examination.
+central region,"One polyp is present, scattered across central and multiple peripheral regions."
+central region,"Multiple colored lesions including pink, red, white, and brown are present, with visible text noted."
+central region,"Abnormalities are scattered across multiple regions including center, upper, and lower quadrants, anatomical landmarks show pink and red hues, and no polyps are visualized."
+central region,"No instrument is visible within the image, and the z-line is clearly identified."
+central region,"No text is present, with landmarks scattered across the central and upper regions"
+central region,Abnormalities are distributed across multiple quadrants with no evidence of a polyp present.
+no landmark identified,"Abnormalities are scattered across central and lower regions, no instruments are visible, and a polyp is present."
+left region,"One polyp is present, and the instrument is positioned in the central and upper-left areas."
+central region,"Multiple anatomical landmarks are present in the central and lower regions, as well as in the upper-left and upper-right quadrants."
+central region,scattered across central and lower regions
+no landmark identified,"Text is present, one finding is noted, and the abnormality is located in the central region."
+central region,"No polyps identified, text is visible, and no anatomical landmarks are present."
+central region,distributed across multiple quadrants of the image
+central region,abnormality seen in multiple quadrants and central regions
+central region,abnormality seen in multiple quadrants and central areas
+central region,"Abnormalities are distributed across multiple regions including central and upper areas, with no identifiable anatomical landmarks present."
+central region,"Abnormalities are scattered across multiple regions including central and upper areas, no instruments are visible, and no polyps are identified."
+left region,"Evidence of colonoscopy with instrument located in multiple regions including center, lower-center, and upper-left quadrants."
+central region,"No polyps are identified, no anatomical landmarks are visible, and no color abnormalities are present."
+no landmark identified,"The polyp measures less than 5 millimeters, there is a single finding, and the abnormality is located in the central and lower-central regions of the image."
+central region,No instruments are visible in the imaging field.
+central region,No anatomical landmark identified and polyps are not pertinent to the findings
+no landmark identified,Multiple polyps observed scattered across central and upper regions
+central region,"Abnormalities are scattered across multiple regions including central and upper areas, no instruments are present, and no polyp is identified."
+central region,"pink, red, and white lesions noted"
+central region,"Abnormalities are scattered across multiple regions including center, upper, and lower areas with varying colors such as pink, red, and white, and no instruments are visible."
+central region,"multiple lesions with pink, red, and white discoloration"
+central region,"Text is present and abnormalities are distributed across multiple regions including center, center-left, center-right, lower-center, lower-right, upper-center, upper-left, and upper-right."
+central region,"Abnormalities and landmarks are scattered across multiple regions including central, upper, and lower quadrants, with no instruments visible."
+central region,Multiple abnormalities are scattered across central and upper regions of the image.
+central region,"No polyps are identified, the z-line is visible, and abnormalities are scattered across multiple regions including center, center-left, center-right, lower-center, lower-left, lower-right, upper-center, upper-left, and upper-right."
+central region,Polyps remain present in multiple areas including central and lower regions.
+central region,"A single finding is observed, located in the central and lower-central regions of the image."
+central region,"No evidence of polyp removal, abnormality scattered across multiple regions, and one finding identified."
+central region,"No polyp is identified, anatomical landmark is noted in multiple central regions, and two distinct findings are observed."
+central region,"Abnormalities show pink, red, and white areas; landmarks are distributed in central, lower, and upper regions; polyp status is not applicable."
+central region,"No polyp is present, with abnormality scattered across multiple regions of the image."
+central region,Evidence of z-line is present; no instrument is visible in the image.
+central region,"No instruments are visible, and there is evidence of oesophagitis."
+central region,"Abnormalities are scattered across multiple regions including central, upper, and lower areas with no instrument visible."
+central region,"No instrument is visible, no polyp is present, and text is visible in the image."
+lower region,"abnormal areas show blue, green, and white discoloration"
+central region,"Abnormalities are scattered across multiple regions including center, lower areas, and upper quadrants, text is present, and there is one finding observed."
+central region,"scattered across center-left, lower-center, and lower-left regions"
+central region,"Abnormalities are seen in multiple regions including central and upper areas, no polyp is present, and removal status is not relevant."
+central region,"Polyp measuring 11 to 20 millimeters in size is present, showing a paris ip morphology, and is located in the central and upper regions of the image."
+central region,"Abnormalities are distributed throughout the central and upper regions of the image, with no instrument visible."
+central region,"No instruments are visible, and the abnormality appears in pink, red, and white colors."
+central region,"No polyps are visible in the image, with abnormalities noted in multiple regions, and no polyps are present for removal."
+central region,No instruments are visible within the image.
+no landmark identified,polyp with characteristics of paris ip located in central and center-right regions
+central region,"Multiple colored lesions observed, including pink, red, and white areas"
+central region,"Abnormalities are scattered across multiple regions including central and upper areas, no instruments are present, and there is no text visible."
+central region,"No anatomical landmarks are identified, one abnormal finding is present, and the instrument is positioned in the upper-left and upper-right regions."
+no landmark identified,evidence of multiple polyps scattered across central and lower regions
+central region,Colonoscopy image shows the instrument located in the upper-central region.
+central region,"No polyps identified, a single tube is visible, and no anatomical landmarks are noted."
+central region,A single tube is positioned in the central and upper-central regions of the image.
+central region,"No green/black box artefact is present, with the instrument located in the lower-left and abnormalities scattered across multiple central and upper regions."
+no landmark identified,"Polyps remain in multiple regions including central, upper-right, and lower-right areas."
+central region,"No green or black box artifacts are present, removal of polyps is not relevant, and landmarks are distributed across the central, right, lower, and upper regions."
+central region,scattered across multiple quadrants including center and upper-left areas
+central region,"No polyps are identified, with abnormalities scattered across multiple regions, and no instruments are visible."
+central region,visible in the center-left and upper-left regions
+central region,"Abnormalities are distributed across multiple regions including central, upper, and lower areas with a single finding observed."
+central region,"Anatomical landmarks and abnormalities are distributed across multiple regions including central, upper, and lower areas, with no polyps identified."
+central region,pink and red mucosal changes
+central region,abnormalities scattered across multiple areas
+central region,"Abnormalities are seen scattered across multiple regions of the gastrointestinal tract, and the image was obtained during a gastroscopy."
+central region,"No instruments are present; abnormalities are scattered across multiple regions including center, upper, and lower quadrants."
+central region,visible in central and upper-right areas
+central region,No surgical instruments are present. Abnormalities are distributed across multiple central and upper regions.
+central region,"Abnormalities are scattered across multiple regions including central, upper, and lower areas; no instrument is visible."
+central region,"No polyps are observed, no instruments are visible, and abnormalities are distributed across multiple regions."
+central region,One instrument is positioned in the central and upper-central regions.
+central region,"No polyps are identified, and no anatomical landmarks are visible in the image."
+central region,"Multiple anatomical landmarks are seen in central and lower regions, and no green or black box artefact is present."
+central region,No instrument observed and no box artifacts noted
+central region,"Anatomical landmark is located in the central and left central regions, no instruments are visible, and no polyp is detected."
+lower region,"No text is visible, and a single instrument is positioned in multiple locations including the center, upper-left, and lower regions."
+no landmark identified,"No green/black box artefact is present, the polyp measures greater than 20 millimeters, and the abnormality is distributed in the central, center-left, lower-center, and upper-center regions."
+central region,"No green/black box artefact is present, and the instrument is located in the lower-center and lower-right regions."
+central region,"No anatomical landmark is identified, with multiple colors including pink, red, and white noted."
+upper region,Text is present and the instrument is positioned in the central and upper regions
+left region,"A tube is visible in the central and upper-left regions of the image, consistent with a colonoscopy procedure."
+central region,No instrument visualized and evidence of esophageal inflammation with polypoid lesion
+central region,Anatomical landmark is located in the central region with no polyps observed
+central region,No polyp observed with multiple areas of abnormality scattered across central and upper regions
+central region,Biopsy forceps observed in central and lower regions of the image
+central region,distributed across multiple central and upper regions
+central region,No instrument visible and presence of green/black box artefact noted
+central region,"No polyps observed, no anatomical landmarks visible, and abnormalities scattered across multiple regions including center, lower, and upper quadrants."
+no landmark identified,The image is from a colonoscopy showing a Paris IIa polyp located in the central region.
+central region,"No green or black box artifact observed; instrument positioned in multiple regions including center, center-left, lower-center, lower-left, upper-center, and upper-left"
+central region,"Abnormalities are scattered across multiple regions including central and upper areas, with evidence of ulcerative colitis, and no green/black box artefact is present."
+central region,No polyp identified with multiple color variations noted
+no landmark identified,"No instruments are visible in the image, and the polyp measures between 5 to 10 millimeters."
+central region,No polyps are visible in the central and multiple peripheral regions of the image.
+central region,"No instruments are visible, with abnormalities distributed across multiple regions including central, upper, and lower quadrants."
+central region,scattered across multiple regions including central and upper areas
+central region,distributed across multiple central and lower regions
+central region,"Multiple red, pink, and white lesions are present without any text"
+central region,A tube is visible in the central and upper regions with a green/black box artefact noted.
+central region,"Abnormalities are scattered across multiple regions, no instruments are present, and ulcerative colitis is evident."
+left region,No residual polyps identified; instrument positioned in central and upper-left regions
+central region,"No polyp is present, with anatomical landmarks scattered across central and upper regions"
+no landmark identified,A 5- to 10-mm polyp is present in the central and central-right regions of the image.
+central region,Abnormalities are scattered across multiple regions with a pink and white appearance.
+central region,abnormality seen in central and lower regions
+central region,"Anatomical landmark is located in the center-left and upper-left regions, with evidence of ulcerative colitis."
+central region,scattered across multiple quadrants including central and lower regions
+central region,Abnormality located in the lower-left region with a single finding observed.
+central region,"No text is visible, the polyp measures 11 to 20 millimeters, and the instrument is positioned in the center, lower-center, and lower-right areas."
+central region,"No polyps observed, no anatomical landmarks identified, and two distinct findings noted."
+central region,"Abnormalities are distributed across multiple areas including central, upper, and lower regions; z-line is present."
+central region,"No green/black box artefact identified, image obtained during colonoscopy, abnormalities distributed across multiple regions including center, lower, and upper quadrants."
+central region,"Abnormalities are scattered across multiple regions including central and upper areas, and polyp removal status is not relevant."
+central region,"No polyps detected, no instrument visible, and multiple colors including pink, red, and white are noted in the abnormal regions."
+no landmark identified,"No instruments are visible in the image, text is present, and no devices are identified."
+central region,"Abnormalities are scattered across multiple regions including central and upper areas, no polyp is present, and ulcerative colitis is noted."
+central region,Anatomical landmark is located in the central and upper-central regions with two distinct findings present.
+central region,Polyps remain present in the central and lower-central regions
+central region,"Polyp measures less than 5 millimeters in size with no instruments visible, and abnormalities are scattered across multiple regions of the image."
+central region,"No instruments are visible, and the image is from a gastroscopy procedure."
+central region,abnormalities distributed across multiple regions
+central region,"Multiple red and white mucosal lesions are present, with no instruments visible."
+central region,"Abnormalities are distributed across multiple regions including central, upper, and lower quadrants, with no instrument visible."
+central region,abnormality noted in lower central region with characteristics of a paris polyp
+left region,"No residual polyps observed, text is present, and the instrument is located in the central and upper regions."
+central region,"Evidence of z-line is present, with abnormal findings distributed across central and multiple peripheral regions."
+central region,"No green or black box artifacts are visible, the image was obtained during a colonoscopy, and the instrument is positioned in the central, upper-central, and upper-right areas."
+central region,"Anatomical landmarks are distributed in multiple areas including the central and lower regions, and the abnormalities show a combination of pink, red, and white hues."
+central region,Mucosal inflammation is present in multiple regions without any visible instruments.
+central region,"No polyps are identified, no anatomical landmarks are present, and abnormalities are distributed across multiple regions including upper, center, and lower areas."
+lower region,"No green or black box artifact is seen, and the instrument is positioned in the central and lower regions."
+central region,"No instruments are visualized. Abnormality is distributed across multiple regions including central, upper, and lower quadrants."
+central region,"Anatomical landmarks are located in multiple areas including center, center-left, center-right, lower-center, upper-center, upper-left, and upper-right, and they appear pink; polyp removal status is not relevant."
+central region,abnormalities scattered across multiple regions
+central region,"abnormalities observed in multiple quadrants including center, upper, and lower regions"
+upper region,instrument visible in upper-central and upper-left regions
+central region,Polyp detected in the colon and instrument positioned in the lower central and right regions.
+central region,"Multiple pink, red, and white lesions are present, with landmarks scattered in the central, lower, and upper regions."
+central region,Abnormalities are distributed across multiple regions including central and upper areas with no evidence of polypoid lesion.
+central region,"No instruments are visible, and abnormalities are scattered across central and lower regions."
+central region,"No remaining polyps are noted, and the instrument is positioned in the central and upper-left regions of the image."
+central region,"No polyp identified, no anatomical landmark visible"
+central region,"No instruments are present, the abnormality is scattered across multiple regions, and one finding is observed."
+central region,"No instruments are visible, multiple abnormalities are scattered across central and upper regions, with two distinct findings present."
+central region,"Instruments are present in the lower-center and lower-right areas, with abnormalities observed in the center, center-left, and upper-left regions."
+central region,located in central and lower regions
+central region,"The polyp measures 5 to 10 millimeters and appears pink and white, located in the central and center-right regions."
+central region,"Multiple abnormalities are distributed across central, upper, and lower regions of the image."
+central region,"Abnormalities are distributed across multiple regions including central, upper, and lower areas with two findings present and no instruments visible."
+central region,"No green or black box artefact is present, the polyp measures 11 to 20 millimeters, and the abnormality is located in the lower-central region."
+upper region,"Text is present, one instrument is visible, and it is located in the central and lower regions of the image."
+central region,"Abnormalities are distributed across multiple regions including upper and lower quadrants, and polyp removal is not applicable in this case."
+central region,"Instrument is positioned in central and upper regions, no evidence of polyp removal, and a tube is present."
+no landmark identified,"Evidence of a paris ip polyp is observed, no instruments are visible, and the abnormality is located in the central and center-right areas."
+central region,"Multiple findings are present in scattered locations across the image, including central, upper, and lower regions, with colors ranging from pink, red, and white."
+central region,"Abnormalities are scattered across multiple regions including center, upper, and lower areas, text is visible, and no instruments are present."
+central region,"No instruments are visible, text is present, and landmarks are scattered across multiple regions including center, upper, lower, and lateral areas."
+central region,"Abnormalities are observed in the center-left, lower-center, and upper-center regions. One instrument is present in the image."
+central region,"Polyp larger than 20 millimeters with lesions scattered across multiple regions including center, center-right, lower-center, lower-right, and upper-right"
+central region,"No instruments are visible; abnormalities are scattered across multiple regions including center, upper, and lower quadrants."
+central region,"No surgical instruments are visible, with anatomical landmarks noted in the central and upper regions."
+central region,"No instruments are visible, and abnormality is seen in the central and lower regions."
+central region,"No instruments are visible, and no anatomical landmark is identified."
+lower region,"One instrument is present in the lower-center and lower-right regions, with no evidence of polyp removal."
+central region,"No polyps are visible, no instrument is present, and polyp removal is not applicable."
+central region,instrument visualized in central and upper-central regions
+central region,No polyps remain; no anatomical landmarks are visible; abnormalities are scattered across multiple regions of the image.
+central region,"No instruments are visible in the image, and there is no evidence of residual polyps."
+central region,"The image shows a colonoscopy with a single instrument positioned in multiple areas including the center, lower regions, and upper-left quadrant."
+central region,No instruments are visible in the abdominal region.
+central region,"Z-line is visible, with abnormalities showing pink, red, and white colors, scattered across central and upper regions."
+central region,"No polyp is present, no instrument is visible, and the abnormality shows varied colors including pink, red, white, and grey."
+central region,abnormality observed in central and lower regions
+central region,"No green or black box artifacts are present, one abnormality is identified, and the instrument is positioned in the central and lower regions."
+central region,"Text is present and the instrument is positioned in multiple regions including center, center-right, lower-center, and lower-right"
+central region,"Abnormalities show pink, red, and white areas with no identifiable anatomical landmarks and no mention of polyp removal."
+central region,"Polyps are still present, with a Paris classification type, and the abnormality is located in the lower central region."
+central region,Multiple abnormalities are scattered across central and upper regions as well as lower quadrants.
+central region,The image shows a colonoscopy with two polyps located in the central and center-right regions.
+central region,"Text is visible, a Paris IIa polyp is present, and the abnormality is located in the central region."
+central region,No instrument is visible and a green/black box artefact is present.
+central region,abnormality noted in multiple central and lower regions
+central region,Multiple findings are visible across central and upper regions with landmarks in central and surrounding areas.
+central region,"Multiple regions including central, upper, and lower areas show the landmark with pink and white coloration."
+central region,Two metal instruments are visible in the central and lower regions of the image.
+central region,"No instrument is visible, one finding is present, and the image is from a colonoscopy procedure."
+central region,Multiple inflammatory lesions are present across central and upper regions with pink and red coloration.
+left region,No residual polyps identified
+lower region,"instrument is visualized in multiple quadrants across the central and upper regions, consistent with colonoscopy"
+central region,"No text is present, and the landmark is positioned in the central area."
+central region,"abnormality observed in multiple regions including center, left, right, and lower areas"
+no landmark identified,No green or black box artifact noted; abnormality observed in central and lower regions
+central region,"Multiple pink, red, and white lesions are present without any identifiable anatomical landmark"
+central region,"No green or black box artifacts are present, visible text is noted, and the instrument is located in the central and upper regions."
+central region,Pink and white colored lesions noted
+central region,Evidence of colonic findings with abnormality noted in central and center-right regions
+central region,Evidence of multiple abnormalities scattered across central and upper regions of the image.
+central region,Pink and white lesions observed in central and lower-central regions
+upper region,No evidence of residual polyps and one instrument located in the central and upper regions of the image.
+central region,"No instruments are visible in the image, and abnormalities are distributed across multiple regions including center, center-left, center-right, lower-center, lower-left, lower-right, upper-center, upper-left, and upper-right."
+central region,"No surgical instruments are present, and landmarks are scattered across multiple areas including the center, upper-left, and lower regions."
+central region,"Abnormalities are distributed across multiple regions including center, upper, and lower areas, no instruments are visible, and the image is from a colonoscopy procedure."
+no landmark identified,abnormality noted in central and center-right regions
+central region,"Anatomical landmarks are located in multiple regions including the center, center-left, center-right, lower-left, upper-center, upper-left, and upper-right, with no instruments visible and the z-line present."
+central region,"No polyps are visualized, no green/black box artefact is present, and the abnormality is distributed across multiple regions including center, center-left, center-right, lower-center, lower-left, lower-right, upper-center, upper-left, and upper-right"
+central region,"Instrument is visible in central and upper regions, no evidence of polyps, and no text present."
+no landmark identified,"A tube is visible in the central and upper-left areas, text is present, and a tube is identified as the instrument."
+central region,Findings suggestive of diffuse mucosal abnormalities across multiple quadrants
+no landmark identified,"Abnormalities are scattered across central and upper regions, no green/black box artefact is present, and there is one finding observed."
+central region,abnormalities noted in multiple quadrants during gastroscopy
+central region,abnormalities scattered across multiple regions without identifiable anatomical landmarks
+central region,"The z-line is present, with landmarks distributed across the central and lower regions, and two distinct findings are observed."
+central region,No instruments are visualized within the image field.
+central region,scattered across multiple quadrants including central and lower regions
+central region,No polyps are detected in the examined area.
+central region,"No text is present, abnormalities are scattered across multiple regions, and no anatomical landmark is identified."
+central region,"Abnormalities are scattered across multiple regions including the center, lower areas, and upper regions, no instruments are present, and there is evidence of ulcerative colitis."
+central region,abnormalities scattered across multiple regions
+central region,"No anatomical landmark is identifiable, and no box-like artifact is present."
+central region,"Not all polyps have been removed, with a remaining lesion measuring 5 to 10 millimeters, and the instrument is positioned in the lower-right area."
+central region,"No instrument is visible in the image, and the procedure shown is a gastroscopy."
+central region,instrument visible in central and upper regions
+no landmark identified,"No anatomical landmarks are visible, abnormality is present in central and left central regions, and no instruments are seen."
+central region,A 5-10mm polyp is identified in the lower-center and lower-right regions.
+central region,abnormality seen in center-right and lower-right regions
+central region,"Abnormalities are scattered across central and upper regions, no polyps are noted, and no instruments are present."
+central region,"Abnormalities are distributed across multiple regions including center, upper, and lower quadrants, no polyps are visible, and polyp removal is not applicable."
+left region,abnormalities scattered across multiple regions
+central region,Multiple instruments are visible in central and upper-left regions
+central region,"Abnormalities are scattered across multiple regions including center, upper, and lower areas, with no green/black box artifacts and text present."
+central region,"multiple colors including pink, red, white, and yellow"
+right region,"No polyps remain, one finding is present, and the instrument is positioned in the central and upper-right areas."
+central region,No instruments are visible in the abdominal region.
+central region,"One polyp is present, no instruments are visible, and the abnormality is located in the central and right central regions."
+central region,"No polyps observed, no anatomical landmarks identified, and the image is from a colonoscopy."
+central region,A tube is visible in the central and upper regions of the image.
+central region,"Text is present, a paris ip polyp is identified, and the abnormality is scattered across the central and upper regions of the image."
+central region,"Abnormalities are scattered across multiple regions including central and upper areas, text is visible, and no polyp is present."
+central region,evidence of residual polyps
+central region,Multiple abnormalities are distributed across central and upper regions with bilateral involvement.
+central region,evidence of pedunculated polyp in central and upper-right regions
+central region,No anatomical landmarks are identified in the image.
+central region,Instruments are seen in the central and lower regions with a visible biopsy forceps and a polyp identified.
+central region,"Multiple areas of white, pink, and red discoloration"
+central region,distributed across multiple regions including central and upper areas
+central region,"No anatomical landmarks are visible, one polyp is present, and abnormalities are distributed across multiple regions including center, center-left, center-right, lower-center, lower-left, upper-center, and upper-right."
+no landmark identified,"No green or black box artifacts are present, visible text is noted, and the abnormality is distributed across the central and upper regions."
+no landmark identified,"No green or black box artifacts are present, no instruments are visible, and the abnormality is located in the center-right and upper-right regions."
+central region,"pink, red, white, and yellow lesions"
+central region,"No green or black box artifacts are present, with abnormalities scattered across multiple regions and no instruments visible."
+central region,areas of pink and red discoloration
+central region,"Polyps measuring 11 to 20 millimeters and less than 5 millimeters are present, with a paris ip morphology, scattered across the central and upper regions of the image."
+central region,"Abnormalities are scattered across multiple regions including central and upper areas with no instruments visible and presenting as pink, red, and white lesions."
+central region,"One instrument is observed in the central and upper-right regions, consistent with a colonoscopy procedure."
+central region,"No polyps identified, abnormalities distributed throughout multiple quadrants, and text is present"
+central region,spread across multiple central and lower quadrants
+central region,"No polyps are present, no instruments are visible, and no polyps are measured."
+central region,"Anatomical landmarks are observed in the central, upper-center, and lateral regions, the image is from a gastroscopy procedure, and no instruments are present."
+central region,No polyps observed in the central and upper regions of the image.
+central region,"Mucosal inflammation is present in multiple regions including central and upper areas, consistent with findings from a gastroscopy."
+central region,"located in multiple regions including center, lower-left, and upper-center"
+central region,"No surgical instruments are present, and abnormalities are distributed across multiple regions including central, upper, and lower quadrants."
+no landmark identified,The image shows a colonoscopy with a single abnormality located in the central and lower regions.
+central region,"Multiple abnormalities are distributed across central and upper regions, consistent with ulcerative colitis."
+central region,"One polyp is identified, located in the central and lower regions of the image."
+central region,scattered across central and upper regions
+central region,"Abnormalities are scattered across multiple regions including central, upper, and lower areas with one finding and no polyps identified."
+central region,"No polyps are present, and no anatomical landmark is identified in the image."
+central region,"Anatomical landmarks are distributed in the lower and upper regions, no green/black box artefact is visible, and text is present."
+central region,"No instrument is visible, no green/black box artefact is present, and polyp removal status is not applicable."
+central region,"Abnormalities are scattered across multiple regions, the image is from a colonoscopy, and there is evidence of ulcerative colitis."
+no landmark identified,Polyp measures less than 5 millimeters in size and abnormality is seen in the center-right and upper-right regions
+no landmark identified,"No instruments are visible, no polyp is identified, and anatomical landmarks are distributed across the central and upper regions."
+central region,"No instruments are visible, no polyp is present, and anatomical landmarks are scattered across central and upper regions."
+central region,instrument located in center-right and lower-right regions
+central region,"Abnormalities are scattered across multiple regions including central and upper areas, no instruments are visible, and the z-line is present."
+central region,Abnormalities are scattered across multiple regions including central and upper areas with no polyp detected.
+central region,abnormalities scattered across multiple quadrants
+central region,Single polyp observed in central and upper-right regions
+central region,Red and pink areas are noted in the central and upper-left regions.
+central region,"No polyps are visualized, with the anatomical landmark and abnormality located across multiple quadrants including central, upper, lower, and left regions."
+central region,"No polyps are visualized, with multiple colored abnormalities noted"
+central region,pink and red mucosal changes
+no landmark identified,Multiple abnormalities are distributed across central and upper regions with involvement in lower quadrants.
+central region,"No surgical instruments are present; abnormalities are distributed across multiple regions including central, upper, and lower quadrants."
+central region,"No instrument is visible, no polyps are identified, and the image is from a gastroscopy procedure."
+central region,"Abnormalities are scattered across multiple regions including center, upper, and lower quadrants; no instruments are visible."
+central region,"No polyps observed, and no identifiable anatomical landmark noted."
+lower region,"Instrument is positioned in multiple regions including the center, lower areas, and upper-left; no green/black box artefact observed"
+central region,"Polyps remain in the central region, with a sessile lesion noted."
+central region,"No polyps identified, no anatomical landmarks present, and abnormality distributed across multiple regions."
+no landmark identified,"Text is present, the image is from a colonoscopy, and the abnormality is located in the central region."
+central region,The z-line is visible in the central and upper-central regions with red and pink hues.
+central region,"The polyp measures greater than 20 millimeters, the abnormalities show red, pink, and orange hues, and the instrument is positioned in the lower central and lower right areas."
+central region,"Polyp measuring greater than 20 millimeters is present, one instrument is visible, and the abnormality is located in the central and lower-central regions."
+central region,Multiple polyps are observed scattered across the central and upper regions of the image.
+central region,"One polyp identified, no anatomical landmark noted, and a single finding observed."
+upper region,"Flesh-colored and red lesions are distributed in the central, lower, and upper right regions"
+no landmark identified,Polyps remain in the lower-left and upper-right regions.
+central region,instrument visible in center-left and upper-left regions
+central region,areas show pink and red mucosal changes
+central region,No polyps or instruments are visible in the image.
+central region,"The image is from a colonoscopy with a pink abnormality located in the center-right, lower-right, and upper-right regions."
+central region,"abnormality seen in multiple regions including center, left, and lower areas"
+central region,located in central and upper-central areas
+central region,"Multiple findings are present with no polyps identified, and abnormalities are scattered across central and upper and lower regions."
+left region,"A single instrument is visualized in the central and upper regions, with no green or black box artefact present."
+left region,Dark and white colored lesions present
+central region,abnormality scattered across multiple regions
+central region,"Abnormalities are scattered across multiple regions including central, upper, and lower quadrants, no green or black box artefact is present, and the image was obtained during a gastroscopy."

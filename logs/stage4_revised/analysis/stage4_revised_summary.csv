@@ -1,0 +1,5 @@
+route,question_type,model,test_accuracy,macro_f1,macro_precision,macro_recall,n_correct,n_total,n_classes,pass_90pct,baseline_acc,improvement_pp
+0,Yes / No,DistilBERT,89.02%,0.57,0.7372,0.5544,4183,4699,2,NO,82.00%,+7.02
+1,Single Choice,DistilBERT,13.47%,0.0021,0.0024,0.0036,356,2643,1091,NO,71.00%,-57.53
+2,Multi Choice,DistilBERT,6.31%,0.003,0.0023,0.0053,19,309,437,NO,68.00%,-61.69
+3,Colour,DistilBERT,79.44%,0.2783,0.31,0.2923,1190,1498,8,NO,75.00%,+4.44
