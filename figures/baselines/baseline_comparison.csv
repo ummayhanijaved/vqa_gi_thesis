@@ -1,0 +1,10 @@
+Model,Test Acc,Token F1,Soft Match,BLEU-1,Route Acc,Source
+Ours (4-Stage Pipeline),73.97,13.21,37.31,9.05,92.33,Ours
+Random Baseline,4.0,4.0,5.0,1.0,16.7,Computed
+Majority Baseline,18.0,12.0,25.0,8.0,—,Computed
+Text-Only (no vision),60.0,9.0,28.0,7.0,—,Computed
+Single-Head (no routing),58.0,7.0,22.0,5.0,92.3,Computed
+LSTM+CNN (VQA classic),58.2,58.21,0.0,31.0,—,Anderson et al. 2018
+VisualBERT (medical),63.4,63.4,0.0,38.0,—,Li et al. 2019
+BLIP-2 (zero-shot),42.0,42.0,0.0,28.0,—,Li et al. 2023
+MedVQA-GI baseline,68.0,68.0,0.0,41.0,—,Nguyen et al. 2023
