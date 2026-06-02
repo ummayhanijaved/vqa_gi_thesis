@@ -1,0 +1,21 @@
+\begin{table}[H]
+\centering
+\caption{Phase 1 (MLP) -- six specialised answer heads, one per question category.}
+\label{tab:p1_heads}
+\begin{tabular}{cllr}
+\toprule
+\textbf{Route} & \textbf{Question Type} & \textbf{Head Type} & \textbf{Output Classes} \\
+\midrule
+0 & Yes/No & Binary classifier & 2 \\
+1 & Single Choice & Vocabulary classifier & 200 \\
+2 & Multi Choice & Multi-label classifier & 150 \\
+3 & Colour & Colour palette classifier & 12 \\
+4 & Location & Anatomical site classifier & 15 \\
+5 & Count & Ordinal classifier & 8 \\
+\bottomrule
+\end{tabular}
+\\[0.4em]
+{\footnotesize Each head: \texttt{Linear(535} $\to$ \texttt{256)} $\to$ \texttt{GELU} $\to$
+\texttt{LayerNorm} $\to$ \texttt{Dropout(0.2)} $\to$ \texttt{Linear(256} $\to$
+\texttt{n\_classes)}.}
+\end{table}

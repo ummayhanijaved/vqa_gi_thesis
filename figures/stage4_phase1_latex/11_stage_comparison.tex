@@ -1,0 +1,15 @@
+\begin{table}[H]
+\centering
+\caption{Phase 1 (MLP) full VQA pipeline -- stage-by-stage summary.}
+\label{tab:p1_pipeline}
+\begin{tabular}{llll}
+\toprule
+\textbf{Stage} & \textbf{Component} & \textbf{Architecture} & \textbf{Test Acc.} \\
+\midrule
+Stage 1 & Disease Classification & ResNet50 + MLP & 96.86\% \\
+Stage 2 & Question Categorisation & DistilBERT & 93.01\% \\
+Stage 3 & Multimodal Fusion & Cross-Attn + DiseaseGate + MLP & 92.33\% \\
+Stage 4 (P1) & Answer Gen (MLP) & 6 Specialised MLP heads & 73.97\% \\
+\bottomrule
+\end{tabular}
+\end{table}

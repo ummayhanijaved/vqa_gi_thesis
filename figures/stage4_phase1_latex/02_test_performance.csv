@@ -1,0 +1,7 @@
+route_idx,route,accuracy_pct,n_samples
+0,yes/no,100.0,4699
+1,single-choice,50.59,2643
+2,multiple-choice,33.33,309
+3,color,79.97,1498
+4,location,88.06,2312
+5,numerical count,54.05,4494

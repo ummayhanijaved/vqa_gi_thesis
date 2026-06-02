@@ -1,0 +1,7 @@
+route,n_classes,head_type
+Yes/No,2,Binary classifier
+Single Choice,200,Vocabulary classifier
+Multi Choice,150,Multi-label classifier
+Colour,12,Colour palette classifier
+Location,15,Anatomical site classifier
+Count,8,Ordinal classifier

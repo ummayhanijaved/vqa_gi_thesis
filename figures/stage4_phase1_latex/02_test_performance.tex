@@ -1,0 +1,32 @@
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}
+\begin{axis}[
+    width=14cm, height=8cm, ybar, bar width=22pt,
+    enlarge x limits=0.10, ymin=0, ymax=110,
+    ylabel={Test Accuracy (\%)}, xlabel={Question Category},
+    symbolic x coords={Yes/No, Single Choice, Multi Choice, Colour, Location, Count},
+    xtick=data,
+    nodes near coords, nodes near coords align={vertical},
+    nodes near coords style={font=\footnotesize},
+    every node near coord/.append style={
+        /pgf/number format/precision=2, /pgf/number format/fixed},
+    grid=major, grid style={dashed,gray!30},
+    xticklabel style={rotate=20, anchor=north east, font=\small},
+    title={\textbf{Phase 1 (MLP) Per-Route Test Accuracy}},
+]
+\addplot[fill=teal!60, draw=teal!80!black] coordinates {
+    (Yes/No        , 100.00)
+    (Single Choice , 50.59)
+    (Multi Choice  , 33.33)
+    (Colour        , 79.97)
+    (Location      , 88.06)
+    (Count         , 54.05)
+};
+\end{axis}
+\end{tikzpicture}
+\caption{Phase 1 per-route test accuracy on Kvasir-VQA-x1. Overall accuracy
+is 73.97\%. Yes/No achieves perfect accuracy due to a near-binary distribution;
+multi-choice is the hardest route at 33.33\%.}
+\label{fig:p1_test_performance}
+\end{figure}

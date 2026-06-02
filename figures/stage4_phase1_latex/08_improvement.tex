@@ -1,0 +1,32 @@
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}
+\begin{axis}[
+    width=14cm, height=7cm, ybar, bar width=18pt,
+    enlarge x limits=0.05, ymin=0, ymax=80,
+    ylabel={Absolute Improvement (pp)}, xlabel={Baseline / Published Model},
+    symbolic x coords={Random, Majority, Text-Only, Single-Head, LSTM+CNN, VisualBERT, BLIP-2, MedVQA-GI},
+    xtick=data,
+    nodes near coords, nodes near coords style={font=\footnotesize},
+    every node near coord/.append style={
+        /pgf/number format/precision=1, /pgf/number format/fixed},
+    grid=major, grid style={dashed,gray!30},
+    xticklabel style={rotate=20, anchor=north east, font=\small},
+    title={\textbf{Phase 1 Accuracy Improvement Over Each Baseline}},
+]
+\addplot[fill=green!50!black, draw=black] coordinates {
+    (Random        , 69.97)
+    (Majority      , 55.97)
+    (Text-Only     , 13.97)
+    (Single-Head   , 15.97)
+    (LSTM+CNN      , 15.77)
+    (VisualBERT    , 10.57)
+    (BLIP-2        , 31.97)
+    (MedVQA-GI     , 5.97)
+};
+\end{axis}
+\end{tikzpicture}
+\caption{Absolute accuracy improvement (in percentage points) of the Phase 1
+pipeline over each controlled and published baseline.}
+\label{fig:p1_improvement}
+\end{figure}

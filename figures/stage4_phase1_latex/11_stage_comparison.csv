@@ -1,0 +1,5 @@
+stage,component,architecture,accuracy_pct
+Stage 1,Disease Classification,ResNet50 + MLP,96.86
+Stage 2,Question Categorisation,DistilBERT,93.01
+Stage 3,Multimodal Fusion,Cross-Attn + DiseaseGate + MLP,92.33
+Stage 4 (P1),Answer Gen (MLP),6 Specialised MLP heads,73.97

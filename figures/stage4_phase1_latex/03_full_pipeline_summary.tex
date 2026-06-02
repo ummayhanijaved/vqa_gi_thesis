@@ -1,0 +1,29 @@
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}
+\begin{axis}[
+    width=12cm, height=7cm, ybar, bar width=32pt,
+    ymin=0, ymax=105,
+    ylabel={Test Accuracy (\%)}, xlabel={Pipeline Stage},
+    symbolic x coords={Stage 1, Stage 2, Stage 3, Stage 4 (P1)},
+    xtick=data,
+    nodes near coords, nodes near coords align={vertical},
+    nodes near coords style={font=\small\bfseries},
+    every node near coord/.append style={
+        /pgf/number format/precision=2, /pgf/number format/fixed},
+    grid=major, grid style={dashed,gray!30},
+    title={\textbf{Phase 1 -- Full Pipeline (Stage 1 to Stage 4)}},
+]
+\addplot[fill=teal!70, draw=teal!90!black] coordinates {
+    (Stage 1       , 96.86)
+    (Stage 2       , 93.01)
+    (Stage 3       , 92.33)
+    (Stage 4 (P1)  , 73.97)
+};
+\end{axis}
+\end{tikzpicture}
+\caption{Phase 1 full pipeline accuracy. Each stage performs strongly with
+graceful degradation toward Stage 4 where six different answer-generation
+sub-tasks are combined.}
+\label{fig:p1_full_pipeline}
+\end{figure}

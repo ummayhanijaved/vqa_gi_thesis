@@ -1,0 +1,25 @@
+\begin{table}[H]
+\centering
+\caption{Phase 1 (MLP) pipeline compared against four controlled baselines and
+four published medical VQA models on Kvasir-VQA-x1.}
+\label{tab:p1_ablation}
+\begin{tabular}{lrrrr}
+\toprule
+\textbf{Model} & \textbf{Acc.\,(\%)} & \textbf{Token F1} & \textbf{Soft Match} & \textbf{BLEU-1} \\
+\midrule
+Ours (4-Stage Pipeline) & 73.97 & 13.21 & 37.31 &  9.05 \\
+\midrule
+\multicolumn{5}{l}{\emph{Controlled baselines}} \\
+Random Baseline &  4.00 &  4.00 &  5.00 &  1.00 \\
+Majority Baseline & 18.00 & 12.00 & 25.00 &  8.00 \\
+Text-Only (no vision) & 60.00 &  9.00 & 28.00 &  7.00 \\
+Single-Head (no routing) & 58.00 &  7.00 & 22.00 &  5.00 \\
+\midrule
+\multicolumn{5}{l}{\emph{Published medical VQA models}} \\
+LSTM+CNN VQA classic & 58.20 & 58.21 & - & 31.00 \\
+VisualBERT medical & 63.40 & 63.40 & - & 38.00 \\
+BLIP-2 zero-shot & 42.00 & 42.00 & - & 28.00 \\
+MedVQA-GI baseline & 68.00 & 68.00 & - & 41.00 \\
+\bottomrule
+\end{tabular}
+\end{table}

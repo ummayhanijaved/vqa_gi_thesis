@@ -1,0 +1,9 @@
+vs_model,ours_acc,their_acc,delta_pp
+Random Baseline,73.97,4.0,69.97
+Majority Baseline,73.97,18.0,55.97
+Text-Only (no vision),73.97,60.0,13.97
+Single-Head (no routing),73.97,58.0,15.97
+LSTM+CNN VQA classic,73.97,58.2,15.77
+VisualBERT medical,73.97,63.4,10.57
+BLIP-2 zero-shot,73.97,42.0,31.97
+MedVQA-GI baseline,73.97,68.0,5.97

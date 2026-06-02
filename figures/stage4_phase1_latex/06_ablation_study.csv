@@ -1,0 +1,10 @@
+model,accuracy_pct,token_f1,soft_match,bleu1,source
+Ours (4-Stage Pipeline),73.97,13.21,37.31,9.05,Ours
+Random Baseline,4.0,4.0,5.0,1.0,Computed
+Majority Baseline,18.0,12.0,25.0,8.0,Computed
+Text-Only (no vision),60.0,9.0,28.0,7.0,Computed
+Single-Head (no routing),58.0,7.0,22.0,5.0,Computed
+LSTM+CNN VQA classic,58.2,58.21,0.0,31.0,Anderson 2018
+VisualBERT medical,63.4,63.4,0.0,38.0,Li 2019
+BLIP-2 zero-shot,42.0,42.0,0.0,28.0,Li 2023
+MedVQA-GI baseline,68.0,68.0,0.0,41.0,Nguyen 2023

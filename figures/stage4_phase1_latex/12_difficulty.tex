@@ -1,0 +1,30 @@
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}
+\begin{axis}[
+    width=13cm, height=7cm, xbar, bar width=18pt,
+    xmin=0, xmax=110,
+    xlabel={Test Accuracy (\%)},
+    symbolic y coords={Multi Choice, Single Choice, Count, Colour, Location, Yes/No},
+    ytick=data,
+    nodes near coords, nodes near coords style={font=\footnotesize},
+    every node near coord/.append style={
+        /pgf/number format/precision=2, /pgf/number format/fixed},
+    grid=major, grid style={dashed,gray!30},
+    title={\textbf{Phase 1 Routes Ranked by Difficulty (Hardest First)}},
+]
+\addplot[fill=orange!60, draw=orange!80!black] coordinates {
+    (Multi Choice  , 33.33)
+    (Single Choice , 50.59)
+    (Count         , 54.05)
+    (Colour        , 79.97)
+    (Location      , 88.06)
+    (Yes/No        , 100.00)
+};
+\end{axis}
+\end{tikzpicture}
+\caption{Phase 1 routes ranked by test accuracy (lowest first). Multi Choice
+is hardest at 33.33\% due to its sparse multi-label nature; Yes/No saturates
+at 100.00\% due to dataset class imbalance.}
+\label{fig:p1_difficulty}
+\end{figure}

@@ -1,0 +1,7 @@
+route,accuracy_pct,n_samples
+Yes/No,100.0,4699
+Single Choice,50.59,2643
+Multi Choice,33.33,309
+Colour,79.97,1498
+Location,88.06,2312
+Count,54.05,4494

@@ -1,0 +1,33 @@
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}
+\begin{axis}[
+    width=15cm, height=8cm, ybar, bar width=14pt,
+    enlarge x limits=0.05, ymin=0, ymax=85,
+    ylabel={Test Accuracy (\%)}, xlabel={Model},
+    symbolic x coords={Ours, Random, Majority, Text-Only, Single-Head, LSTM+CNN, VisualBERT, BLIP-2, MedVQA-GI},
+    xtick=data,
+    nodes near coords, nodes near coords style={font=\scriptsize},
+    every node near coord/.append style={
+        /pgf/number format/precision=2, /pgf/number format/fixed},
+    grid=major, grid style={dashed,gray!30},
+    xticklabel style={rotate=30, anchor=north east, font=\footnotesize},
+    title={\textbf{Phase 1 Ablation Study and Literature Comparison}},
+]
+\addplot[fill=teal!60, draw=teal!80!black] coordinates {
+    (Ours          , 73.97)
+    (Random        , 4.00)
+    (Majority      , 18.00)
+    (Text-Only     , 60.00)
+    (Single-Head   , 58.00)
+    (LSTM+CNN      , 58.20)
+    (VisualBERT    , 63.40)
+    (BLIP-2        , 42.00)
+    (MedVQA-GI     , 68.00)
+};
+\end{axis}
+\end{tikzpicture}
+\caption{Phase 1 4-stage pipeline (73.97\%) compared against four controlled
+baselines and four published medical VQA models on Kvasir-VQA-x1.}
+\label{fig:p1_ablation_chart}
+\end{figure}

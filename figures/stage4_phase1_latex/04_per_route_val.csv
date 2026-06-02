@@ -1,0 +1,55 @@
+epoch,route,val_acc
+1,yes/no,1.0
+1,single-choice,0.5004
+1,multiple-choice,0.2874
+1,color,0.7938
+1,location,0.8754
+1,numerical count,0.4644
+2,yes/no,1.0
+2,single-choice,0.5135
+2,multiple-choice,0.2874
+2,color,0.7938
+2,location,0.8754
+2,numerical count,0.4782
+3,yes/no,1.0
+3,single-choice,0.5108
+3,multiple-choice,0.2857
+3,color,0.7938
+3,location,0.8751
+3,numerical count,0.4378
+4,yes/no,1.0
+4,single-choice,0.5159
+4,multiple-choice,0.2857
+4,color,0.7938
+4,location,0.8756
+4,numerical count,0.5437
+5,yes/no,1.0
+5,single-choice,0.5245
+5,multiple-choice,0.2857
+5,color,0.7938
+5,location,0.8787
+5,numerical count,0.479
+6,yes/no,1.0
+6,single-choice,0.529
+6,multiple-choice,0.2874
+6,color,0.7938
+6,location,0.8754
+6,numerical count,0.4406
+7,yes/no,1.0
+7,single-choice,0.5252
+7,multiple-choice,0.2874
+7,color,0.7938
+7,location,0.8723
+7,numerical count,0.4634
+8,yes/no,1.0
+8,single-choice,0.5383
+8,multiple-choice,0.294
+8,color,0.7938
+8,location,0.8818
+8,numerical count,0.4637
+9,yes/no,1.0
+9,single-choice,0.5228
+9,multiple-choice,0.289
+9,color,0.7938
+9,location,0.8832
+9,numerical count,0.5134
