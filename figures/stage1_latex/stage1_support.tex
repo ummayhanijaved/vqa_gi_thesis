@@ -1,0 +1,46 @@
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}
+\begin{axis}[
+    xbar, width=0.8\linewidth, height=11cm,
+    title={\textbf{Stage 1 --- Per-Class Support (test set)}},
+    xlabel={Number of positive samples},
+    ytick=data, symbolic y coords={
+        foreign-body
+        normal-z-line
+        normal-pylorus
+        normal-cecum
+        retroflex-rectum
+        retroflex-stomach
+        ileocecal-valve
+        dyed-lifted-polyp
+        dyed-resection-margins
+        hemorrhoid
+        diverticulum
+        erosion
+        gastritis
+        esophagitis
+        ulcerative-colitis
+        crohns-disease
+        barretts-esophagus
+        gastric-ulcer
+        duodenal-ulcer
+        instrument
+        polyp-pedunculated
+        polyp-hyperplastic
+        polyp-sessile
+    },
+    y dir=reverse,
+    nodes near coords, nodes near coords style={font=\scriptsize},
+    tick label style={font=\scriptsize}, label style={font=\small},
+    title style={font=\small\bfseries}, grid=major, grid style={gray!20},
+    bar width=5pt,
+]
+\addplot[fill=orange!70, draw=orange!80] coordinates {(3387,foreign-body) (3524,normal-z-line) (3524,normal-pylorus) (3524,normal-cecum) (3524,retroflex-rectum) (3524,retroflex-stomach) (3524,ileocecal-valve) (3546,dyed-lifted-polyp) (3546,dyed-resection-margins) (3586,hemorrhoid) (3586,diverticulum) (3635,erosion) (3635,gastritis) (3635,esophagitis) (3635,ulcerative-colitis) (3635,crohns-disease) (3635,barretts-esophagus) (3635,gastric-ulcer) (3635,duodenal-ulcer) (3681,instrument) (3709,polyp-pedunculated) (3709,polyp-hyperplastic) (3709,polyp-sessile)};
+\end{axis}
+\end{tikzpicture}
+\caption[Stage 1 per-class support]{Per-class support (number of positive test
+images per disease). Classes with very low support should be read alongside
+their F1 in Figure~\ref{fig:stage1_per_class_f1}.}
+\label{fig:stage1_support}
+\end{figure}

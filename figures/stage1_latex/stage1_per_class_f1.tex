@@ -1,0 +1,45 @@
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}
+\begin{axis}[
+    xbar, width=0.8\linewidth, height=11cm,
+    title={\textbf{Stage 1 --- Per-Class F1 (test set)}},
+    xlabel={F1-score}, xmin=0, xmax=1.05,
+    ytick=data, symbolic y coords={
+        foreign-body
+        normal-cecum
+        normal-z-line
+        ileocecal-valve
+        retroflex-rectum
+        retroflex-stomach
+        normal-pylorus
+        dyed-lifted-polyp
+        dyed-resection-margins
+        hemorrhoid
+        diverticulum
+        duodenal-ulcer
+        esophagitis
+        barretts-esophagus
+        crohns-disease
+        gastritis
+        gastric-ulcer
+        ulcerative-colitis
+        erosion
+        instrument
+        polyp-pedunculated
+        polyp-hyperplastic
+        polyp-sessile
+    },
+    y dir=reverse,
+    nodes near coords, nodes near coords style={font=\scriptsize},
+    tick label style={font=\scriptsize}, label style={font=\small},
+    title style={font=\small\bfseries}, grid=major, grid style={gray!20},
+    bar width=5pt,
+]
+\addplot[fill=teal!70, draw=teal!80] coordinates {(0.939,foreign-body) (0.958,normal-cecum) (0.959,normal-z-line) (0.959,ileocecal-valve) (0.959,retroflex-rectum) (0.959,retroflex-stomach) (0.959,normal-pylorus) (0.962,dyed-lifted-polyp) (0.962,dyed-resection-margins) (0.967,hemorrhoid) (0.967,diverticulum) (0.974,duodenal-ulcer) (0.974,esophagitis) (0.974,barretts-esophagus) (0.974,crohns-disease) (0.974,gastritis) (0.974,gastric-ulcer) (0.974,ulcerative-colitis) (0.975,erosion) (0.980,instrument) (0.984,polyp-pedunculated) (0.984,polyp-hyperplastic) (0.984,polyp-sessile)};
+\end{axis}
+\end{tikzpicture}
+\caption[Stage 1 per-class F1]{Stage~1 per-class F1 on the test set
+(4{,}058 unique images). Macro-F1 = 0.9686, micro-F1 = 0.9687.}
+\label{fig:stage1_per_class_f1}
+\end{figure}
