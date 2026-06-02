@@ -1,8 +1,8 @@
 # Advancing Medical AI with Explainable VQA on GI Imaging
 
 **Author:** Ummay Hani Javed (24i-8211)
-**Institution:** [University Name]
-**Year:** 2025
+**Institution:** [National University of Computer and Emerging Sciences]
+**Year:** 2026
 **Repository:** https://github.com/ummayhanijaved/vqa_gi_thesis
 
 ---
@@ -248,8 +248,8 @@ Stage 7 output: Grad-CAM heatmap -> logs/stage7_gradcam/
 @thesis{javed2025vqa,
   title  = {Advancing Medical AI with Explainable VQA on GI Imaging},
   author = {Javed, Ummay Hani},
-  year   = {2025},
-  school = {[University Name]},
+  year   = {2026},
+  school = {[National University of Computer and Emerging Sciences]},
   type   = {Master's Thesis}
 }
 ```
